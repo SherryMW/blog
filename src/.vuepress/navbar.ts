@@ -7,6 +7,11 @@ export default navbar([
         link: "/",
     },
     {
+        text: "收藏",
+        icon: "star",
+        link: "/collection/"
+    },
+    {
         text: "友情链接",
         icon: "comments",
         link: "/friends"
