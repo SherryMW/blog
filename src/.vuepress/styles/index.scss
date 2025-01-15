@@ -1,0 +1,5 @@
+// place your custom styles here
+// 取消博客首页Banner灰度
+.vp-blog-mask::after {
+  background: var(--light);
+}
