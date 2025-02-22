@@ -3,6 +3,15 @@ import {hopeTheme} from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
+process.env.TZ = "Asia/Shanghai";
+const response = await fetch("https://api.github.com/repos/SherryMW/blog/commits", {
+    headers: {
+        Authorization: `${process.env.GITHUB_TOKEN}`
+    }
+}).then(res => res.json());
+const date = new Date(response[0].commit.author.date);
+const commitDate = date.getFullYear() + "年" + (date.getMonth() + 1) + "月" + date.getDate() + "日 " + date.getHours() + ":" + ("0" + date.getMinutes()).slice(-2);
+
 export default hopeTheme({
     hostname: "https://blog.sherry4869.com", // 当前网站部署到的域名
     author: {
@@ -21,7 +30,7 @@ export default hopeTheme({
     // 博客相关
     blog: {
         avatar: "/avatar.jpg", // 头像
-        description: "",
+        description: "过往不恋 未来不迎<br/><br/>上次更新：" + commitDate + "",
         intro: "", // 填写后点击头像或作者名称进入个人介绍页的界面地址
         medias: {
             Wechat: "https://img.sherry4869.com/blog/public/wechat.jpg",
@@ -32,8 +41,8 @@ export default hopeTheme({
     },
     // 加密配置
     encrypt: {
-        global: true,
-        admin: "MW8888",
+        // global: true,
+        // admin: "MW8888",
     },
     markdown: {
         tabs: true, // 选项卡
@@ -51,10 +60,10 @@ export default hopeTheme({
         },
         slimsearch: true,
         components: {
-            components: ["VPCard"]
+            components: ["VPCard", "PDF"]
         },
         icon: {
-            assets: "fontawesome-with-brands",
+            assets: "fontawesome-with-brands", // https://fontawesome.com/search
         },
         // 版权信息插件配置
         copyright: {

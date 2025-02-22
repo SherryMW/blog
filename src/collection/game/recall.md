@@ -6,7 +6,21 @@ article: false
 
 Steam 工具箱 Watt Toolkit（原名 Steam++）：[https://steampp.net](https://steampp.net/)
 
-修改器：[https://flingtrainer.com](https://flingtrainer.com/)
+游戏修改器：[https://flingtrainer.com](https://flingtrainer.com/)
+
+Steam 动态背景：[https://steam.design](https://steam.design/)
+
+艺术作品展柜代码：
+
+```js
+$J('#image_width').val(1000).attr('id',''),$J('#image_height').val(1).attr('id','');
+```
+
+隐藏名字代码：
+
+```js
+v_trim=_=>{return _},$J('#title').val(' \n'+Array.from(Array(126),_=>'\t').join(''));
+```
 
 ## 英雄联盟
 

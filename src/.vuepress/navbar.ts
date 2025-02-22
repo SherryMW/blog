@@ -7,6 +7,11 @@ export default navbar([
         link: "/",
     },
     {
+        text: "生活",
+        icon: "camera",
+        link: "/life/"
+    },
+    {
         text: "收藏",
         icon: "star",
         link: "/collection/"

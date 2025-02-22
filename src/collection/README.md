@@ -30,14 +30,10 @@ article: false
 
 每年4月中旬颁奖
 
-### [回忆](movies/recall/chinese-mainland.md)
-
-### [资源](movies/resource.md)
-
-### [全球IMAX及特效影厅分布](movies/auditorium.md)
-
 ## 游戏
 
 ### [TGA](game/tga)
 
-### [回忆](game/recall)
+官网：[https://thegameawards.com](https://thegameawards.com/)
+
+每年12月初颁奖
