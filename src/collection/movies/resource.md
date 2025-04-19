@@ -14,23 +14,15 @@ article: false
 
 ## 低端影视
 
-发布页：[https://ddys.info](https://ddys.info/)
-
 官网：[https://ddys.pro](https://ddys.pro/) / [https://ddys.one](https://ddys.one/)
-
-## 剧狗狗
-
-发布页：[https://www.jugougou.vip](https://www.jugougou.vip/)
-
-官网：[https://www.jugougou.me](https://www.jugougou.me/)
-
-## 音范丝
-
-官网：[https://www.yinfans.me](https://www.yinfans.me/)
 
 ## MINI4K迷客电影
 
 官网：[https://www.mini4k.com](https://www.mini4k.com/)
+
+## 音范丝
+
+官网：[https://www.yinfans.me](https://www.yinfans.me/)
 
 ## grab4k
 

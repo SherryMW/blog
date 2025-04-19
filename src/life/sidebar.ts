@@ -14,64 +14,84 @@ export const LifeSidebar = arraySidebar([
                     "2025", "2024", "2022"
                 ]
             },
-            "trail-running.md"
-            // "sex.md"
+            {
+                text: "跑步",
+                prefix: "running/",
+                collapsible: true,
+                children: [
+                    "2025", "2024"
+                ]
+            }
         ]
     },
-    // {
-    //     text: "美食",
-    //     prefix: "food/china/guangdong/",
-    //     collapsible: true,
-    //     children: [
-    //         {
-    //             text: "广州",
-    //             prefix: "guangzhou/",
-    //             collapsible: true,
-    //             children: [
-    //                 {
-    //                     text: "越秀",
-    //                     prefix: "yx/",
-    //                     collapsible: true,
-    //                     children: "structure"
-    //                 },
-    //                 {
-    //                     text: "天河",
-    //                     prefix: "th/",
-    //                     collapsible: true,
-    //                     children: "structure"
-    //                 },
-    //                 {
-    //                     text: "白云",
-    //                     prefix: "by/",
-    //                     collapsible: true,
-    //                     children: "structure"
-    //                 },
-    //                 {
-    //                     text: "荔湾",
-    //                     prefix: "lw/",
-    //                     collapsible: true,
-    //                     children: "structure"
-    //                 },
-    //                 {
-    //                     text: "海珠",
-    //                     prefix: "hz/",
-    //                     collapsible: true,
-    //                     children: "structure"
-    //                 },
-    //                 {
-    //                     text: "番禺",
-    //                     prefix: "py/",
-    //                     collapsible: true,
-    //                     children: "structure"
-    //                 },
-    //                 {
-    //                     text: "黄埔",
-    //                     prefix: "hp/",
-    //                     collapsible: true,
-    //                     children: "structure"
-    //                 }
-    //             ]
-    //         }
-    //     ]
-    // }
+    {
+        text: "美食",
+        prefix: "food/china/guangdong/",
+        collapsible: true,
+        children: [
+            {
+                text: "广州",
+                prefix: "guangzhou/",
+                collapsible: true,
+                children: [
+                    {
+                        text: "越秀",
+                        prefix: "yx/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "天河",
+                        prefix: "th/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "白云",
+                        prefix: "by/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "荔湾",
+                        prefix: "lw/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "海珠",
+                        prefix: "hz/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "番禺",
+                        prefix: "py/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "黄埔",
+                        prefix: "hp/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "从化",
+                        prefix: "ch/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    "bread-dessert.md",
+                    "drink.md"
+                ]
+            },
+            {
+                text: "深圳",
+                prefix: "shenzhen/",
+                collapsible: true,
+                children: "structure"
+            }
+        ]
+    }
 ])

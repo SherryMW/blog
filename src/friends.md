@@ -29,8 +29,8 @@ background: rgba(253, 230, 138, 0.15)
 **本站信息**
 
 - 本站名称：MW Blog
-- 本站地址：https://blog.sherry4869.com
-- 本站图标：https://img.sherry4869.com/blog/public/logo.svg
+- 本站地址：[https://blog.sherry4869.com](https://blog.sherry4869.com)
+- 本站图标：[https://img.sherry4869.com/blog/public/logo.svg](https://img.sherry4869.com/blog/public/logo.svg)
 
 **欢迎友链 申请格式**
 

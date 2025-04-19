@@ -12,8 +12,6 @@ article: false
 
 退堂鼓一级表演艺术家
 
-ITRA 积分：1
-
 ## 关于博客
 
 主题：[VuePress-Theme-Hope](https://theme-hope.vuejs.press/zh/)

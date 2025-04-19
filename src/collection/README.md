@@ -4,9 +4,9 @@ article: false
 
 # 收藏
 
-## 电影
+## 影视
 
-### [奥斯卡金像奖](movies/oscars/2024.md)
+### [奥斯卡金像奖](movies/oscars/2025.md)
 
 官网：[https://www.oscars.org](https://www.oscars.org/)
 

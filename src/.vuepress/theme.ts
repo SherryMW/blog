@@ -24,7 +24,9 @@ export default hopeTheme({
     docsDir: "src", // 文档在仓库中的目录
     navbar, // 导航栏
     sidebar, // 侧边栏
-    pageInfo: ["Author", "Category", "Tag"], // 文章中顶部展示的相关标识信息
+    pageInfo: ["Author", "Date", "Category", "Tag"], // 文章中顶部展示的相关标识信息
+    contributors: false, // 是否显示页面贡献者
+    lastUpdated: false, // 是否显示页面最后更新时间
     breadcrumb: false, // 是否全局启用路径导航
     editLink: false, // 是否展示编辑此页
     // 博客相关
@@ -41,8 +43,8 @@ export default hopeTheme({
     },
     // 加密配置
     encrypt: {
-        // global: true,
-        // admin: "MW8888",
+        global: true,
+        admin: "MW8888"
     },
     markdown: {
         tabs: true, // 选项卡
@@ -63,7 +65,7 @@ export default hopeTheme({
             components: ["VPCard", "PDF"]
         },
         icon: {
-            assets: "fontawesome-with-brands", // https://fontawesome.com/search
+            assets: "fontawesome", // https://fontawesome.com/search
         },
         // 版权信息插件配置
         copyright: {
