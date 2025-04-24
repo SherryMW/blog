@@ -364,6 +364,10 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/tbmd/4.JPEG)
 
+@tab 奥地利香蒜鸡扒
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/tbmd/5.JPEG)
+
 @tab 雪花牛排
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/tbmd/1.JPEG)
@@ -381,6 +385,7 @@ article: false
 - [x] 经典招牌牛扒
 - [x] 雪花牛排
 - [x] 西冷牛排
+- [x] 奥地利香蒜鸡扒
 - [x] 威尼斯蜜汁鸡扒
 - [x] 番茄汁鸡扒炒意面
 - [x] 意大利肉酱面
