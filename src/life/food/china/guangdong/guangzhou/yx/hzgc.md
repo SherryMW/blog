@@ -10,6 +10,10 @@ article: false
 
 ::: tabs
 
+@tab 香煎法国银鳕鱼
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/ydsf/5.JPEG)
+
 @tab 法国鹅肝酱龙口粉丝
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/ydsf/1.JPEG)
@@ -28,6 +32,7 @@ article: false
 
 :::
 
+- [x] 香煎法国银鳕鱼 ✨
 - [x] 法国鹅肝酱龙口粉丝 ✨
 - [x] 茄子焖挪威三文鱼骨腩 ✨
 - [x] 盐焗猪仔肚 ✨

@@ -7,6 +7,56 @@ export const CollectionSidebar = arraySidebar([
         collapsible: true,
         children: [
             {
+                text: "回忆",
+                prefix: "recall/",
+                collapsible: true,
+                children: [
+                    {
+                        text: "中国大陆",
+                        prefix: "chinese-mainland/",
+                        collapsible: true,
+                        children: ["movie", "tv", "cartoon"]
+                    },
+                    {
+                        text: "中国香港",
+                        prefix: "hongkong/",
+                        collapsible: true,
+                        children: ["movie", "tv"]
+                    },
+                    {
+                        text: "中国台湾",
+                        prefix: "chinese-taiwan/",
+                        collapsible: true,
+                        children: ["movie", "tv"]
+                    },
+                    {
+                        text: "美国",
+                        prefix: "america/",
+                        collapsible: true,
+                        children: ["movie", "tv", "cartoon"]
+                    },
+                    {
+                        text: "韩国",
+                        prefix: "korea/",
+                        collapsible: true,
+                        children: ["movie", "tv"]
+                    },
+                    {
+                        text: "日本",
+                        prefix: "japan/",
+                        collapsible: true,
+                        children: ["movie", "tv", "cartoon"]
+                    },
+                    {
+                        text: "西班牙",
+                        prefix: "spain/",
+                        collapsible: true,
+                        children: ["movie", "tv"]
+                    },
+                    "india", "italy", "thailand", "britain", "france"
+                ]
+            },
+            {
                 text: "奥斯卡金像奖",
                 prefix: "oscars/",
                 collapsible: true,
@@ -41,19 +91,11 @@ export const CollectionSidebar = arraySidebar([
                 prefix: "hkfaa/",
                 collapsible: true,
                 children: [
-                    "2024", "2023", "2021", "2020",
+                    "2025", "2024", "2023", "2021", "2020",
                     "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010",
                     "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000",
                     "1999", "1998", "1997", "1996", "1995", "1994", "1993", "1992", "1991", "1990",
                     "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982"
-                ]
-            },
-            {
-                text: "回忆",
-                prefix: "recall/",
-                collapsible: true,
-                children: [
-                    "chinese-mainland", "hongkong", "taiwan", "america", "korea", "japan", "india", "thailand", "spain", "italy", "britain", "france"
                 ]
             },
             "resource",
@@ -61,9 +103,15 @@ export const CollectionSidebar = arraySidebar([
         ]
     },
     {
+        text: "小说",
+        prefix: "novel/",
+        collapsible: true,
+        children: ["korea"]
+    },
+    {
         text: "游戏",
         prefix: "game/",
         collapsible: true,
-        children: ["tga", "recall"]
+        children: ["recall", "tools", "tga"]
     }
 ])

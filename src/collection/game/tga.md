@@ -4,6 +4,10 @@ article: false
 
 # TGA
 
+官网：[https://thegameawards.com](https://thegameawards.com/)
+
+每年12月初颁奖
+
 ## 2024
 
 年度最佳游戏：《宇宙机器人》

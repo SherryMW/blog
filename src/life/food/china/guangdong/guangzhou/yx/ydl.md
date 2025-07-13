@@ -11,9 +11,15 @@ article: false
 - [x] 招牌虾饺皇
 - [x] 豉汁蒸凤爪
 - [x] 蒸武门云吞
+- [x] 爽滑牛肉丸
+- [x] 煎焗生肉包
+- [x] 脆皮甜薄餐
 - [x] 上海小笼包
+- [x] XO萝卜糕
+- [x] 韭菜猪红
 - [x] 荔湾艇仔粥
 - [x] 三丝炒面
+- [x] 牛腩捞面
 
 ## 和府捞面
 
@@ -70,5 +76,5 @@ article: false
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFHFHFI6" target="_blank">大德路298号之1号</a>
 
 - [x] 绿豆咸肉蛋黄粽 ✨
-- [x] 濑粉 ✨
+- [x] 濑粉
 - [x] 牛腩布拉肠

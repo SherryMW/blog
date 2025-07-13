@@ -99,7 +99,7 @@ article: false
 - [x] 老长沙香肠
 - [x] 红糖粑粑
 
-## TURBO 德保餐厅
+## TURBO 德保餐厅（歇业）
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0HUV94AUX" target="_blank">长兴路13号</a>
 

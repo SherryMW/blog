@@ -14,7 +14,7 @@ article: false
 
 ## 低端影视
 
-官网：[https://ddys.pro](https://ddys.pro/) / [https://ddys.one](https://ddys.one/)
+官网：[https://ddys.pro](https://ddys.pro/)
 
 ## MINI4K迷客电影
 

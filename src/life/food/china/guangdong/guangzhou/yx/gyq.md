@@ -106,9 +106,9 @@ article: false
 
 :::
 
-- [x] 白切鸡
 - [x] 松子鱼 ✨
 - [x] 脆皮炸大肠 ✨
+- [x] 白切鸡
 - [x] 凉拌鱼皮
 
 ## 今崎烧·寿喜烧专门店
@@ -129,8 +129,8 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J147XFET" target="_blank">府学西街81号</a>
 
-- [x] 金汤花胶鸡
 - [x] 咸蛋黄焗罗氏虾 ✨
+- [x] 金汤花胶鸡
 - [x] 上汤时令青菜
 - [x] 猪油捞饭
 

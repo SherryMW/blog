@@ -29,6 +29,7 @@ export default hopeTheme({
     lastUpdated: false, // 是否显示页面最后更新时间
     breadcrumb: false, // 是否全局启用路径导航
     editLink: false, // 是否展示编辑此页
+    darkmode: "disable", // 深色模式
     // 博客相关
     blog: {
         avatar: "/avatar.jpg", // 头像
@@ -42,15 +43,16 @@ export default hopeTheme({
         articleInfo: ["Author", "Date", "Category", "Tag"] // 博客主页列表中展示的文章相关标识信息
     },
     // 加密配置
-    encrypt: {
-        global: true,
-        admin: "MW8888"
-    },
+    // encrypt: {
+    //     global: true,
+    //     admin: "MW8888"
+    // },
     markdown: {
         tabs: true, // 选项卡
         tasklist: true, // 任务列表
         figure: true, // 图片描述
-        component: true
+        component: true, // 组件（VPCard）
+        echarts: true // 图表
     },
     // 在这里配置主题提供的插件
     plugins: {

@@ -53,11 +53,29 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFJ9SWK8" target="_blank">天河路218号天环广场B2-19b铺</a>
 
+::: tabs
+
+@tab 始创黑叉烧
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/xbs/1.JPEG)
+
+@tab 海苔脆皮九肚鱼
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/xbs/2.JPEG)
+
+@tab 菠萝包
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/xbs/3.JPEG)
+
+:::
+
 - [x] 始创黑叉烧 ✨
 - [x] 黑松露脆皮文昌鸡 ✨
 - [x] 招积茄子 ✨
+- [x] 海苔脆皮九肚鱼
 - [x] 鱼香肉汁蒸山水豆腐
 - [x] 西洋参炖老鸡汤
+- [x] 菠萝包
 
 ## 敏华冰厅
 

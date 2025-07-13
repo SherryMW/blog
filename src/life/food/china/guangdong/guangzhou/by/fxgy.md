@@ -4,53 +4,15 @@ article: false
 
 # 飞翔公园
 
-## 椰林海鲜码头
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0IU1SYRRK" target="_blank">云城南二路无限极广场B座3层</a>
-
-::: tabs
-
-@tab 超罗虾炭烧
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/1.JPEG)
-
-@tab 码头生煎包
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/4.jpg)
-
-@tab 九肚鱼脆炸
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/2.JPEG)
-
-@tab 啫啫牛肉
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/3.JPEG)
-
-@tab 脆皮乳鸽
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/5.jpg)
-
-@tab 海胆炒饭
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/6.jpg)
-
-:::
-
-- [x] 超罗虾炭烧 ✨
-- [x] 带子蒜蓉粉丝蒸 ✨
-- [x] 九肚鱼脆炸
-- [x] 海胆原只蒸蛋
-- [x] 脆皮乳鸽
-- [x] 卤水拼盘
-- [x] 啫啫牛肉 ✨
-- [x] 码头生煎包 ✨
-- [x] 海胆炒饭
-
 ## 海南城
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00140BE62" target="_blank">机场路284号海南城三楼</a>
 
 ::: tabs
+
+@tab 酒酱小青龙
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/hnc/16.JPEG)
 
 @tab 鲍汁鲜虾腐皮卷
 
@@ -130,11 +92,54 @@ article: false
 - [x] 金莎萝卜糕
 - [x] 椰子饭
 - [x] 海南椰香果
+- [x] 酒酱小青龙 ✨
 - [x] 古法羊腩煲
 - [x] 烧鹅
 - [x] 蒜香骨
 - [x] 海南捞粉
 - [x] 三丝炒面
+
+## 椰林海鲜码头
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0IU1SYRRK" target="_blank">云城南二路无限极广场B座3层</a>
+
+::: tabs
+
+@tab 超罗虾炭烧
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/1.JPEG)
+
+@tab 码头生煎包
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/4.jpg)
+
+@tab 九肚鱼脆炸
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/2.JPEG)
+
+@tab 啫啫牛肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/3.JPEG)
+
+@tab 脆皮乳鸽
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/5.jpg)
+
+@tab 海胆炒饭
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/6.jpg)
+
+:::
+
+- [x] 超罗虾炭烧 ✨
+- [x] 带子蒜蓉粉丝蒸 ✨
+- [x] 九肚鱼脆炸
+- [x] 海胆原只蒸蛋
+- [x] 脆皮乳鸽
+- [x] 卤水拼盘
+- [x] 啫啫牛肉 ✨
+- [x] 码头生煎包 ✨
+- [x] 海胆炒饭
 
 ## 东湖酒楼
 
@@ -215,8 +220,6 @@ article: false
 
 @tab 哪吒煎饺
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/zwm/1.JPEG)
-
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/zwm/8.JPEG)
 
 @tab 三丝炒面
@@ -275,6 +278,7 @@ article: false
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/cjyp/2.jpg)
 
 - [x] 炸酱热干面 ✨
+- [x] 牛肉热干面 ✨
 
 ## 羊腾香惠来羊肉火锅
 
@@ -437,7 +441,7 @@ article: false
 
 :::
 
-- [x] 香干炒肉饭 ✨
+- [x] 香干炒肉饭
 - [x] 番茄炒蛋饭
 - [x] 霸王炒鸡饭
 - [x] 秘制牛腩面
@@ -526,8 +530,8 @@ article: false
 :::
 
 - [x] 脆皮鸡 ✨
-- [x] 闸蟹凤爪煲
 - [x] 佬长沙臭豆腐 ✨
+- [x] 闸蟹凤爪煲
 - [x] 酱油鸡蛋炒饭
 
 ## 饺家传统手工饺子
@@ -556,7 +560,7 @@ article: false
 
 - [x] 鸡扒饭
 - [x] 黄咖喱牛腩饭 ✨
-- [x] 扬州炒饭 ✨
+- [x] 扬州炒饭
 - [x] 叉烧虾仁滑蛋炒饭
 - [x] 生炒牛肉饭
 - [x] 干炒牛河

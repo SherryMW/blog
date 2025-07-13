@@ -4,11 +4,21 @@ article: false
 
 # 白云公园
 
+## 堂会
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00141JG4K" target="_blank">云霄路353栋5号停机坪3层</a>
+
 ## MR·ROCKY 洛奇先生餐吧
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFJ14MRH" target="_blank">云霄路349栋4号停机坪风车广场7号馆</a>
 
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/5.JPEG)
+
 ::: tabs
+
+@tab 尼格罗尼
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/4.JPEG)
 
 @tab 玫瑰嬉皮士
 
@@ -18,23 +28,65 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/3.jpg)
 
+@tab 生化危机
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/6.jpg)
+
 @tab 玛格丽特
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/2.jpg)
 
+@tab 左轮镖客
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/7.jpg)
+
 :::
 
+- [x] 尼格罗尼 ✨
 - [x] 长岛冰茶
+- [x] 生化危机
 - [x] 玛格丽特
 - [x] 玫瑰嬉皮士
 - [x] 潘多拉魔盒
 - [x] 哈雷焦香黑啤
 - [x] 香辣鸡中翅 ✨
 - [x] 酥炸鸡米花
+- [x] 手撕鱿鱼
 - [x] 停不下来香脆薯
 - [x] 美式炸杂锦蔬菜
 - [x] 墨西哥辣味牛肉薄饼
 - [x] 洛奇鲜果沙拉
+
+## 摩打食堂
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFLIK15Q" target="_blank">云城西路890号凯德广场·云尚B1层</a>
+
+::: tabs
+
+@tab 炸鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/mdst/1.JPEG)
+
+@tab 厚豆乳芝士
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/mdst/2.JPEG)
+
+@tab 凤梨烤谷饲牛肋条
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/mdst/3.JPEG)
+
+@tab 炭烧鳗
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/mdst/4.JPEG)
+
+:::
+
+- [x] 炸鸡 ✨
+- [x] 厚豆乳芝士 ✨
+- [x] 凤梨烤谷饲牛肋条 ✨
+- [x] 炭烧鳗
+- [x] 汉堡
+- [x] 麻辣甜鲜蛤
 
 ## 蚝事发生
 
@@ -68,8 +120,6 @@ article: false
 
 :::
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/hsfs/0.jpg)
-
 - [x] 招牌蒸蚝 ✨
 - [x] 香煎蚝仔烙
 - [x] 四点金拼猪蹄
@@ -88,7 +138,7 @@ article: false
 - [x] 匙柄肉
 - [x] 三花趾
 - [x] 五花趾
-- [x] 牛大肚 ✨
+- [x] 牛大肚
 - [x] 手工鲜腐竹
 - [x] 粿条
 
@@ -147,6 +197,25 @@ article: false
 - [x] 鲜竹根炒牛肉
 - [x] 生炒菜心
 - [x] 原盅炖汤
+
+## 太二酸菜鱼
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFH86D5G" target="_blank">云霄路353栋5号停机坪首层</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/te/1.jpg)
+
+- [x] 江团酸菜鱼
+
+## 广州酒家
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JUJNKT54" target="_blank">云霄路353号5号停机坪购物广场F1</a>
+
+- [x] 烧鹅
+- [x] 虾饺
+- [x] 蛋挞
+- [x] 腐皮卷
+- [x] 鲍汁凤爪
+- [x] 白灼菜心
 
 ## 点啫海鲜大排档
 

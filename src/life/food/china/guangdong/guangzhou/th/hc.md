@@ -14,7 +14,7 @@ article: false
 
 @tab 生蚝
 
-![出品没达到预期](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/hc/hbyy/1.jpg)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/hc/hbyy/1.jpg)
 
 @tab 果园鲜全翅
 

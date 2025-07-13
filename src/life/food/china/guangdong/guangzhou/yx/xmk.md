@@ -33,7 +33,7 @@ article: false
 
 :::
 
-海鲜双人餐（出品水平没有总店高）
+海鲜双人餐（出品没总店高）
 
 - [x] 香爆膏蟹
 - [x] 瘦肉炒河粉
@@ -45,10 +45,3 @@ article: false
 
 - [x] 牛肉炒滑蛋
 - [x] 鸡蛋炒米粉
-
-## 老香港手工蛋糕
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J2YBGZXD" target="_blank">惠福西路与诗书路交叉口西20米</a>
-
-- [x] 浓香芝士蛋糕
-- [x] 香草/巧克力泡芙
