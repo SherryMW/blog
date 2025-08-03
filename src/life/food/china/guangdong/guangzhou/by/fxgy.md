@@ -319,44 +319,14 @@ article: false
 - [x] 白玉萝卜丝
 - [x] 青笋条
 
-## 威记茶居
+## 喜珍记茶餐厅
 
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J0SKDFJM" target="_blank">云顶花园东2门旁</a>
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LAG7TUB3" target="_blank">云城南二路179号-115铺</a>
 
-::: tabs
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/xzj/1.JPEG)
 
-@tab 啫啫脆肉鲩
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/3.JPEG)
-
-@tab 啫啫牛蛙
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/1.JPEG)
-
-@tab 啫啫土鸡爆酱
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/4.JPEG)
-
-@tab 避风塘掌中宝
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/5.JPEG)
-
-@tab 啫啫云南小瓜
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/2.JPEG)
-
-:::
-
-- [x] 啫啫土鸡爆酱
-- [x] 啫啫脆肉鲩
-- [x] 啫啫牛蛙
-- [x] 避风塘掌中宝
-- [x] 爽滑白切鸡
-- [x] 窝蛋碎肉菠菜煲
-- [x] 啫啫云南小瓜
-- [x] 啫啫台山菜花
-- [x] 虾饺
-- [x] 凤爪
+- [x] 滑蛋咖喱鸡扒饭
+- [x] 葱香牛肉叉烧滑蛋饭
 
 ## 台北名店 Every Day
 
@@ -395,6 +365,45 @@ article: false
 - [x] 意大利肉酱面
 - [x] 奶茶
 - [x] 红茶
+
+## 威记茶居
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J0SKDFJM" target="_blank">云顶花园东2门旁</a>
+
+::: tabs
+
+@tab 啫啫脆肉鲩
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/3.JPEG)
+
+@tab 啫啫牛蛙
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/1.JPEG)
+
+@tab 啫啫土鸡爆酱
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/4.JPEG)
+
+@tab 避风塘掌中宝
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/5.JPEG)
+
+@tab 啫啫云南小瓜
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wjcj/2.JPEG)
+
+:::
+
+- [x] 啫啫土鸡爆酱
+- [x] 啫啫脆肉鲩
+- [x] 啫啫牛蛙
+- [x] 避风塘掌中宝
+- [x] 爽滑白切鸡
+- [x] 窝蛋碎肉菠菜煲
+- [x] 啫啫云南小瓜
+- [x] 啫啫台山菜花
+- [x] 虾饺
+- [x] 凤爪
 
 ## 北京饭庄
 
@@ -479,25 +488,25 @@ article: false
 
 - [x] 蒸面 ✨
 
-## 窄巷口生烫牛肉米线馄饨
+## 饺家传统手工饺子
 
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0G2AC65XO" target="_blank">区岗贝路与机场路交叉口西40米</a>
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFGX31NC" target="_blank">远景路22号B68档</a>
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/zxk/1.JPEG)
+::: tabs
 
-- [x] 红烧牛肚肉酱米线
-- [x] 红烧牛腩肉酱米线
-- [x] 虾仁小馄饨
+@tab 精肉香菇蒸饺
 
-## 鸭子潮汕小吃店
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/2.JPEG)
 
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GK4KKVCJ" target="_blank">景泰街道机场东门街36号自编号A111</a>
+@tab 精肉韭菜煎饺
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/1.JPEG)
+![第一次见这种形状的煎饺](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/1.jpg)
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/2.JPEG)
+:::
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/3.JPEG)
+- [x] 精肉韭菜煎饺 ✨
+- [x] 精肉香菇水饺
+- [x] 红烧排骨面
 
 ## 点都德
 
@@ -534,25 +543,25 @@ article: false
 - [x] 闸蟹凤爪煲
 - [x] 酱油鸡蛋炒饭
 
-## 饺家传统手工饺子
+## 窄巷口生烫牛肉米线馄饨
 
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFGX31NC" target="_blank">远景路22号B68档</a>
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0G2AC65XO" target="_blank">区岗贝路与机场路交叉口西40米</a>
 
-::: tabs
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/zxk/1.JPEG)
 
-@tab 精肉香菇蒸饺
+- [x] 红烧牛肚肉酱米线
+- [x] 红烧牛腩肉酱米线
+- [x] 虾仁小馄饨
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/2.JPEG)
+## 鸭子潮汕小吃店
 
-@tab 精肉韭菜煎饺
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GK4KKVCJ" target="_blank">景泰街道机场东门街36号自编号A111</a>
 
-![第一次见这种形状的煎饺](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/1.jpg)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/1.JPEG)
 
-:::
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/2.JPEG)
 
-- [x] 精肉韭菜煎饺 ✨
-- [x] 精肉香菇水饺
-- [x] 红烧排骨面
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/3.JPEG)
 
 ## 好彩米芝莲港式茶餐厅
 

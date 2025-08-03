@@ -90,9 +90,11 @@ article: false
 
 - [x] 消失的爱人 ✨
 - [x] 夜行者 ✨
+- [x] 空中营救
 
 ## 2013
 
+- [x] 白日梦想家 ✨
 - [x] 达拉斯买家俱乐部 ✨
 - [x] 金刚狼2
 
@@ -115,6 +117,7 @@ article: false
 
 - [x] 十二宫 ✨
 - [x] 生死狙击 ✨
+- [x] 老无所依 ✨
 - [x] 美国黑帮
 
 ## 2006
@@ -129,6 +132,7 @@ article: false
 
 ## 2004
 
+- [x] 幸福终点站 ✨
 - [x] 电锯惊魂 ✨
 
 ## 2003
@@ -138,6 +142,10 @@ article: false
 ## 2001
 
 - [x] 尖峰时刻2 ✨
+
+## 2000
+
+- [x] 居家男人 ✨
 
 ## 1999
 
@@ -158,16 +166,16 @@ article: false
 
 ## 1995
 
-- [x] 盗火线 ✨
 - [x] 七宗罪 ✨
+- [x] 盗火线 ✨
 
 ## 1993
 
-- [ ] 土拨鼠之日
+- [x] 土拨鼠之日 ✨
 
 ## 1992
 
-- [x] 苦月亮 ✨[【影评-正经的瓜皮酱】](https://www.bilibili.com/video/BV1Jg63YTE7Y)
+- [x] 苦月亮 ✨ [【影评-正经的瓜皮酱】](https://www.bilibili.com/video/BV1Jg63YTE7Y)
 
 ## 1991
 
@@ -175,4 +183,4 @@ article: false
 
 ## 1983
 
-- [x] 疤面煞星 ✨[【影评-绝命墨菲】](https://www.bilibili.com/video/BV1zdpieDEMP)
+- [x] 疤面煞星 ✨ [【影评-绝命墨菲】](https://www.bilibili.com/video/BV1zdpieDEMP)

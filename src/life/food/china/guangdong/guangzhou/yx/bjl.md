@@ -36,6 +36,15 @@ article: false
 
 - [x] 新兴姑娘炒米粉 ✨
 
+## 粤·向群饭店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JRAANRT4" target="_blank">天河城B区3楼</a>
+
+- [x] 始创葱油淋鸡 ✨
+- [x] 五杯财神猪手
+- [x] 咸蛋黄焗罗氏虾
+- [x] 椰青桃胶炖蛋白奶
+
 ## 潮发潮汕牛肉店
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFH9LEYM" target="_blank">珠光路201-203号</a>
@@ -47,39 +56,6 @@ article: false
 - [x] 手工鲜腐竹
 - [x] 水果玉米
 - [x] 云南菌菇拼盘
-
-## 小炳胜
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFIWT9NM" target="_blank">北京路168号北京路天河城A区6层B605号</a>
-
-::: tabs
-
-@tab 秘制黑叉烧
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xbs/1.jpg)
-
-@tab 秘制脆皮灌汤烧鹅
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xbs/2.jpg)
-
-@tab 招积茄子
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xbs/3.jpg)
-
-:::
-
-- [x] 秘制黑叉烧
-- [x] 秘制脆皮灌汤烧鹅
-- [x] 招积茄子
-
-## 粤·向群饭店
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JRAANRT4" target="_blank">天河城B区3楼</a>
-
-- [x] 始创葱油淋鸡 ✨
-- [x] 五杯财神猪手
-- [x] 咸蛋黄焗罗氏虾
-- [x] 椰青桃胶炖蛋白奶
 
 ## 摩打食堂
 
@@ -111,6 +87,30 @@ article: false
 - [x] 摩匠手作香浓芝士豆腐 ✨
 - [x] 北极贝
 - [x] 芥末八爪鱼
+
+## 小炳胜
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFIWT9NM" target="_blank">北京路168号北京路天河城A区6层B605号</a>
+
+::: tabs
+
+@tab 秘制黑叉烧
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xbs/1.jpg)
+
+@tab 秘制脆皮灌汤烧鹅
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xbs/2.jpg)
+
+@tab 招积茄子
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xbs/3.jpg)
+
+:::
+
+- [x] 秘制黑叉烧
+- [x] 秘制脆皮灌汤烧鹅
+- [x] 招积茄子
 
 ## 凤园椰珍
 

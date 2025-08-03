@@ -4,10 +4,6 @@ article: false
 
 # 白云公园
 
-## 堂会
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00141JG4K" target="_blank">云霄路353栋5号停机坪3层</a>
-
 ## MR·ROCKY 洛奇先生餐吧
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFJ14MRH" target="_blank">云霄路349栋4号停机坪风车广场7号馆</a>

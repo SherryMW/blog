@@ -49,19 +49,38 @@ article: false
 - [x] 蔬菜汤
 - [x] 椰浆
 
+## 松记面家
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KGXYOWWV" target="_blank">满族小学大德校区南门旁</a>
+
+::: tabs
+
+@tab 猪手河粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/1.JPEG)
+
+@tab 牛腩面
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/2.JPEG)
+
+:::
+
+- [x] 猪手河粉 ✨
+- [x] 牛腩面 ✨
+
 ## 为食面
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K1RAXNUT" target="_blank">大德路179号</a>
 
 ::: tabs
 
-@tab 牛筋河粉
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/wsm/1.jpg)
-
 @tab 牛腩面
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/wsm/3.JPEG)
+
+@tab 牛筋河粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/wsm/1.jpg)
 
 :::
 

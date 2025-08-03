@@ -16,6 +16,10 @@ article: false
 
 - [x] 流浪猫鲍勃 ✨
 
+## 2013
+
+- [x] 寂静人生 ✨ [【影评-顾我电影】](https://www.bilibili.com/video/BV1qg411R7Tg/)
+
 ## 2011
 
 - [x] 憨豆特工2 ✨

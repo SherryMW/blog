@@ -229,6 +229,9 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 :::
 
 - [x] 麻布仔大冒险 ✨
+- [ ] 喷射战士3
+- [ ] 喷射战士2
+- [ ] 喷射战士
 - [x] 链在一起（Chained Together）✨
 
 ![](https://img.sherry4869.com/blog/collection/game/chained-together/1.jpg)
@@ -236,16 +239,21 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 - [x] 兽人必须死3（Orcs Must Die! 3）✨
 - [x] 失落城堡2 ✨
 - [x] 失落城堡（Lost Castle）
-- [x] 猫咪斗恶龙3 Cat Quest III
-
-![](https://img.sherry4869.com/blog/collection/game/cat-quest/2.png)
-
 - [x] 猫咪斗恶龙2 Cat Quest II ✨
 
 ![](https://img.sherry4869.com/blog/collection/game/cat-quest/1.png)
 
+- [x] 猫咪斗恶龙3 Cat Quest III
+
+![](https://img.sherry4869.com/blog/collection/game/cat-quest/2.png)
+
 - [x] 知只大冒险
 - [x] 负鼠闹翻天
+
+## 犯罪
+
+- [ ] GTA5
+- [ ] Crime Scene Cleaner
 
 ## 互动影视
 
@@ -296,7 +304,6 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 
 - [x] Hades II（待通关）✨
 - [x] Hades（待通关）✨
-- [ ] 地狱丧钟 Hell Clock
 - [x] 无间冥寺（Curse of the Dead Gods）
 - [x] 暖雪 Warm Snow
 - [x] 深渊之影
@@ -348,7 +355,7 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 
 @tab 收集
 
-- [ ] A Building Full of Cats 2
+- [x] A Building Full of Cats 2 ✨
 - [x] A Shelter Full of Cats
 - [x] A Tower Full of Cats
 - [x] A Castle Full of Cats
@@ -356,7 +363,7 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 
 @tab 放置
 
-- [x] Assemble with Care ✨
+- [x] Assemble with Care
 - [ ] Unpacking
 - [ ] A Little to the Left
 
@@ -471,7 +478,7 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 
 :::
 
-- [x] 植物大战僵尸 ✨
+- [ ] 植物大战僵尸™：重植版
 - 王国保卫战系列
     - [x] Kingdom Rush - Tower Defense ✨（105/130）
 - [ ] 气球塔防（Bloons TD 6）
@@ -487,6 +494,10 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 - [ ] 神界：原罪2
 - [ ] 开拓者：正义之怒
 - [ ] 龙腾世纪：审判
+
+---
+
+- [ ] 动物迷城
 
 ### 动作冒险 ARPG
 
@@ -612,7 +623,7 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 
 - [ ] 空洞骑士（Hollow Knight）
 - [ ] 波斯王子：失落的王冠
-- [x] 红怪（待通关）✨
+- [x] 红怪（待通关）
 - [ ] 蒸汽世界：挖掘2
 - [ ] 蒸汽世界大劫掠
 - [ ] 暗影火炬城
