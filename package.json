@@ -11,13 +11,13 @@
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.23",
-    "@vuepress/plugin-slimsearch": "2.0.0-rc.110",
+    "@vuepress/bundler-vite": "2.0.0-rc.24",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.112",
     "@waline/client": "3.4.1",
     "echarts": "^5.6.0",
     "sass": "^1.89.2",
-    "vue": "^3.5.17",
-    "vuepress": "2.0.0-rc.23",
-    "vuepress-theme-hope": "2.0.0-rc.93"
+    "vue": "^3.5.18",
+    "vuepress": "2.0.0-rc.24",
+    "vuepress-theme-hope": "2.0.0-rc.94"
   }
 }
