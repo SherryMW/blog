@@ -19,5 +19,14 @@
     "vue": "^3.5.18",
     "vuepress": "2.0.0-rc.24",
     "vuepress-theme-hope": "2.0.0-rc.94"
+  },
+  "packageManager": "pnpm@10.13.1",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ],
+    "overrides": {
+      "esbuild": "^0.25.6"
+    }
   }
 }
