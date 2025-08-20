@@ -149,6 +149,14 @@ article: false
 - [x] 客家煎酿豆腐
 - [x] 湛江特色捞粉
 
+## 松记烧鹅濑粉
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JUOOEPVK" target="_blank">大新路与解放南路交叉口西南34米</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/sj/1.JPEG)
+
+- [x] 招牌烧鹅肶濑粉
+
 ## 新疆阿凡提新鲜羊肉串
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0HK0SGIWA" target="_blank">解放中路177号自编A6</a>

@@ -58,6 +58,13 @@ article: false
 - [x] 雨后芒果园
 - [x] 香草雪糕球
 
+## NurBOSTAN 努尔博斯坦
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFFZD6Z2" target="_blank">天河直街160号北七铺</a>
+
+- [x] 碳烤羊肉串 ✨
+- [x] 和田玫瑰花酱馕
+
 ## 麒麟屋总本铺
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFFZD6Z2" target="_blank">侨林街51-2号铺(近林乐路)</a>
@@ -69,18 +76,11 @@ article: false
 - [x] 芥末章鱼
 - [x] 啤酒放题
 
-## NurBOSTAN 努尔博斯坦
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFFZD6Z2" target="_blank">天河直街160号北七铺</a>
-
-- [x] 碳烤羊肉串 ✨
-- [x] 和田玫瑰花酱馕
-
 ## 和府捞面
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFI0A2Z2" target="_blank">体育西路198号佳兆业广场B1层B20铺</a>
 
-![oh no 最不爱吃的青瓜居然放了这么多:see_no_evil:](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/lhx/hflm/1.JPEG)
+![oh no 最不爱吃的青瓜居然放了这么多](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/lhx/hflm/1.JPEG)
 
 - [x] 巨无霸牛肋排拌面
 

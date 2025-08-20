@@ -82,6 +82,20 @@ article: false
 - [x] 鱼香茄子煲
 - [x] 炒米粉
 
+## 今崎烧·寿喜烧专门店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0H2H1K16K" target="_blank">惠福东路522号首层</a>
+
+真的上脑寿喜烧双人套餐 ✨
+
+- [x] 美国安格斯牛上脑×2
+- [x] 澳洲霜降牛肉×2
+- [x] 松阪黑毛豚五花
+- [x] 墨鱼肠片
+- [x] 野菜拼盘
+- [x] 手打乌冬
+- [x] 无菌生鸡蛋
+
 ## 口福食家
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B001402D72s" target="_blank">惠福西路264号</a>
@@ -107,23 +121,9 @@ article: false
 :::
 
 - [x] 松子鱼 ✨
-- [x] 脆皮炸大肠 ✨
+- [x] 脆皮炸大肠
 - [x] 白切鸡
 - [x] 凉拌鱼皮
-
-## 今崎烧·寿喜烧专门店
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0H2H1K16K" target="_blank">惠福东路522号首层</a>
-
-真的上脑寿喜烧双人套餐 ✨
-
-- [x] 美国安格斯牛上脑×2
-- [x] 澳洲霜降牛肉×2
-- [x] 松阪黑毛豚五花
-- [x] 墨鱼肠片
-- [x] 野菜拼盘
-- [x] 手打乌冬
-- [x] 无菌生鸡蛋
 
 ## 认真食饭·海鲜大排档
 
@@ -154,9 +154,13 @@ article: false
 - [x] 独有藤椒脆鸡翅
 - [x] 花生友冰沙
 
-## 大喜居酒屋
+## 马小火牛肉面
 
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFIIKP20" target="_blank">教育路1号</a>
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0IU5R4JEM" target="_blank">中山五路中旅商业城1楼103号</a>
+
+- [x] 大片牛肉手工拉面
+- [x] 招牌烤包子 ✨
+- [x] 红柳羊肉大串
 
 ## 绿茶餐厅
 
@@ -165,11 +169,3 @@ article: false
 - [x] 东坡肉
 - [x] 咖喱面包鸡
 - [x] 江南绿茶饼
-
-## 马小火牛肉面
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0IU5R4JEM" target="_blank">中山五路中旅商业城1楼103号</a>
-
-- [x] 大片牛肉手工拉面
-- [x] 招牌烤包子 ✨
-- [x] 红柳羊肉大串

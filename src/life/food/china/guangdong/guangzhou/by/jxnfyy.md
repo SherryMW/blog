@@ -36,21 +36,11 @@ article: false
 
 - [x] 蟹籽猪颈肉炒饭
 
-## 稻香酒家
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JRHCG94T" target="_blank">沙太南路538号二楼</a>
-
-- [x] 榴莲天鹅酥
-- [x] 豉汁蒸排骨
-- [x] 蒜蓉粉丝蒸开边虾
-- [x] 清蒸原只福建生蚝
-- [x] 干烧伊面
-
 ## 马记永·兰州牛肉面
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JA6LJTAA" target="_blank">广州大道北1811-1813号</a>
 
-- [x] 大片牛腱子兰州牛肉面 ✨
+- [x] 大片牛腱子兰州牛肉面
 
 ## 正宗潮汕绿豆饼
 
@@ -62,3 +52,13 @@ article: false
 - [x] 咸蛋黄沙琪玛
 - [x] 紫薯牛轧酥
 - [x] 核桃酥
+
+## 稻香酒家
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JRHCG94T" target="_blank">沙太南路538号二楼</a>
+
+- [x] 榴莲天鹅酥
+- [x] 豉汁蒸排骨
+- [x] 蒜蓉粉丝蒸开边虾
+- [x] 清蒸原只福建生蚝
+- [x] 干烧伊面

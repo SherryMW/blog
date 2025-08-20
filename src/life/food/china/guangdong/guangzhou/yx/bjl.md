@@ -45,18 +45,6 @@ article: false
 - [x] 咸蛋黄焗罗氏虾
 - [x] 椰青桃胶炖蛋白奶
 
-## 潮发潮汕牛肉店
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFH9LEYM" target="_blank">珠光路201-203号</a>
-
-- [x] 三花趾
-- [x] 嫩牛肉
-- [x] 潮发鲜和牛
-- [x] 牛大肚
-- [x] 手工鲜腐竹
-- [x] 水果玉米
-- [x] 云南菌菇拼盘
-
 ## 摩打食堂
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFLMYA6N" target="_blank">中山四路395号城壹汇F4层</a>
@@ -87,6 +75,26 @@ article: false
 - [x] 摩匠手作香浓芝士豆腐 ✨
 - [x] 北极贝
 - [x] 芥末八爪鱼
+
+## 海底捞火锅
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00141VVZW" target="_blank">中山四路395号城壹汇F5层</a>
+
+- [x] 参鲍鸡金汤锅
+- [x] 番茄锅底
+- [x] 牛油麻辣锅底
+
+## 潮发潮汕牛肉店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFH9LEYM" target="_blank">珠光路201-203号</a>
+
+- [x] 三花趾
+- [x] 嫩牛肉
+- [x] 潮发鲜和牛
+- [x] 牛大肚
+- [x] 手工鲜腐竹
+- [x] 水果玉米
+- [x] 云南菌菇拼盘
 
 ## 小炳胜
 
@@ -125,14 +133,6 @@ article: false
 - [x] 娃娃菜
 - [x] 响铃卷
 - [x] 泰国椰青
-
-## 海底捞火锅
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00141VVZW" target="_blank">中山四路395号城壹汇F5层</a>
-
-- [x] 参鲍鸡金汤锅
-- [x] 番茄锅底
-- [x] 牛油麻辣锅底
 
 ## 刘福记
 

@@ -207,7 +207,7 @@ article: false
 - [x] 泰国榴莲酥
 - [x] 鲍汁蒸腐皮卷
 - [x] 炭烧蜜汁叉烧酥
-- [x] 冷水猪肚（吃不惯用芥末汁浸泡的猪肚:see_no_evil:）
+- [x] 冷水猪肚（吃不惯用芥末汁浸泡的猪肚）
 - [x] 鲜虾红米肠
 - [x] 鲜虾炸春卷
 - [x] 港式菠萝包
@@ -289,7 +289,7 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00140TFHO" target="_blank">天河路228号正佳广场5层南街</a>
 
-40 元的拌饭比 268 元的拼盘要好吃的多:see_no_evil:
+40 元的拌饭比 268 元的拼盘要好吃的多
 
 - [x] 荣升全牛八拼
 - [x] 石锅牛肉拌饭

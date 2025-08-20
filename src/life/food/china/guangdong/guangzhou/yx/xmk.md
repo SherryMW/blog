@@ -10,9 +10,7 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/sgjcc/1.jpg)
 
-海鲜双人餐 ✨
-
-- [x] 香爆膏蟹
+- [x] 香爆膏蟹 ✨
 - [x] 双拼粉
 - [x] 爆炒鲜鱿
 - [x] 炒油菜
@@ -32,8 +30,6 @@ article: false
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/sgms/2.jpg)
 
 :::
-
-海鲜双人餐（出品没总店高）
 
 - [x] 香爆膏蟹
 - [x] 瘦肉炒河粉

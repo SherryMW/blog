@@ -8,7 +8,7 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFIZKPWU" target="_blank">龙步北商业街3号66之三</a>
 
-【品城记】节目里推荐的餐厅，探店后发现出品和视频里呈现的完全不一样，这家是充值店铺
+【品城记】节目里推荐的餐厅，探店后发现食材和视频里呈现的完全不一样，这家是充值店铺
 
 ::: tabs
 

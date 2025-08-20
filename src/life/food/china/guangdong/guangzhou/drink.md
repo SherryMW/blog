@@ -4,7 +4,7 @@ article: false
 
 # 饮品店
 
-## 非连锁店
+## 特色店
 
 ### 莲城 Lotus Lounge
 
@@ -13,7 +13,7 @@ article: false
 - [x] daydream
 - [x] 死亡的性感解释
 
-## 连锁店
+## 连锁品牌店
 
 ### Moos Coffee（歇业）
 

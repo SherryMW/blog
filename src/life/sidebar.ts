@@ -7,14 +7,6 @@ export const LifeSidebar = arraySidebar([
         collapsible: true,
         children: [
             {
-                text: "睡眠",
-                prefix: "sleep/",
-                collapsible: true,
-                children: [
-                    "2025"
-                ]
-            },
-            {
                 text: "运动",
                 prefix: "exercise/",
                 collapsible: true,

@@ -87,7 +87,7 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0H1U90B35" target="_blank">天源路5号天河新天地B1</a>
 
-![卤猪手 + 老长沙肉沫拌面](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/thkyz/slf/1.jpg)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/thkyz/slf/1.jpg)
 
 - [x] 老长沙土猪肉粉
 - [x] 农家杀猪粉

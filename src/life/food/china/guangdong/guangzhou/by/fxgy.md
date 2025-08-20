@@ -76,6 +76,10 @@ article: false
 
 :::
 
+- [x] 酒酱小青龙 ✨
+- [x] 古法羊腩煲
+- [x] 烧鹅
+- [x] 蒜香骨
 - [x] 文昌鸡蛋挞 ✨
 - [x] 鲍汁鲜虾腐皮卷 ✨
 - [x] 招牌鲍汁凤爪 ✨
@@ -83,7 +87,7 @@ article: false
 - [x] 海南虾饺皇
 - [x] 蒜香蒸排骨
 - [x] 海南炸春卷
-- [x] 飘香黄金饼 ✨
+- [x] 飘香黄金饼
 - [x] 海南芝麻煎堆
 - [x] 金味绿茶薄餐
 - [x] 蚝皇叉烧包
@@ -92,10 +96,6 @@ article: false
 - [x] 金莎萝卜糕
 - [x] 椰子饭
 - [x] 海南椰香果
-- [x] 酒酱小青龙 ✨
-- [x] 古法羊腩煲
-- [x] 烧鹅
-- [x] 蒜香骨
 - [x] 海南捞粉
 - [x] 三丝炒面
 
@@ -430,6 +430,44 @@ article: false
 - [x] 涮羊肉锅
 - [x] 金银馒头
 
+## 食又鲜
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JKBRR89H" target="_blank">乐嘉路56号5号铺</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/syx/1.jpg)
+
+- [x] 招牌柠檬粉 ✨
+- [x] 油条
+- [x] 小酥肉
+
+## 尬图有料海鲜肠粉（歇业）
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KDYCZLVH" target="_blank">云城东路337号</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/gtyl/1.jpg)
+
+- [x] 蒸面 ✨
+
+## 饺家传统手工饺子
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFGX31NC" target="_blank">远景路22号B68档</a>
+
+::: tabs
+
+@tab 精肉香菇蒸饺
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/2.JPEG)
+
+@tab 精肉韭菜煎饺
+
+![第一次见这种形状的煎饺](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/1.jpg)
+
+:::
+
+- [x] 精肉韭菜煎饺 ✨
+- [x] 精肉香菇水饺
+- [x] 红烧排骨面
+
 ## 川小馆
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFKSA1XW" target="_blank">飞云东街10号</a>
@@ -469,44 +507,6 @@ article: false
 - [x] 烤猪蹄
 - [x] 羊肉串
 - [x] 扇贝
-
-## 食又鲜
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JKBRR89H" target="_blank">乐嘉路56号5号铺</a>
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/syx/1.jpg)
-
-- [x] 招牌柠檬粉 ✨
-- [x] 油条
-- [x] 小酥肉
-
-## 尬图有料海鲜肠粉（歇业）
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KDYCZLVH" target="_blank">云城东路337号</a>
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/gtyl/1.jpg)
-
-- [x] 蒸面 ✨
-
-## 饺家传统手工饺子
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFGX31NC" target="_blank">远景路22号B68档</a>
-
-::: tabs
-
-@tab 精肉香菇蒸饺
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/2.JPEG)
-
-@tab 精肉韭菜煎饺
-
-![第一次见这种形状的煎饺](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/1.jpg)
-
-:::
-
-- [x] 精肉韭菜煎饺 ✨
-- [x] 精肉香菇水饺
-- [x] 红烧排骨面
 
 ## 点都德
 
@@ -611,7 +611,7 @@ article: false
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0HKYDTY2G" target="_blank">百顺南路12号云门云里户外广场负一层(1200书店旁)</a>
 
 - [x] 芝士蘑菇鲜虾意大利面
-- [x] 班尼迪蛋（里头的荷兰酱酸的我头皮发麻:see_no_evil:）
+- [x] 班尼迪蛋（里头的荷兰酱酸的我头皮发麻）
 - [x] 薯条鸡翅拼盘
 
 ## 苏格里岛海鲜火锅烤肉自助

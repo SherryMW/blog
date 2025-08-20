@@ -623,7 +623,7 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 
 - [ ] 空洞骑士（Hollow Knight）
 - [ ] 波斯王子：失落的王冠
-- [x] 红怪（待通关）
+- [x] 红怪
 - [ ] 蒸汽世界：挖掘2
 - [ ] 蒸汽世界大劫掠
 - [ ] 暗影火炬城

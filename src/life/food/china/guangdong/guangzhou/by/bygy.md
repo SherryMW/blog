@@ -8,8 +8,6 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFJ14MRH" target="_blank">云霄路349栋4号停机坪风车广场7号馆</a>
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/5.JPEG)
-
 ::: tabs
 
 @tab 尼格罗尼
@@ -37,6 +35,8 @@ article: false
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/7.jpg)
 
 :::
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/5.JPEG)
 
 - [x] 尼格罗尼 ✨
 - [x] 长岛冰茶

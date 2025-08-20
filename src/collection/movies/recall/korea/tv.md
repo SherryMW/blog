@@ -16,7 +16,7 @@ article: false
 ## 2024
 
 - [ ] 好或坏的东载
-- [x] 好久没做 ✨
+- [x] 好久没做 ✨ [【影评-正经的瓜皮酱】](https://www.bilibili.com/video/BV1FNtzzhEsd/)
 - [x] 家族计划
 
 ## 2023
