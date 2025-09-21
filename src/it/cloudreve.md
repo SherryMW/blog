@@ -1,6 +1,7 @@
 ---
 date: 2022-03-27
 category: IT
+sidebar: false
 ---
 
 # 搭建网盘系统 Cloudreve

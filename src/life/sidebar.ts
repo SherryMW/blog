@@ -22,19 +22,7 @@ export const LifeSidebar = arraySidebar([
                         prefix: "running/",
                         collapsible: true,
                         children: ["2025", "2024"]
-                    },
-                    {
-                        text: "骑行",
-                        prefix: "cycling/",
-                        collapsible: true,
-                        children: ["2025"]
-                    },
-                    {
-                        text: "球类运动",
-                        prefix: "ball-games/",
-                        collapsible: true,
-                        children: ["2025"]
-                    },
+                    }
                 ]
             }
         ]

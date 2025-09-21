@@ -55,6 +55,34 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JDY5N2WR" target="_blank">大德路125-1号</a>
 
+::: tabs
+
+@tab 牛腩捞面
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/1.JPEG)
+
+@tab 爽滑牛肉丸
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/2.JPEG)
+
+@tab XO萝卜糕
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/3.JPEG)
+
+@tab 韭菜猪红
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/4.JPEG)
+
+@tab 煎焗生肉包
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/5.JPEG)
+
+@tab 脆皮甜薄餐
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/6.JPEG)
+
+:::
+
 - [x] 招牌虾饺皇
 - [x] 豉汁蒸凤爪
 - [x] 蒸武门云吞

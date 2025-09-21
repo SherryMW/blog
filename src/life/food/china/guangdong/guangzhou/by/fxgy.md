@@ -302,6 +302,31 @@ article: false
 - [x] 卤水拼盘 ✨
 - [x] 肚包肉
 
+## 北京饭庄
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFHIF91J" target="_blank">机场路633号</a>
+
+::: tabs
+
+@tab 鱼籽煲
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/bjfz/1.jpg)
+
+@tab 鸡煲
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/bjfz/2.jpg)
+
+@tab 金银馒头
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/bjfz/3.jpg)
+
+:::
+
+- [x] 鱼籽煲 ✨
+- [x] 鸡煲
+- [x] 涮羊肉锅
+- [x] 金银馒头
+
 ## 潮发潮汕牛肉店
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J03SV8LR" target="_blank">云城东路501号万达广场(白云店)3楼3305、3306A</a>
@@ -405,31 +430,6 @@ article: false
 - [x] 虾饺
 - [x] 凤爪
 
-## 北京饭庄
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFHIF91J" target="_blank">机场路633号</a>
-
-::: tabs
-
-@tab 鱼籽煲
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/bjfz/1.jpg)
-
-@tab 鸡煲
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/bjfz/2.jpg)
-
-@tab 金银馒头
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/bjfz/3.jpg)
-
-:::
-
-- [x] 鱼籽煲 ✨
-- [x] 鸡煲
-- [x] 涮羊肉锅
-- [x] 金银馒头
-
 ## 食又鲜
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JKBRR89H" target="_blank">乐嘉路56号5号铺</a>
@@ -460,7 +460,7 @@ article: false
 
 @tab 精肉韭菜煎饺
 
-![第一次见这种形状的煎饺](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/1.jpg)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/1.jpg)
 
 :::
 

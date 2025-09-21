@@ -1,4 +1,5 @@
 ---
+icon: user
 article: false
 ---
 

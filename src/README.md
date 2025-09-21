@@ -1,19 +1,22 @@
 ---
 home: true
 layout: Blog
-icon: home
+icon: house
 title: 主页
 heroImage: ""
 heroText: ""
 heroFullScreen: true
 tagline: ""
 bgImage: /banner.jpg
-#projects:
+projects:
 #  - icon: newspaper
 #    name: Java
 #    desc: 笔记
 #    link: 
-#
+#  - icon: newspaper
+#    name: Vue
+#    desc: 笔记
+#    link: /it/vue/
 #  - icon: folder-open
 #    name: Study
 #    desc: 学习项目

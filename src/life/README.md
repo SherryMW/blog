@@ -1,4 +1,5 @@
 ---
+icon: seedling
 article: false
 ---
 

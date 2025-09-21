@@ -18,7 +18,7 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/lhx/79fish/3.jpg)
 
-![一蟹三吃里最中意干焗蟹肉，一定要趁热吃，如果凉了可以让服务员拿给后厨加热一下](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/lhx/79fish/4.jpg)
+![一蟹三吃里最中意干焗蟹肉，趁热吃，如果凉了可以让服务员拿给后厨加热一下](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/lhx/79fish/4.jpg)
 
 @tab 账单
 
@@ -80,7 +80,7 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFI0A2Z2" target="_blank">体育西路198号佳兆业广场B1层B20铺</a>
 
-![oh no 最不爱吃的青瓜居然放了这么多](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/lhx/hflm/1.JPEG)
+![oh no 最讨厌的生青瓜居然放了这么多](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/lhx/hflm/1.JPEG)
 
 - [x] 巨无霸牛肋排拌面
 

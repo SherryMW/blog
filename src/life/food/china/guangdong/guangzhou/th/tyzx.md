@@ -76,7 +76,7 @@ article: false
 
 @tab 鸿运烧香猪
 
-![这半只乳猪不是现烤的，皮脆但肉有点肥腻](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/cldpd/3.jpg)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/cldpd/3.jpg)
 
 @tab 香煎手打墨鱼饼
 
