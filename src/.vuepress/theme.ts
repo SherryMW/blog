@@ -24,7 +24,7 @@ export default hopeTheme({
     docsDir: "src", // 文档在仓库中的目录
     navbar, // 导航栏
     sidebar, // 侧边栏
-    pageInfo: ["Author", "Date", "Category", "Tag"], // 文章中顶部展示的相关标识信息
+    pageInfo: ["Author", "Category", "Tag"], // 文章中顶部展示的相关标识信息
     contributors: false, // 是否显示页面贡献者
     lastUpdated: false, // 是否显示页面最后更新时间
     breadcrumb: false, // 是否全局启用路径导航
