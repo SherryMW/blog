@@ -99,48 +99,6 @@ article: false
 - [x] 海南捞粉
 - [x] 三丝炒面
 
-## 椰林海鲜码头
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0IU1SYRRK" target="_blank">云城南二路无限极广场B座3层</a>
-
-::: tabs
-
-@tab 超罗虾炭烧
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/1.JPEG)
-
-@tab 码头生煎包
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/4.jpg)
-
-@tab 九肚鱼脆炸
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/2.JPEG)
-
-@tab 啫啫牛肉
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/3.JPEG)
-
-@tab 脆皮乳鸽
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/5.jpg)
-
-@tab 海胆炒饭
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/6.jpg)
-
-:::
-
-- [x] 超罗虾炭烧 ✨
-- [x] 带子蒜蓉粉丝蒸 ✨
-- [x] 九肚鱼脆炸
-- [x] 海胆原只蒸蛋
-- [x] 脆皮乳鸽
-- [x] 卤水拼盘
-- [x] 啫啫牛肉 ✨
-- [x] 码头生煎包 ✨
-- [x] 海胆炒饭
-
 ## 东湖酒楼
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J06DHOQH" target="_blank">机场路276号</a>
@@ -211,6 +169,48 @@ article: false
 - [x] 咸骨菜干粥
 - [x] 杨枝甘露 ✨
 - [x] 冰川海洋糕
+
+## 椰林海鲜码头
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0IU1SYRRK" target="_blank">云城南二路无限极广场B座3层</a>
+
+::: tabs
+
+@tab 超罗虾炭烧
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/1.JPEG)
+
+@tab 码头生煎包
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/4.jpg)
+
+@tab 九肚鱼脆炸
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/2.JPEG)
+
+@tab 啫啫牛肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/3.JPEG)
+
+@tab 脆皮乳鸽
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/5.jpg)
+
+@tab 海胆炒饭
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/6.jpg)
+
+:::
+
+- [x] 超罗虾炭烧 ✨
+- [x] 带子蒜蓉粉丝蒸 ✨
+- [x] 九肚鱼脆炸
+- [x] 海胆原只蒸蛋
+- [x] 脆皮乳鸽
+- [x] 卤水拼盘
+- [x] 啫啫牛肉 ✨
+- [x] 码头生煎包 ✨
+- [x] 海胆炒饭
 
 ## 蒸武门
 
@@ -343,15 +343,6 @@ article: false
 - [x] 八秒海带苗
 - [x] 白玉萝卜丝
 - [x] 青笋条
-
-## 喜珍记茶餐厅
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LAG7TUB3" target="_blank">云城南二路179号-115铺</a>
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/xzj/1.JPEG)
-
-- [x] 滑蛋咖喱鸡扒饭
-- [x] 葱香牛肉叉烧滑蛋饭
 
 ## 台北名店 Every Day
 
@@ -553,16 +544,6 @@ article: false
 - [x] 红烧牛腩肉酱米线
 - [x] 虾仁小馄饨
 
-## 鸭子潮汕小吃店
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GK4KKVCJ" target="_blank">景泰街道机场东门街36号自编号A111</a>
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/1.JPEG)
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/2.JPEG)
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/3.JPEG)
-
 ## 好彩米芝莲港式茶餐厅
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GUPNXC57" target="_blank">机场路601号银鹰大酒店一楼1O1铺</a>
@@ -576,6 +557,35 @@ article: false
 - [x] 特色炒米粉
 - [x] 鲜虾云吞面
 - [x] 鸡扒公仔面
+
+## 鸭子潮汕小吃店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GK4KKVCJ" target="_blank">景泰街道机场东门街36号自编号A111</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/1.JPEG)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/2.JPEG)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/3.JPEG)
+
+## 喜珍记茶餐厅
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LAG7TUB3" target="_blank">云城南二路179号-115铺</a>
+
+::: tabs
+
+@tab 葱香牛肉叉烧滑蛋饭
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/xzj/1.JPEG)
+
+@tab 咖喱鸡扒饭
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/xzj/2.JPEG)
+
+:::
+
+- [x] 葱香牛肉叉烧滑蛋饭
+- [x] 滑蛋咖喱鸡扒饭
 
 ## 绿茶餐厅
 
@@ -605,6 +615,37 @@ article: false
 - [x] 东坡仔排
 - [x] 客家茄子煲
 - [x] 绿茶招牌炒饭
+
+## 万绿东江·客家菜
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0HKL7TBSQ" target="_blank">云城东路509号万达广场三层3326B铺</a>
+
+::: tabs
+
+@tab 招牌盐焗鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wldj/1.JPEG)
+
+@tab 客家煎酿豆腐
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wldj/2.JPEG)
+
+@tab 黄豆焖猪手
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wldj/3.JPEG)
+
+@tab 葱油捞支竹
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/wldj/4.JPEG)
+
+:::
+
+- [x] 招牌盐焗鸡
+- [x] 客家煎酿豆腐
+- [x] 黄豆焖猪手
+- [x] 海皇粉丝煲
+- [x] 葱油捞支竹
+- [x] 木瓜鹿茸菌鸡汤
 
 ## BE BRIGHT CAFFE
 

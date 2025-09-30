@@ -16,7 +16,7 @@ article: false
 
 @tab 蒜蓉粉丝蒸元贝
 
-![蒜蓉粉丝蒸元贝（6只）](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/py/lx/xdm/7.jpg)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/py/lx/xdm/7.jpg)
 
 @tab 蒜蓉蒸湛江生蚝
 
@@ -46,7 +46,7 @@ article: false
 
 @tab 濑尿虾
 
-![椒盐濑尿虾1斤](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/py/lx/xdm/8.jpg)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/py/lx/xdm/8.jpg)
 
 @tab 小北极贝刺身
 

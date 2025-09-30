@@ -33,3 +33,13 @@ article: false
 - [x] 秋葵蒸蛏子
 - [x] 大同鸡蛋挞
 - [x] 香辣鱼皮
+
+## 点都德
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K0PCL5WG" target="_blank">萝岗万达广场4楼地铁6号线苏元D出口</a>
+
+- [x] 乳鸽
+- [x] 金莎红米肠
+- [x] 百合酱蒸凤爪
+- [x] 鸡丝炸春卷
+- [x] 鲜木瓜炖海底椰汤

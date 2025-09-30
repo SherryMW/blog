@@ -34,7 +34,30 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J0SAGI69" target="_blank">文明路61号金佰利广场F2层</a>
 
+::: tabs
+
+@tab 新兴姑娘炒米粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/zyl/1.JPEG)
+
+@tab 蒸韭菜饺子
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/zyl/2.JPEG)
+
+@tab 嫩滑豆腐花
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/zyl/3.JPEG)
+
+@tab 鲜虾烧卖皇
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/zyl/4.JPEG)
+
+:::
+
 - [x] 新兴姑娘炒米粉 ✨
+- [x] 蒸韭菜饺子 ✨
+- [x] 鲜虾烧卖皇
+- [x] 嫩滑豆腐花 ✨
 
 ## 粤·向群饭店
 
@@ -124,7 +147,7 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GK7146CJ" target="_blank">西湖路63号光明广场三楼北区B06铺</a>
 
-![避风塘爆炒帝王蟹腿](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/fyyz/1.png)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/fyyz/1.png)
 
 - [x] 木瓜银耳椰子鸡
 - [x] 五指毛桃椰子鸡
@@ -134,6 +157,44 @@ article: false
 - [x] 响铃卷
 - [x] 泰国椰青
 
+## 粤·铭少食鸡专门店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K34SYM1R" target="_blank">文明路8号宝升大厦2楼</a>
+
+::: tabs
+
+@tab 明火香茅烧鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/yms/1.JPEG)
+
+@tab 海味粉丝煲
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/yms/2.JPEG)
+
+@tab 肉酱车田豆腐
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/yms/3.JPEG)
+
+@tab 顺德爽鱼皮
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/yms/4.JPEG)
+
+:::
+
+- [x] 明火香茅烧鸡
+- [x] 海味粉丝煲
+- [x] 肉酱车田豆腐
+- [x] 顺德爽鱼皮
+
+## 正谈炸鸡
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K2JS5NCD" target="_blank">西湖路74号首层中偏西房自编之二</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/ztzj/1.JPEG)
+
+- [x] 琥珀蜂蜜
+- [x] 芝士雪花
+
 ## 刘福记
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFH8I8GG" target="_blank">文德路45号（35路车总站对面）</a>
@@ -141,6 +202,10 @@ article: false
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/lfj/1.jpg)
 
 - [x] 招牌四色面
+
+## 有米粥料·海鲜粥底火锅
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KKF7QK4O" target="_blank">北京路粤·潮楼L1</a>
 
 ## 麺屋猪一
 

@@ -49,6 +49,41 @@ article: false
 - [x] 津梨咸水角
 - [x] 月牙南瓜烙
 
+## 芸山季·云南野生菌火锅
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K6YA8DTT" target="_blank">天河路208号天河城7F层713、715</a>
+
+::: tabs
+
+@tab 当季菌王黑白松露菌汤锅
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/ysj/1.JPEG)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/ysj/2.JPEG)
+
+@tab 林养走地鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/ysj/3.JPEG)
+
+@tab 高山黑松露牛肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/ysj/4.JPEG)
+
+@tab 高原育牛Angus嫩肩
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/ysj/5.JPEG)
+
+:::
+
+- [x] 当季菌王黑白松露菌汤锅 ✨
+- [x] 林养走地鸡
+- [x] 高山黑松露牛肉
+- [x] 高原育牛Angus嫩肩
+- [x] 黄金响铃
+- [x] 姜柄瓜
+- [x] 娃娃菜
+- [x] 劲道捞面
+
 ## 小炳胜
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFJ9SWK8" target="_blank">天河路218号天环广场B2-19b铺</a>
@@ -111,7 +146,7 @@ article: false
 :::
 
 - [x] 秘制脆皮黑叉烧
-- [x] 红烧乳鸽 ✨
+- [x] 红烧乳鸽
 - [x] 台山黄鳝炒饭
 - [x] 牛肉卤水花生
 - [x] 生磨杏仁茶

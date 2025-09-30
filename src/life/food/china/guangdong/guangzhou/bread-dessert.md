@@ -20,14 +20,22 @@ article: false
 - [x] 茉莉鲜乳茶
 - [x] 生椰拿铁
 
-### 高桥面包店
+### 高桥面包店（歇业）
 
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0HDHCDUKA" target="_blank">越秀区龙津中路540号之一首层</a>
+已换店改名叫：FriendQ友堡
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0HDHCDUKA" target="_blank">荔湾区龙津中路540号之一首层</a>
 
 - [x] 菠萝火焰芝士猪扒包 ✨
 - [x] 照烧鸡扒包 ✨
 - [x] 蟹肉牛角包
 - [x] 粒粒鲜橙茶 ✨
+
+### FriendQ友堡
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0HDHCDUKA" target="_blank">荔湾区龙津东路808号首层</a>
+
+待探店
 
 ### 敬茶屋 keichaya
 
@@ -59,6 +67,11 @@ article: false
 ### 仁信老铺甜品
 
 - [x] 原味双皮奶 ✨
+
+### 白瑭瑭
+
+- [x] 酥皮焦糖可颂蛋挞 ✨
+- [x] 香芋椰汁西米马蹄露
 
 ### 鲜芋仙
 

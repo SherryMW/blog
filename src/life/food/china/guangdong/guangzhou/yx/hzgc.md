@@ -69,6 +69,60 @@ article: false
 - [x] 白切咸猪手
 - [x] 椒丝付乳炒通菜
 
+## 虾饺妹
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFHU8ZQF" target="_blank">侨光路10号万艺广场5层</a>
+
+::: tabs
+
+@tab 蒜蓉粉丝蒸贵妃蚌
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/6.JPEG)
+
+@tab 鲍汁滑豆腐
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/7.JPEG)
+
+@tab 头抽炒面
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/1.JPEG)
+
+@tab 金银蛋上汤桑叶
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/2.JPEG)
+
+@tab 招牌虾饺妹
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/9.JPEG)
+
+@tab 蒜蓉粉丝蒸元贝
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/3.JPEG)
+
+@tab 酸菜鱼
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/8.JPEG)
+
+@tab 鲍汁蒸腐皮卷
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/4.JPEG)
+
+@tab 凉拌木耳
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/5.JPEG)
+
+:::
+
+- [x] 蒜蓉粉丝蒸贵妃蚌 ✨
+- [x] 蒜蓉粉丝蒸元贝
+- [x] 鲍汁滑豆腐 ✨
+- [x] 金银蛋上汤桑叶 ✨
+- [x] 酸菜鱼
+- [x] 头抽炒面 ✨
+- [x] 凉拌木耳
+- [x] 招牌虾饺妹 ✨
+- [x] 鲍汁蒸腐皮卷
+
 ## 野人汉堡
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00140U188" target="_blank">起义路1号(海珠广场地铁站B2口旁)</a>
@@ -148,6 +202,22 @@ article: false
 - [x] 白切三色拼
 - [x] 客家煎酿豆腐
 - [x] 湛江特色捞粉
+
+## 老碗会西安面馆
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KKNZVSH3" target="_blank">起义路1号海印缤缤广场F1层</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/lwh/1.JPEG)
+
+- [x] 维C番茄大块牛腩面
+
+## 周成芝螺蛳粉
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LRFA6CL4" target="_blank">大新路与解放南路交叉口西南40米</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/zcz/1.JPEG)
+
+- [x] 全家福螺蛳粉
 
 ## 松记烧鹅濑粉
 

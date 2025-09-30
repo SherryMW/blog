@@ -4,25 +4,6 @@ article: false
 
 # 一德路
 
-## 松记面家
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KGXYOWWV" target="_blank">满族小学大德校区南门旁</a>
-
-::: tabs
-
-@tab 猪手河粉
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/1.JPEG)
-
-@tab 牛腩面
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/2.JPEG)
-
-:::
-
-- [x] 猪手河粉 ✨
-- [x] 牛腩面 ✨
-
 ## 和府捞面
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J3XS9GQF" target="_blank">大德路114-120号首层</a>
@@ -50,6 +31,29 @@ article: false
 - [x] 入口即化红猪蹄
 - [x] 蔬菜汤
 - [x] 椰浆
+
+## 松记面家
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KGXYOWWV" target="_blank">满族小学大德校区南门旁</a>
+
+::: tabs
+
+@tab 猪手面/河粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/4.JPEG)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/1.JPEG)
+
+@tab 牛腩面/河粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/2.JPEG)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/3.JPEG)
+
+:::
+
+- [x] 猪手面/河粉 ✨
+- [x] 牛腩面/河粉 ✨
 
 ## 蒸武门
 
@@ -81,20 +85,34 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/6.JPEG)
 
+@tab 红腰豆焖猪尾
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/7.JPEG)
+
+@tab 蒸武门云吞
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/8.JPEG)
+
+@tab 凉拌青瓜
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/9.JPEG)
+
 :::
 
 - [x] 招牌虾饺皇
 - [x] 豉汁蒸凤爪
 - [x] 蒸武门云吞
 - [x] 爽滑牛肉丸
-- [x] 煎焗生肉包
-- [x] 脆皮甜薄餐
+- [x] 煎焗生肉包 ✨
+- [x] 脆皮甜薄餐 ✨
 - [x] 上海小笼包
-- [x] XO萝卜糕
-- [x] 韭菜猪红
+- [x] XO萝卜糕 ✨
+- [x] 韭菜猪红 ✨
+- [x] 红腰豆焖猪尾
+- [x] 凉拌青瓜
 - [x] 荔湾艇仔粥
-- [x] 三丝炒面
-- [x] 牛腩捞面
+- [x] 三丝炒面 ✨
+- [x] 牛腩捞面 ✨
 
 ## 为食面
 

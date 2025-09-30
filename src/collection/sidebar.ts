@@ -60,12 +60,18 @@ export const CollectionSidebar = arraySidebar([
                         children: ["movie", "tv"]
                     },
                     {
+                        text: "俄国",
+                        prefix: "russia/",
+                        collapsible: true,
+                        children: ["movie", "tv"]
+                    },
+                    {
                         text: "德国",
                         prefix: "germany/",
                         collapsible: true,
                         children: ["movie", "tv"]
                     },
-                    "india", "italy", "thailand", "france", "denmark"
+                    "india", "italy", "thailand", "france", "denmark", "australia"
                 ]
             },
             {

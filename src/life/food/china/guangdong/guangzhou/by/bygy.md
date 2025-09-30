@@ -4,6 +4,80 @@ article: false
 
 # 白云公园
 
+## 御品芳华苑
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KKTSVYJT" target="_blank">云霄路88号广州机场宾馆A栋1018</a>
+
+::: tabs
+
+@tab 烤乳鸽
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/9.JPEG)
+
+@tab 巨无霸菠萝包
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/1.JPEG)
+
+@tab 山水豆腐花
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/10.JPEG)
+
+@tab 虾饺
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/11.JPEG)
+
+@tab 姜汁小笼包
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/2.JPEG)
+
+@tab 三丝炸春卷
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/3.JPEG)
+
+@tab 鲜虾韭菜煎饼
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/4.JPEG)
+
+@tab 酱香蒸紫金凤爪
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/5.JPEG)
+
+@tab 金蒜银丝蒸扇贝
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/6.JPEG)
+
+@tab 招牌脆皮深井烧鹅
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/7.JPEG)
+
+@tab 明炉蜜汁叉烧
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/8.JPEG)
+
+@tab 头抽炒面
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/12.JPEG)
+
+@tab 鲍汁腐皮卷
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/13.JPEG)
+
+:::
+
+- [x] 烤乳鸽 ✨
+- [x] 招牌脆皮深井烧鹅
+- [x] 明炉蜜汁叉烧
+- [x] 金蒜银丝蒸扇贝
+- [x] 巨无霸菠萝包 ✨
+- [x] 山水豆腐花 ✨
+- [x] 虾饺
+- [x] 鲜虾韭菜煎饼
+- [x] 三丝炸春卷
+- [x] 酱香蒸紫金凤爪
+- [x] 姜汁小笼包
+- [x] 鲍汁腐皮卷
+- [x] 头抽炒面
+
 ## MR·ROCKY 洛奇先生餐吧
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFJ14MRH" target="_blank">云霄路349栋4号停机坪风车广场7号馆</a>
@@ -202,6 +276,30 @@ article: false
 
 - [x] 江团酸菜鱼
 
+## 鹿鼎记
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K35N757B" target="_blank">云城西路890号凯德广场4楼</a>
+
+::: tabs
+
+@tab 黄金蒜香酸菜鱼
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ldj/1.JPEG)
+
+@tab 大海爆炒肥肠
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ldj/2.JPEG)
+
+@tab 禄叔鸡翅
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ldj/3.JPEG)
+
+:::
+
+- [x] 黄金蒜香酸菜鱼
+- [x] 大海爆炒肥肠
+- [x] 禄叔鸡翅
+
 ## 广州酒家
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JUJNKT54" target="_blank">云霄路353号5号停机坪购物广场F1</a>
@@ -263,3 +361,13 @@ article: false
 - [x] 飘香猪尾
 - [x] 北海道大干鱿
 - [x] 5°桂花米酒
+
+## 胖哥俩肉蟹煲
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J1AU0N0T" target="_blank">凯德云尚广场负一层B101房</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/pgl/1.JPEG)
+
+- [x] 香辣虾蟹煲
+- [x] 渣渣脆小酥肉
+- [x] 黄金脆薯饼

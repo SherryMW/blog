@@ -46,6 +46,15 @@ article: false
 - [x] 水果玉米
 - [x] 手工鲜腐竹
 
+## 十八梯邓凳面
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LDRUD79M" target="_blank">天河路与天河东路辅路交叉口东440米</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/gd/sbtddm/1.JPEG)
+
+- [x] 经典炸酱米线
+- [x] 辣卤猪蹄 ✨
+
 ## 火垂火居酒屋
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0HR6S7X4D" target="_blank">龙口西路3号保利中辰广场1层103铺</a>

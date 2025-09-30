@@ -21,3 +21,15 @@ article: false
 
 - [x] 金龙浓厚鱼介豚骨拉面
 - [x] 木鱼花章鱼小丸子
+
+## 有福橄榄鸡煲
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JG5H314M" target="_blank">百顺南路15号云悦·云里户外广场B1-4铺</a>
+
+- [x] 招牌鲜橄榄锅
+- [x] 有福战斗鸡
+- [x] 熟腌鹅肠
+- [x] 菌蔬拼盘
+- [x] 潮汕蚝仔烙
+- [x] 潮汕黄金虾仁饼
+- [x] 潮汕手工芋泥卷

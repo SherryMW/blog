@@ -38,6 +38,47 @@ article: false
 - [x] 法式脆皮餐包
 - [x] 姬松茸炖鸡汤
 
+## 顺得来
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFGOGKGS" target="_blank">中山五路68号</a>
+
+::: tabs
+
+@tab 香煎手打鲜虾饼
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/sdl/1.JPEG)
+
+@tab 鱼肠煎蛋
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/sdl/2.JPEG)
+
+@tab 无鱼骨组合
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/sdl/3.JPEG)
+
+@tab 豉汁蒸鱼腩
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/sdl/4.JPEG)
+
+@tab 头尾骨煎焗
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/sdl/5.JPEG)
+
+@tab 鬼马捞鱼皮
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/sdl/6.JPEG)
+
+:::
+
+- [x] 无鱼骨组合 ✨
+- [x] 豉汁蒸鱼腩
+- [x] 头尾骨煎焗
+- [x] 九王鱼鲛
+- [x] 鱼蓉粥 ✨
+- [x] 香煎手打鲜虾饼 ✨
+- [x] 鱼肠煎蛋 ✨
+- [x] 鬼马捞鱼皮
+
 ## 味食家
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFKV9MOE" target="_blank">惠福西路264号</a>
@@ -56,6 +97,12 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/3.JPEG)
 
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/8.JPEG)
+
+@tab 茶香骨
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/10.JPEG)
+
 @tab 市师鸡
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/4.JPEG)
@@ -64,9 +111,21 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/7.JPEG)
 
+@tab 生炒骨
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/9.JPEG)
+
 @tab 鱼香茄子煲
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/6.JPEG)
+
+@tab 脆肉鲩
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/11.JPEG)
+
+@tab 陈皮番茄
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/12.JPEG)
 
 @tab 炒米粉
 
@@ -77,9 +136,13 @@ article: false
 - [x] 手工捞粉 ✨
 - [x] 陈皮白灼手打牛肉丸 ✨
 - [x] 秘制客家猪手 ✨
+- [x] 茶香骨 ✨
 - [x] 萝卜牛腩煲
+- [x] 生炒骨
 - [x] 市师鸡
 - [x] 鱼香茄子煲
+- [x] 脆肉鲩
+- [x] 陈皮番茄
 - [x] 炒米粉
 
 ## 今崎烧·寿喜烧专门店
@@ -121,7 +184,7 @@ article: false
 :::
 
 - [x] 松子鱼 ✨
-- [x] 脆皮炸大肠
+- [x] 脆皮炸大肠 ✨
 - [x] 白切鸡
 - [x] 凉拌鱼皮
 
@@ -133,6 +196,14 @@ article: false
 - [x] 金汤花胶鸡
 - [x] 上汤时令青菜
 - [x] 猪油捞饭
+
+## 初乐·韩国料理
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LGVGJN79" target="_blank">惠福东路442号01房</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/cl/1.JPEG)
+
+- [x] 奶酪芝士面包鸡
 
 ## 何里玉
 
@@ -169,3 +240,23 @@ article: false
 - [x] 东坡肉
 - [x] 咖喱面包鸡
 - [x] 江南绿茶饼
+
+## 莎车清真美食
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00140SQIB" target="_blank">光塔路43号(怀圣清真寺对面)</a>
+
+::: tabs
+
+@tab 羊肉汤
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/scqz/1.JPEG)
+
+@tab 烧烤
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/scqz/2.JPEG)
+
+:::
+
+- [x] 烤鸡翅
+- [x] 羊肉串
+- [x] 羊肉汤
