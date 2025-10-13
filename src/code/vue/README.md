@@ -1,10 +1,17 @@
 ---
-icon: vue
 article: false
 ---
 
 # Vue.js
 
-## 简介
+官网：[https://cn.vuejs.org/](https://cn.vuejs.org/)
 
-Vue (发音为 /vjuː/，类似 view) 是一款用于构建用户界面的 JavaScript 框架。它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。无论是简单还是复杂的界面，Vue 都可以胜任
+预备知识：
+
+[HTML](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Structuring_content)
+
+[CSS](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics)
+
+[JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+
+构建工具：[Vite](https://cn.vitejs.dev/)

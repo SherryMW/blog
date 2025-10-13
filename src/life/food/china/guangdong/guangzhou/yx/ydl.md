@@ -65,6 +65,10 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/1.JPEG)
 
+@tab 牛腩啫啫煲
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/10.JPEG)
+
 @tab 爽滑牛肉丸
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/zwm/2.JPEG)
@@ -113,6 +117,7 @@ article: false
 - [x] 荔湾艇仔粥
 - [x] 三丝炒面 ✨
 - [x] 牛腩捞面 ✨
+- [x] 牛腩啫啫煲
 
 ## 为食面
 

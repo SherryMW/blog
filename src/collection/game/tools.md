@@ -22,4 +22,4 @@ CE修改器：[https://www.cheatengine.org/downloads.php](https://www.cheatengin
 
 ## 攻略
 
-好吃的香草雪球：[https://xueqiumaps.cn](https://xueqiumaps.cn/)
+雪球的地图工坊：[https://xueqiumaps.cn](https://xueqiumaps.cn/)

@@ -52,7 +52,10 @@ export default hopeTheme({
         tabs: true, // 选项卡
         tasklist: true, // 任务列表
         figure: true, // 图片描述
-        component: true // 组件（VPCard）
+        component: true, // 组件（VPCard）
+        highlighter: { // 代码块高亮器
+            collapsedLines: 50
+        }
     },
     // 在这里配置主题提供的插件
     plugins: {

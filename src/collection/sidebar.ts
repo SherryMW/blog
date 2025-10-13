@@ -1,6 +1,6 @@
 import {arraySidebar} from "vuepress-theme-hope";
 
-export const CollectionSidebar = arraySidebar([
+export const Collection = arraySidebar([
     {
         text: "影视",
         prefix: "movies/",

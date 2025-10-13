@@ -1,31 +1,30 @@
 import {arraySidebar} from "vuepress-theme-hope";
 
-export const LifeSidebar = arraySidebar([
+export const Life = arraySidebar([
     {
-        text: "健康",
-        prefix: "healthy/",
+        text: "运动",
+        prefix: "exercise/",
         collapsible: true,
         children: [
             {
-                text: "运动",
-                prefix: "exercise/",
+                text: "健身",
+                prefix: "gym/",
                 collapsible: true,
-                children: [
-                    {
-                        text: "健身",
-                        prefix: "gym/",
-                        collapsible: true,
-                        children: ["2025", "2022"]
-                    },
-                    {
-                        text: "跑步",
-                        prefix: "running/",
-                        collapsible: true,
-                        children: ["2025", "2024"]
-                    }
-                ]
+                children: ["2025", "2022"]
+            },
+            {
+                text: "跑步",
+                prefix: "running/",
+                collapsible: true,
+                children: ["trail", "road", "2025", "2024"]
             }
         ]
+    },
+    {
+        text: "护理",
+        prefix: "care/",
+        collapsible: true,
+        children: ["skin", "body", "oral", "hair"]
     },
     {
         text: "美食",
@@ -115,7 +114,25 @@ export const LifeSidebar = arraySidebar([
                     }
                 ]
             },
-            "macao"
+            {
+                text: "澳门",
+                prefix: "macao/",
+                collapsible: true,
+                children: [
+                    {
+                        text: "澳门半岛",
+                        prefix: "ambd/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "氹仔岛",
+                        prefix: "dzd/",
+                        collapsible: true,
+                        children: "structure"
+                    }
+                ]
+            }
         ]
     }
 ])

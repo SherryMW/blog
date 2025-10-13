@@ -1,5 +1,5 @@
 ---
-icon: note
+icon: code
 article: false
 ---
 
@@ -9,4 +9,4 @@ article: false
 
 ### 前端开发
 
-- [Vue](vue/README.md)
+- [Vue.js](vue/README.md)
