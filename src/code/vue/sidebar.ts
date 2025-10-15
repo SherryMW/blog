@@ -12,7 +12,7 @@ export const Vue = arraySidebar([
             {
                 text: "基础",
                 prefix: "essentials/",
-                children: ["application", "template-syntax", "reactivity-fundamentals"]
+                children: ["application", "template-syntax", "reactivity-fundamentals", "computed", "class-and-style", "event-handling", "forms"]
             },
             {
                 text: "深入组件",
@@ -24,7 +24,11 @@ export const Vue = arraySidebar([
                 prefix: "scaling-up/",
                 children: ["sfc"]
             },
-
+            {
+                text: "TypeScript",
+                prefix: "typescript/",
+                children: ["composition-api"]
+            },
         ]
     },
     {
@@ -34,6 +38,10 @@ export const Vue = arraySidebar([
             {
                 text: "全局API",
                 children: ["application"]
+            },
+            {
+                text: "组合式API",
+                children: ["composition-api-setup", "reactivity-core"]
             },
             {
                 text: "内置内容",

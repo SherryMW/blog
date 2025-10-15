@@ -2,10 +2,16 @@ import {arraySidebar} from "vuepress-theme-hope";
 
 export const Life = arraySidebar([
     {
-        text: "运动",
-        prefix: "exercise/",
+        text: "健康",
+        prefix: "healthy/",
         collapsible: true,
         children: [
+            {
+                text: "睡眠",
+                prefix: "sleep/",
+                collapsible: true,
+                children: ["2025"]
+            },
             {
                 text: "健身",
                 prefix: "gym/",

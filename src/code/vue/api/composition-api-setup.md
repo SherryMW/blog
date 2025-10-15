@@ -2,6 +2,6 @@
 article: false
 ---
 
-# Class 与 Style 绑定
+# 组合式 API：setup()
 
 待更新

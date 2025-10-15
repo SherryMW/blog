@@ -2,6 +2,6 @@
 article: false
 ---
 
-# Class 与 Style 绑定
+# 计算属性
 
 待更新
