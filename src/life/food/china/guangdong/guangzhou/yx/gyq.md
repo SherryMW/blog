@@ -93,6 +93,10 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/2.JPEG)
 
+@tab 卤水大肠
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/15.JPEG)
+
 @tab 秘制客家猪手
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/3.JPEG)
@@ -103,7 +107,11 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/10.JPEG)
 
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/13.JPEG)
+
 @tab 市师鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/14.JPEG)
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/4.JPEG)
 
@@ -123,6 +131,14 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/11.JPEG)
 
+@tab 韭黄蛋炒牛肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/16.JPEG)
+
+@tab 虾酱蒸五花肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/17.JPEG)
+
 @tab 陈皮番茄
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/wsj/12.JPEG)
@@ -135,13 +151,16 @@ article: false
 
 - [x] 手工捞粉 ✨
 - [x] 陈皮白灼手打牛肉丸 ✨
+- [x] 卤水大肠 ✨
 - [x] 秘制客家猪手 ✨
 - [x] 茶香骨 ✨
 - [x] 萝卜牛腩煲
 - [x] 生炒骨
 - [x] 市师鸡
+- [x] 韭黄蛋炒牛肉
 - [x] 鱼香茄子煲
 - [x] 脆肉鲩
+- [x] 虾酱蒸五花肉
 - [x] 陈皮番茄
 - [x] 炒米粉
 

@@ -431,6 +431,14 @@ article: false
 - [x] 油条
 - [x] 小酥肉
 
+## 麺屋猪一
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0L2Z43OJZ" target="_blank">云城东路509号广州白云万达广场F3层</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/mwzy/1.JPEG)
+
+- [x] 豚骨王 ✨
+
 ## 尬图有料海鲜肠粉（歇业）
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KDYCZLVH" target="_blank">云城东路337号</a>

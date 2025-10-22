@@ -12,7 +12,7 @@ Steam 工具箱 Watt Toolkit（原名 Steam++）：[https://steampp.net](https:/
 
 风灵月影：[https://flingtrainer.com](https://flingtrainer.com)
 
-CE修改器：[https://www.cheatengine.org/downloads.php](https://www.cheatengine.org/downloads.php)
+CE修改器：[https://mod.3dmgame.com/mod/140848](https://mod.3dmgame.com/mod/140848)
 
 ## Steam 个人资料界面个性化配置
 

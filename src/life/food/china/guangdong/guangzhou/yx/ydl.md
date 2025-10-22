@@ -44,6 +44,8 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/1.JPEG)
 
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/5.JPEG)
+
 @tab 牛腩面/河粉
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/sj/2.JPEG)
@@ -118,6 +120,26 @@ article: false
 - [x] 三丝炒面 ✨
 - [x] 牛腩捞面 ✨
 - [x] 牛腩啫啫煲
+
+## 同庆里·老街肠粉
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LU6UH2G3" target="_blank">大德路127-129号首层105铺</a>
+
+::: tabs
+
+@tab 干炒牛河
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/tql/1.JPEG)
+
+@tab 陈皮红豆沙
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/tql/2.JPEG)
+
+:::
+
+- [x] 干炒牛河
+- [x] 陈皮红豆沙
+- [x] 咸煎饼
 
 ## 为食面
 

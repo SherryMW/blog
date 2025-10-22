@@ -212,6 +212,25 @@ article: false
 - [x] 手工鲜腐竹
 - [x] 粿条
 
+## 榕意·川味之美
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFGSUITN" target="_blank">云城西路890号凯德广场五楼L5-07</a>
+
+::: tabs
+
+@tab 菌香口水鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ry/1.JPEG)
+
+@tab 榕意毛血旺
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ry/2.JPEG)
+
+:::
+
+- [x] 菌香口水鸡 ✨
+- [x] 榕意毛血旺
+
 ## 达美乐比萨
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KBTHXBHR" target="_blank">云城西路890号凯德广场云尚B2层</a>
