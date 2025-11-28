@@ -12,7 +12,7 @@ article: false
 
 官网：[https://tv.apple.com/hk](https://tv.apple.com/hk)
 
-## 低端影视
+## 低端影视（暂时下架）
 
 官网：[https://ddys.pro](https://ddys.pro/)
 

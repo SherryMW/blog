@@ -45,10 +45,10 @@ export default hopeTheme({
         articleInfo: ["Author", "Date", "Category", "Tag"] // 博客主页列表中展示的文章相关标识信息
     },
     // 加密配置
-    // encrypt: {
-    //     global: true,
-    //     admin: "MW8888"
-    // },
+    encrypt: {
+        global: true,
+        admin: "MW8888"
+    },
     markdown: {
         tabs: true, // 选项卡
         tasklist: true, // 任务列表
