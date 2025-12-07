@@ -103,27 +103,61 @@ article: false
 
 [//]: # (- [x] 心理罪之城市之光)
 
-[//]: # ()
-[//]: # (## 2016)
+## 2025
 
-[//]: # ()
-[//]: # (- [x] 湄公河行动 ✨)
+### 哪吒之魔童闹海 ✨
 
-[//]: # (- [x] 惊天大逆转 ✨)
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/6.webp)
 
-[//]: # (- [x] 育婴室)
+### 斗罗大陆剧场版 剑道尘心
 
-[//]: # ()
-[//]: # (## 2015)
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/7.jpg)
 
-[//]: # ()
-[//]: # (- [x] 战狼 ✨)
+### 浪浪山小妖怪（待看）
 
-[//]: # (- [x] 唐人街探案 ✨)
+## 2020
 
-[//]: # (- [x] 破风)
+### 姜子牙
 
-[//]: # (- [x] 我是证人)
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/5.webp)
+
+## 2019
+
+### 哪吒之魔童降世 ✨
+
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/4.webp)
+
+## 2016
+
+### 湄公河行动 ✨
+
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/12.jpg)
+
+### 惊天大逆转 ✨
+
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/13.jpg)
+
+### 育婴室
+
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/14.jpg)
+
+## 2015
+
+### 战狼 ✨
+
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/8.webp)
+
+### 唐人街探案
+
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/9.jpg)
+
+### 破风
+
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/10.jpg)
+
+### 我是证人
+
+![](https://img.sherry4869.com/blog/collection/movie/chinese-mainland/movie/11.jpg)
 
 ## 2014
 

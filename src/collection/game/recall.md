@@ -232,6 +232,7 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 - [ ] 喷射战士3
 - [ ] 喷射战士2
 - [ ] 喷射战士
+- [ ] 非生物因素
 - [x] 链在一起（Chained Together）✨
 
 ![](https://img.sherry4869.com/blog/collection/game/chained-together/1.jpg)
@@ -270,6 +271,11 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 - [ ] 行尸走肉系列（The Walking Dead）
 - [ ] 黑相集：灰冥界
 
+---
+
+- [ ] What Remains of Edith Finch
+- [ ] 沉没意志
+
 @tab 全动态影像
 
 - [ ] 她的故事（Her Story）
@@ -300,19 +306,30 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 
 @tab 动作
 
-特点：手动操作、技能组合、房间/BOSS挑战、死亡重置
-
 - [x] Hades II（待通关）✨
 - [x] Hades（待通关）✨
+- [ ] 终极幸运之塔（Lucky Tower Ultimate）
+- [ ] 波斯王子：失落的王冠
+- [ ] 风中行者
 - [x] 无间冥寺（Curse of the Dead Gods）
 - [x] 暖雪 Warm Snow
 - [x] 深渊之影
 
 @tab 类幸存者
 
-特点：自动攻击、割草清屏、时间生存、Build构筑
-
 - [x] 土豆兄弟（Brotato）✨
+- [x] BALL x PIT-球比伦战记 ✨
+
+@tab 法术构筑
+
+- [ ] Noita
+- [x] 魔法工艺 Magicraft ✨
+
+@tab 策略
+
+- [ ] 背包乱斗（Backpack Battles）
+- [ ] 孤星猎人（LONESTAR）
+- [ ] 砍杀与骰子（Slice&Dice）
 
 @tab 地牢探险
 
@@ -329,18 +346,12 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 - [x] Fury Unleashed
 - [x] 碳酸危机
 
-@tab 法术构筑
-
-特点：自由组合法术/技能，高自由度Build
-
-- [ ] Noita
-- [x] 魔法工艺 Magicraft ✨
-
 @tab 卡牌
 
-特点：卡牌构筑、策略向、回合制
-
 - [x] 杀戮尖塔（Slay the Spire）✨
+- [ ] 小丑牌（Balatro）
+- [ ] 骰子浪游者（DICEOMANCER）
+- [ ] 永夜之围
 
 :::
 
@@ -374,7 +385,7 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 - [x] Donut County
 - [x] Run!ZombieFood!
 
-## 推理悬疑
+## 推理解谜
 
 - [ ] 逆转裁判系列
 - [ ] 弹丸论破系列
@@ -382,18 +393,21 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 - [ ] 黑色洛城（L.A. Noire）
 - [ ] 十二分钟（Twelve Minutes）
 - [ ] 东方快车谋杀案
+- [ ] 金偶像崛起（The Rise of the Golden idol）
 
 ---
 
 - [ ] 全网公敌
+- [ ] 接线疑云 The Operator
 - [ ] 疑案追声
 
-## 解谜
+## 逻辑解谜
 
 ::: tabs
 
 @tab 叙事驱动
 
+- [ ] 动物井
 - 绣湖系列
     - [x] Rusty Lake Hotel
 - [x] FRAMED Collection
@@ -408,6 +422,15 @@ Windows 10 或者 Windows 11 点击下载时可能会出现【无法下载-检�
 - [x] Spring Falls
 
 @tab 极简/抽象逻辑
+
+- [ ] 麦克斯韦解谜妖  
+    - ❌ 宝宝巴士  
+    - ❌ 略需思考  
+    - ❌ 稍有挑战  
+    - ❌ Stephen's Sausage Roll  
+    - ❌ Patrick's Parabox  
+    - ❌ Baba is you  
+    - ✅ SB is me  
 
 - [x] HOOK
 
@@ -478,7 +501,7 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 
 :::
 
-- [ ] 植物大战僵尸™：重植版
+- [x] 植物大战僵尸 ✨
 - 王国保卫战系列
     - [x] Kingdom Rush - Tower Defense ✨（105/130）
 - [ ] 气球塔防（Bloons TD 6）
@@ -619,10 +642,9 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 - [ ] 港诡实录
 - [x] 烟火
 
-## 类银河恶魔城
+## 类银河城
 
 - [ ] 空洞骑士（Hollow Knight）
-- [ ] 波斯王子：失落的王冠
 - [x] 红怪
 - [ ] 蒸汽世界：挖掘2
 - [ ] 蒸汽世界大劫掠
@@ -630,6 +652,15 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 - [ ] 精灵与萤火意志（Ori and the Will of the Wisps）
 - [ ] 神之亵渎
 - [ ] 洞窟物语（Cave Story+）
+
+## FPS
+
+- [ ] Kingmakers
+- [ ] Fallen Aces
+
+## 超现实
+
+- [ ] INDIKA
 
 ## 平台跳跃
 
