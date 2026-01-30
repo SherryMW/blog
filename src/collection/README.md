@@ -15,49 +15,50 @@ TMDB：[https://www.themoviedb.org](https://www.themoviedb.org)
 
 豆瓣电影：[https://movie.douban.com](https://movie.douban.com)
 
-[//]: # (### [奥斯卡金像奖]&#40;movies/oscars/2025.md&#41;)
+### 奖项
 
-[//]: # ()
-[//]: # (每年3月中下旬颁奖)
+**奥斯卡金像奖：**
 
-[//]: # ()
-[//]: # (官网：[https://www.oscars.org]&#40;https://www.oscars.org/&#41;)
+每年3月中下旬颁奖
 
-[//]: # ()
-[//]: # (豆瓣：[https://movie.douban.com/awards/Oscar/1]&#40;https://movie.douban.com/awards/Oscar/1/&#41;)
+官网：[https://www.oscars.org](https://www.oscars.org)
 
-[//]: # ()
-[//]: # (### [韩国青龙电影奖]&#40;movies/blue-dragon/2024.md&#41;)
+豆瓣：[https://movie.douban.com/awards/Oscar/1](https://movie.douban.com/awards/Oscar/1)
 
-[//]: # ()
-[//]: # (每年11月下旬颁奖)
+---
 
-[//]: # ()
-[//]: # (官网：[http://www.blueaward.co.kr]&#40;http://www.blueaward.co.kr/&#41;)
+**韩国青龙电影奖：**
 
-[//]: # ()
-[//]: # (豆瓣：[https://movie.douban.com/awards/blue-dragon/33]&#40;https://movie.douban.com/awards/blue-dragon/33/&#41;)
+每年11月下旬颁奖
 
-[//]: # ()
-[//]: # (### [香港金像奖]&#40;movies/hkfaa/2024.md&#41;)
+官网：[http://www.blueaward.co.kr](http://www.blueaward.co.kr)
 
-[//]: # ()
-[//]: # (每年4月中旬颁奖)
+豆瓣：[https://movie.douban.com/awards/blue-dragon/33](https://movie.douban.com/awards/blue-dragon/33)
 
-[//]: # ()
-[//]: # (官网：[https://hkfaa.com]&#40;https://hkfaa.com/&#41;)
+---
 
-[//]: # ()
-[//]: # (豆瓣：[https://movie.douban.com/awards/hkfaa/1]&#40;https://movie.douban.com/awards/hkfaa/1/&#41;)
+**香港金像奖：**
 
-[//]: # ()
-[//]: # (## 游戏)
+每年4月中旬颁奖
 
-[//]: # ()
-[//]: # (### [TGA]&#40;game/tga&#41;)
+官网：[https://hkfaa.com](https://hkfaa.com)
 
-[//]: # ()
-[//]: # (每年12月初颁奖)
+豆瓣：[https://movie.douban.com/awards/hkfaa/1](https://movie.douban.com/awards/hkfaa/1)
 
-[//]: # ()
-[//]: # (官网：[https://thegameawards.com]&#40;https://thegameawards.com/&#41;)
+## 游戏
+
+### 奖项
+
+**TGA：**
+
+每年12月初颁奖
+
+官网：[https://thegameawards.com](https://thegameawards.com)
+
+## 书籍
+
+### 数据库
+
+Open Library：[https://openlibrary.org](https://openlibrary.org)
+
+豆瓣读书：[https://book.douban.com](https://book.douban.com)

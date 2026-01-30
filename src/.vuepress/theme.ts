@@ -25,6 +25,20 @@ export default hopeTheme({
     docsDir: "src", // 文档在仓库中的目录
     navbar, // 导航栏
     sidebar, // 侧边栏
+    sidebarSorter: (a, b) => {
+        // 提取标题中的数字（匹配连续的数字字符）
+        const getNumberFromTitle = (title) => {
+            if (!title) return 0;
+            const match = title.match(/\d+/);
+            return match ? Number(match[0]) : 0;
+        };
+        // 提取a、b的数字
+        const numA = getNumberFromTitle(a.title);
+        const numB = getNumberFromTitle(b.title);
+        // 倒序排列：数字大的排前面
+        if (numA > numB) return -1;
+        if (numA < numB) return 1;
+    },
     pageInfo: ["Author", "Category", "Tag"], // 文章中顶部展示的相关标识信息
     contributors: false, // 是否显示页面贡献者
     lastUpdated: false, // 是否显示页面最后更新时间
@@ -34,8 +48,7 @@ export default hopeTheme({
     // 博客相关
     blog: {
         avatar: "/avatar.jpg", // 头像
-        // description: "过往不恋 未来不迎<br/><br/>上次更新：" + commitDate + "",
-        description: "上次更新：" + commitDate + "<br/><br/>更新内容：" + commitMessage,
+        description: "过往不恋 未来不迎<br/><br/>上次更新：" + commitDate + "<br/><br/>更新内容：" + commitMessage,
         intro: "", // 填写后点击头像或作者名称进入个人介绍页的界面地址
         medias: {
             Wechat: "https://img.sherry4869.com/blog/public/wechat.jpg",
