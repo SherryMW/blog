@@ -4,6 +4,40 @@ article: false
 
 # 一德路
 
+## 海鲜街菜馆
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B001402CB1" target="_blank">海珠南路152-2号(一德路地铁站B口步行140米)</a>
+
+::: tabs
+
+@tab 蒜蓉蒸沙虫
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/hxjcg/1.jpg)
+
+@tab 炸大肠
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/hxjcg/2.jpg)
+
+@tab 柚皮蒸排骨
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/hxjcg/3.jpg)
+
+@tab 干炒牛河
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/hxjcg/4.jpg)
+
+@tab 人参炖鸡汤
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/hxjcg/5.jpg)
+
+:::
+
+- [x] 蒜蓉蒸沙虫 ✨
+- [x] 炸大肠
+- [x] 柚皮蒸排骨
+- [x] 干炒牛河
+- [x] 人参炖鸡汤 ✨
+
 ## 和府捞面
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J3XS9GQF" target="_blank">大德路114-120号首层</a>
@@ -22,13 +56,25 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/hflm/3.JPEG)
 
+@tab 黑金鸡块
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/hflm/5.jpg)
+
+@tab 鳕虾圈
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/ydl/hflm/4.jpg)
+
 :::
 
 - [x] 豪横牛腩面 ✨
 - [x] 草本番茄软骨面 ✨
 - [x] 巨无霸牛肋排面
 - [x] 草本骨汤梅肉面
+- [x] 番茄芝士肥牛面
 - [x] 入口即化红猪蹄
+- [x] 黑金鸡块 ✨
+- [x] 老上海猪排
+- [x] 鳕虾圈
 - [x] 蔬菜汤
 - [x] 椰浆
 

@@ -54,4 +54,6 @@ article: false
 
 ## 民信老铺
 
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LR9RQLQB" target="_blank">岭南天地商业中心文会里13号</a>
+
 - [x] 椰汁双皮奶

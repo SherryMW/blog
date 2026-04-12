@@ -39,6 +39,35 @@ article: false
 - [x] 带子鲜虾韭菜春卷 ✨
 - [x] 鹿茸菌虫草花炖鸡
 
+## 广州宾馆·得云宫
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0MBP727FW" target="_blank">起义路12号广州宾馆25层</a>
+
+::: tabs
+
+@tab 糖沙翁
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/dyg/1.jpg)
+
+@tab 叉烧包
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/dyg/2.jpg)
+
+@tab 酥化鸡蛋挞
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/dyg/3.jpg)
+
+@tab 三丝炒面
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/dyg/4.jpg)
+
+:::
+
+- [x] 糖沙翁 ✨
+- [x] 叉烧包 ✨
+- [x] 酥化鸡蛋挞 ✨
+- [x] 三丝炒面
+
 ## 东山小厨
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFKY7XWI" target="_blank">起义路12-14号首层之一</a>
@@ -79,33 +108,41 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/6.JPEG)
 
-@tab 鲍汁滑豆腐
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/7.JPEG)
-
-@tab 头抽炒面
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/1.JPEG)
-
-@tab 金银蛋上汤桑叶
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/2.JPEG)
-
-@tab 招牌虾饺妹
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/9.JPEG)
-
 @tab 蒜蓉粉丝蒸元贝
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/3.JPEG)
+
+@tab 鲍汁滑豆腐
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/7.JPEG)
 
 @tab 酸菜鱼
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/8.JPEG)
 
+@tab 金银蛋上汤桑叶
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/2.JPEG)
+
+@tab 玉环罗汉斋
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/10.jpg)
+
+@tab 头抽炒面
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/1.JPEG)
+
+@tab 招牌虾饺妹
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/9.JPEG)
+
 @tab 鲍汁蒸腐皮卷
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/4.JPEG)
+
+@tab 养颜枣皇糕
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/xjm/11.jpg)
 
 @tab 凉拌木耳
 
@@ -116,22 +153,46 @@ article: false
 - [x] 蒜蓉粉丝蒸贵妃蚌 ✨
 - [x] 蒜蓉粉丝蒸元贝
 - [x] 鲍汁滑豆腐 ✨
-- [x] 金银蛋上汤桑叶 ✨
 - [x] 酸菜鱼
+- [x] 金银蛋上汤桑叶 ✨
+- [x] 玉环罗汉斋
 - [x] 头抽炒面 ✨
-- [x] 凉拌木耳
 - [x] 招牌虾饺妹 ✨
+- [x] 和味酱皇蒸凤爪
 - [x] 鲍汁蒸腐皮卷
+- [x] 养颜枣皇糕
+- [x] 凉拌木耳
 
-## 野人汉堡
+## 潘姐广西粉友
 
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00140U188" target="_blank">起义路1号(海珠广场地铁站B2口旁)</a>
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KAVZ50XR" target="_blank">起义路29号地下(海珠广场地铁站B12口步行131米)</a>
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/yrhb/1.JPEG)
+::: tabs
 
-![你是我的堡:hamburger:](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/yrhb/2.JPEG)
+@tab 爆炒螺蛳粉
 
-- [x] 招牌花生酱牛肉汉堡 ✨
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/pj/1.jpg)
+
+@tab 木薯糖水
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/pj/2.jpg)
+
+:::
+
+- [x] 爆炒螺蛳粉 ✨
+- [x] 木薯糖水
+
+## 丁酥记·手工千层牛肉饼
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0ID698MMC" target="_blank">起义路与大新路交叉口北14米</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/dsj/1.jpg)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/dsj/2.jpg)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/dsj/3.jpg)
+
+- [x] 千层牛肉饼 ✨
 
 ## haxnbauer 海森堡德国餐厅
 

@@ -8,7 +8,9 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B073D00BG0" target="_blank">外港填海区仙德丽街</a>
 
-- [x] 传统泰式按摩 ✨
+- [x] 传统泰式按摩 ✨✨✨
+
+时长：90 分钟
 
 费用：MOP$2535（客房内享用加收 MOP$400 + 10%服务费 + 5%政府税）
 

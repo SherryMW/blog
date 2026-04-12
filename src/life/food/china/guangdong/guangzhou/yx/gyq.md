@@ -216,6 +216,56 @@ article: false
 - [x] 上汤时令青菜
 - [x] 猪油捞饭
 
+## 蛙来哒
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KACLPFFD" target="_blank">中山五路67号五月花商业广场440-441号铺位</a>
+
+- [x] 紫苏牛蛙 ✨
+
+## 何大喜
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K21OMWDW" target="_blank">北京街道教育路5号</a>
+
+::: tabs
+
+@tab 黄金蒜香骨
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/hdx/1.jpg)
+
+@tab 手撕盐焗鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/hdx/2.jpg)
+
+@tab 冰镇咕噜肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/hdx/3.jpg)
+
+@tab 咖喱牛肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/hdx/4.jpg)
+
+@tab 叉烧炒滑蛋
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/hdx/7.jpg)
+
+@tab 葱油淋鱼片
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/hdx/6.jpg)
+
+@tab 芫茜豆腐鱼片汤
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/hdx/5.jpg)
+
+:::
+
+- [x] 黄金蒜香骨 ✨
+- [x] 手撕盐焗鸡
+- [x] 冰镇咕噜肉
+- [x] 咖喱牛肉
+- [x] 叉烧炒滑蛋
+- [x] 葱油淋鱼片
+- [x] 芫茜豆腐鱼片汤
+
 ## 初乐·韩国料理
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LGVGJN79" target="_blank">惠福东路442号01房</a>
@@ -260,6 +310,35 @@ article: false
 - [x] 咖喱面包鸡
 - [x] 江南绿茶饼
 
+## 醉赏食啫煲大排档
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0G2AK1G0S" target="_blank">惠福西路414号</a>
+
+::: tabs
+
+@tab 香橙胡椒鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/zss/1.jpg)
+
+@tab 咸蛋黄鸡中翼
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/zss/2.jpg)
+
+@tab 水煮牛蛙
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/zss/3.jpg)
+
+@tab 蒜蓉炒油麦菜
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/zss/4.jpg)
+
+:::
+
+- [x] 香橙胡椒鸡
+- [x] 咸蛋黄鸡中翼
+- [x] 水煮牛蛙
+- [x] 蒜蓉炒油麦菜
+
 ## 莎车清真美食
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00140SQIB" target="_blank">光塔路43号(怀圣清真寺对面)</a>
@@ -279,3 +358,11 @@ article: false
 - [x] 烤鸡翅
 - [x] 羊肉串
 - [x] 羊肉汤
+
+## 蟹记王·蟹黄面
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JKXUS3U7" target="_blank">惠福东路462号</a>
+
+![吃过最难吃的蟹黄面](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/xjw/1.jpg)
+
+- [x] 招牌蟹黄黄金套餐+醉虾+时蔬

@@ -26,6 +26,10 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/hnc/15.jpg)
 
+@tab 文昌鸡蛋挞
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/hnc/4.png)
+
 @tab 飘香黄金饼
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/hnc/10.jpg)
@@ -33,10 +37,6 @@ article: false
 @tab 蒜香蒸排骨
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/hnc/3.png)
-
-@tab 文昌鸡蛋挞
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/hnc/4.png)
 
 @tab 海南炸春卷
 
@@ -80,10 +80,10 @@ article: false
 - [x] 古法羊腩煲
 - [x] 烧鹅
 - [x] 蒜香骨
-- [x] 文昌鸡蛋挞 ✨
 - [x] 鲍汁鲜虾腐皮卷 ✨
 - [x] 招牌鲍汁凤爪 ✨
 - [x] 柱候蒸凤爪 ✨
+- [x] 文昌鸡蛋挞 ✨
 - [x] 海南虾饺皇
 - [x] 蒜香蒸排骨
 - [x] 海南炸春卷
@@ -113,13 +113,13 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/dh/2.JPEG)
 
-@tab 东湖小笼包
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/dh/3.JPEG)
-
 @tab 东湖靓虾饺
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/dh/4.JPEG)
+
+@tab 东湖小笼包
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/dh/3.JPEG)
 
 @tab 杨枝甘露
 
@@ -180,6 +180,10 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/1.JPEG)
 
+@tab 啫啫牛肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/3.JPEG)
+
 @tab 码头生煎包
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/4.jpg)
@@ -187,10 +191,6 @@ article: false
 @tab 九肚鱼脆炸
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/2.JPEG)
-
-@tab 啫啫牛肉
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yl/3.JPEG)
 
 @tab 脆皮乳鸽
 
@@ -204,11 +204,11 @@ article: false
 
 - [x] 超罗虾炭烧 ✨
 - [x] 带子蒜蓉粉丝蒸 ✨
+- [x] 啫啫牛肉 ✨
 - [x] 九肚鱼脆炸
 - [x] 海胆原只蒸蛋
 - [x] 脆皮乳鸽
 - [x] 卤水拼盘
-- [x] 啫啫牛肉 ✨
 - [x] 码头生煎包 ✨
 - [x] 海胆炒饭
 
@@ -262,7 +262,7 @@ article: false
 - [x] 豉汁蒸凤爪
 - [x] 酱汁金钱肚
 - [x] 蟹柳紫菜卷
-- [x] 蒸武门云吞 ✨
+- [x] 蒸武门云吞
 - [x] 三丝炒面 ✨
 - [x] 荔湾艇仔粥 ✨
 - [x] 蒸武门炒饭
@@ -275,10 +275,63 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/cjyp/1.jpg)
 
+::: tabs
+
+@tab 炸酱热干面
+
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/cjyp/2.jpg)
+
+@tab 牛肉热干面
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/cjyp/3.jpg)
+
+:::
 
 - [x] 炸酱热干面 ✨
 - [x] 牛肉热干面 ✨
+
+## 佬广道
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LRCBDFXG" target="_blank">岗贝路1-7号</a>
+
+::: tabs
+
+@tab 脆皮烧鹅下肶濑粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/lgd/1.jpg)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/lgd/2.jpg)
+
+@tab 脆皮鹅头（带脖子）
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/lgd/5.jpg)
+
+@tab 脆皮烧鹅濑粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/lgd/7.jpg)
+
+@tab 脆皮烤鸭肶濑粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/lgd/3.jpg)
+
+@tab 手撕鸡濑粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/lgd/6.jpg)
+
+@tab 脆皮澳门烧肉濑粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/lgd/4.jpg)
+
+:::
+
+- [x] 脆皮烧鹅下肶濑粉 ✨
+- [x] 脆皮烧鹅濑粉 ✨
+- [x] 脆皮烤鸭肶濑粉
+- [x] 手撕鸡濑粉
+- [x] 豉油鸡濑粉
+- [x] 脆皮澳门烧肉濑粉
+- [x] 水晶鸡肶濑粉
+- [x] 脆皮鹅头（带脖子）✨
 
 ## 羊腾香惠来羊肉火锅
 
@@ -350,6 +403,14 @@ article: false
 
 ::: tabs
 
+@tab 果木肉眼牛扒
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/tbmd/6.jpg)
+
+@tab 雪花板健牛扒
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/tbmd/7.jpg)
+
 @tab 经典招牌牛扒
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/tbmd/4.JPEG)
@@ -372,15 +433,27 @@ article: false
 
 :::
 
+- [x] 果木肉眼牛扒 ✨
+- [x] 雪花板健牛扒
 - [x] 经典招牌牛扒
-- [x] 雪花牛排
-- [x] 西冷牛排
+- [x] 雪花牛扒
+- [x] 西冷牛扒
 - [x] 奥地利香蒜鸡扒
 - [x] 威尼斯蜜汁鸡扒
 - [x] 番茄汁鸡扒炒意面
 - [x] 意大利肉酱面
 - [x] 奶茶
 - [x] 红茶
+
+## 八合里潮汕鲜牛肉火锅
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFHSMCH3" target="_blank">棠景街远景路24号108、208铺</a>
+
+- [x] 五花趾
+- [x] 三花趾
+- [x] 精选嫩肉
+- [x] 干炒牛河
+- [x] 豆黄鲜腐竹
 
 ## 威记茶居
 
@@ -453,6 +526,10 @@ article: false
 
 ::: tabs
 
+@tab 韭菜虾仁鸡蛋蒸饺
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/3.jpg)
+
 @tab 精肉香菇蒸饺
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/jj/2.JPEG)
@@ -464,8 +541,33 @@ article: false
 :::
 
 - [x] 精肉韭菜煎饺 ✨
+- [x] 韭菜虾仁鸡蛋蒸饺 ✨
 - [x] 精肉香菇水饺
 - [x] 红烧排骨面
+
+## 萍姨抻面馆
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0L3YAIDBE" target="_blank">远景路6162号时代商务中心B高栋112室</a>
+
+::: tabs
+
+@tab 番茄锅包肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/pyk/3.jpg)
+
+@tab 烧烤
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/pyk/2.jpg)
+
+@tab 肉炒面
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/pyk/1.jpg)
+
+:::
+
+- [x] 番茄锅包肉 ✨
+- [x] 烧烤
+- [x] 肉炒面
 
 ## 川小馆
 
@@ -542,6 +644,52 @@ article: false
 - [x] 闸蟹凤爪煲
 - [x] 酱油鸡蛋炒饭
 
+## 牛香炭火烤肉
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GKKSYR7P" target="_blank">棠景路150号</a>
+
+::: tabs
+
+@tab 雪花牛肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/nxth/1.jpg)
+
+@tab 薄切牛舌
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/nxth/2.jpg)
+
+@tab 厚切五花肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/nxth/3.jpg)
+
+@tab 牛小排
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/nxth/4.jpg)
+
+@tab 芝士粉炸鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/nxth/5.jpg)
+
+@tab 金枪鱼沙拉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/nxth/6.jpg)
+
+@tab 石锅拌饭
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/nxth/7.jpg)
+
+:::
+
+- [x] 雪花牛肉
+- [x] 牛小排
+- [x] 薄切牛舌
+- [x] 浇汁肥牛
+- [x] 黑椒雪花块肉
+- [x] 厚切五花肉
+- [x] 芝士粉炸鸡
+- [x] 金枪鱼沙拉
+- [x] 石锅拌饭
+
 ## 窄巷口生烫牛肉米线馄饨
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0G2AC65XO" target="_blank">区岗贝路与机场路交叉口西40米</a>
@@ -595,6 +743,16 @@ article: false
 
 - [x] 葱香牛肉叉烧滑蛋饭
 - [x] 滑蛋咖喱鸡扒饭
+
+## 璞园香约椰子鸡
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFGGZJ3D" target="_blank">机场路87润景广场F3层</a>
+
+- [x] 花胶木瓜椰子鸡
+- [x] 豆寇年华拼盘
+- [x] 黄金小南瓜
+- [x] 龙口粉丝
+- [x] 泰椰
 
 ## 绿茶餐厅
 

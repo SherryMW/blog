@@ -4,7 +4,7 @@ article: false
 
 # Coze
 
-官网：[https://www.coze.cn/home](https://www.coze.cn/home)
+官网：[https://www.coze.cn/home/](https://www.coze.cn/home/)
 
 Coze（中文名 “扣子”）是字节跳动推出的零代码 / 低代码 AI 智能体开发平台，支持全技能用户快速构建、测试并部署生成式 AI 应用，核心优势是可视化拖拽、多模型接入、插件与知识库扩展、跨渠道发布，覆盖对话助手、流程自动化、数据处理等场景
 
@@ -340,7 +340,9 @@ Function Calling 的典型执行步骤分为 4 步，以 Java 后端开发中 �
 
     调用代码解释器函数，运行用户编写的 Java 代码片段，返回执行结果或报错信息
 
-### 实战演练-AI旅行规划助手（利用已有插件）
+### 实战演练
+
+#### AI旅行规划助手（利用已有插件）
 
 ![](https://img.sherry4869.com/blog/coding/ai/coze/14.png)
 
@@ -415,7 +417,7 @@ Function Calling 的典型执行步骤分为 4 步，以 Java 后端开发中 �
 
 ![](https://img.sherry4869.com/blog/coding/ai/coze/16.png)
 
-### 实战演练-天气插件助手（自定义开发）
+#### 天气插件助手（自定义开发）
 
 什么时候需要自定义插件：
 
@@ -623,7 +625,9 @@ Coze 工作流是基于可视化界面的任务编排系统，通过节点拖拽
 
     - 日志系统记录每个节点的输入输出、执行状态与耗时，便于问题排查
 
-### 实战演练-跨境电商答疑助手（对话流）
+### 实战演练
+
+#### 跨境电商答疑助手（对话流）
 
 ![](https://img.sherry4869.com/blog/coding/ai/coze/25.png)
 
@@ -649,9 +653,529 @@ Coze 工作流是基于可视化界面的任务编排系统，通过节点拖拽
 
     实现方式：添加【插件】节点，该插件是用户自定义实现
 
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/30.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/31.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/32.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/33.png)
+
+    ```python
+    from runtime import Args
+    import random
+    """
+    Each file needs to export a function named `handler`. This function is 
+    the entrance to the Tool.
+    Parameters:
+    args: parameters of the entry function.
+    args.input - input parameters, you can get test input value by 
+    args.input.xxx.
+    args.logger - logger instance used to print logs, injected by runtime.
+    Remember to fill in input/output in Metadata, it helps LLM to 
+    recognize and use tool.
+    Return:
+    The return data of the function, which should match the declared 
+    output parameters.
+    """
+    def handler(args)->dict:
+        """
+        基于固定短语匹配的跨境电商问答处理器
+        
+        Args:
+            query: ⽤户输⼊的问题
+            
+        Returns:
+            Dict: 包含回复类型、回复内容等信息的字典
+        """
+        # 去除⾸尾空格
+        query = args.input.query.strip()
+        
+        # 打招呼相关的固定短语
+        greeting_phrases = {
+            # 基本问候
+            "你好", "您好", "hi", "hello", "嗨", "哈喽", "哈罗",
+            "早上好", "下午好", "晚上好", "上午好", "中午好", "晚安",
+            "早", "午安", "good morning", "good afternoon", "good evening",
+            # 询问身份
+            "你是谁", "你是什么", "你叫什么", "你的名字", "介绍⼀下⾃⼰", 
+            "⾃我介绍", "你是什么东⻄", "你是哪个", "你是啥",
+            # 询问状态
+            "你好吗", "怎么样", "还好吗", "你还好吗", "最近怎么样",
+            "你在吗", "在不在", "还在吗", "在线吗", "你在线吗",
+            # 询问能⼒
+            "你能⼲什么", "你会做什么", "你能做什么", "你的功能", 
+            "你有什么⽤", "你的作⽤", "你的职责", "你的⽤途",
+            "你能帮我什么", "你可以做什么", "你会什么", "你懂什么",
+            "能⼒介绍", "功能介绍", "你的能⼒", "你有什么功能",
+            # 开始对话
+            "开始", "开始咨询", "开始对话", "开始聊天", "我想咨询",
+            "我有问题", "我想问问题", "我想了解", "咨询⼀下",
+            # 测试类
+            "测试", "试试", "试⼀试", "test", "testing", "试试看",
+            "测试⼀下", "看看", "检查⼀下"
+        }
+        
+        # 礼貌⽤语
+        thank_phrases = {
+            "谢谢", "感谢", "多谢", "谢了", "thanks", "thank you", 
+            "thx", "3q", "3x", "谢谢你", "感谢你", "多谢了",
+            "⾮常感谢", "⼗分感谢", "万分感谢", "太感谢了"
+        }
+        
+        goodbye_phrases = {
+            "再⻅", "拜拜", "bye","byebye","goodbye", "88", "⾛了", "告辞",
+            "先⾛了", "下次⻅", "回头⻅", "有空再聊", "改天聊",
+            "see you", "拜", "溜了", "闪了", "slip away"
+        }
+    
+        # 固定回复
+        greeting_response = "你好，很⾼兴为您服务！我是您的跨境电商学习⼩助⼿，专业为您答疑解惑。"
+        
+        polite_responses = {
+            "thank": [
+                "不⽤客⽓，随时为您服务！", 
+                "很⾼兴能帮助到您！", 
+                "这是我应该做的，有问题随时找我哦！",
+                "客⽓了，有什么问题尽管问！",
+                "不客⽓，祝您跨境电商⽣意兴隆！"
+            ],
+            "goodbye": [
+                "再⻅！期待下次为您服务！", 
+                "祝您⽣活愉快，有问题随时来找我！", 
+                "再⻅！祝您跨境电商⽣意兴隆！",
+                "拜拜！有问题随时回来咨询！",
+                "再⻅！祝您学习愉快！"
+            ]
+        }
+        
+        # ⼈⼯服务相关短语
+        human_service_phrases = {
+            # 直接要求⼈⼯服务
+            "⼈⼯服务", "⼈⼯客服", "⼈⼯坐席", "⼈⼯咨询", "⼈⼯帮助",
+            "⼈⼯⽀持", "⼈⼯答疑", "⼈⼯解答", "⼈⼯回复", "⼈⼯对话",
+            # 转接相关
+            "转⼈⼯", "找⼈⼯", "要⼈⼯", "转接⼈⼯", "转接客服",
+            "切换⼈⼯", "接⼊⼈⼯", "联系⼈⼯","答疑⼊⼝",
+            # 真⼈服务
+            "真⼈服务", "真⼈客服", "真⼈咨询", "真⼈对话", "真⼈帮助",
+            "活⼈", "真⼈", "⼈类", "⼈⼯", "真的⼈",
+            # 客服相关
+            "客服", "在线客服", "联系客服", "找客服", "客服电话",
+            "客服微信", "客服qq", "官⽅客服",
+            # ⽼师/导师
+            "联系⽼师", "找⽼师", "咨询⽼师", "请教⽼师", "⽼师帮忙",
+            "专业⽼师", "课程⽼师", "指导⽼师",
+            # 专业服务
+            "专⼈服务", "专⼈客服", "专业咨询", "专业服务", "专家咨询",
+            "顾问咨询", "⼀对⼀服务", "专属服务",
+            # 投诉和问题
+            "投诉", "举报", "反馈问题", "意⻅反馈", "服务投诉",
+            "质量问题", "服务问题", "系统问题",
+            # 售后相关
+            "退款", "退货", "售后", "售后服务", "退换货", "申请退款",
+            "退费", "取消订单", "订单问题",
+            # 不满意
+            "不满意", "有问题", "出问题", "不⾏", "太差了", "服务差",
+            "回答不对", "答⾮所问", "听不懂", "不准确"
+        }
+        
+        human_service_response = "同学，点击 https://www.123.com 可进⼊⼈⼯答疑"
+        
+        def normalize_text(text: str) -> str:
+            """标准化⽂本：去除标点符号，转换为⼩写"""
+            import re
+            # 保留中⽂、英⽂、数字，去除标点符号和空格
+            cleaned = re.sub(r'[^\w\u4e00-\u9fff]', '', text.lower().strip())
+            return cleaned
+        
+        def exact_match_check(query_text: str, phrase_set) -> bool:
+            """精确匹配检查"""
+            normalized_query = normalize_text(query_text)
+            
+            for phrase in phrase_set:
+                normalized_phrase = normalize_text(phrase)
+                if normalized_phrase == normalized_query:
+                    return True
+            return False
+        
+        def contains_match_check(query_text: str, phrase_set) -> bool:
+            """包含匹配检查（⽤于短查询中包含关键短语的情况）"""
+            normalized_query = normalize_text(query_text)
+            
+            # 只有当查询很短时才使⽤包含匹配（避免误匹配）
+            if len(normalized_query) <= 10:
+                for phrase in phrase_set:
+                    normalized_phrase = normalize_text(phrase)
+                    if len(normalized_phrase) > 1 and normalized_phrase in normalized_query:
+                        return True
+            return False
+        
+        # 处理输⼊
+        query = query.strip()
+        if not query:
+            return {
+                "type": "error",
+                "response": "请输⼊您的问题。",
+                "need_rag": False,
+                "original_query": query
+            }
+        
+        print(f"处理查询: '{query}'")
+        print(f"标准化后: '{normalize_text(query)}'")
+        
+        # 1. 检查感谢类礼貌⽤语（精确匹配）
+        if exact_match_check(query, thank_phrases):
+            return {
+                "type": "greeting",
+                "response": random.choice(polite_responses["thank"]),  
+                "need_rag": False,
+                "original_query": query
+            }
+        
+        # 2. 检查告别类礼貌⽤语（精确匹配）
+        if exact_match_check(query, goodbye_phrases):
+            return {
+                "type": "greeting", 
+                "response": random.choice(polite_responses["goodbye"]),
+                "need_rag": False,
+                "original_query": query
+            }
+        
+        # 3. 检查打招呼（精确匹配 + 短语包含匹配）
+        if exact_match_check(query, greeting_phrases) or contains_match_check(query, greeting_phrases):
+            return {
+                "type": "greeting",
+                "response": greeting_response,
+                "need_rag": False,
+                "original_query": query
+            }
+        
+        # 4. 检查⼈⼯服务请求（精确匹配 + 短语包含匹配）
+        if exact_match_check(query, human_service_phrases) or contains_match_check(query, human_service_phrases):
+            return {
+                "type": "human_service",
+                "response": human_service_response,
+                "need_rag": False,
+                "original_query": query
+            }
+        
+        # 5. 其他情况需要RAG检索
+        return {
+            "type": "rag_needed",
+            "response": "",
+            "need_rag": True,
+            "original_query": query
+        }
+    ```
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/34.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/35.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/36.png)
+
+3. 选择器
+
+    作用：获取意图识别的结果，如果意图识别属于打招呼、人工服务这两种类型，直接返回默认结果结束；否则，直接经过知识库检索
+
+    实现方式：添加【选择器】节点
+
+   ![](https://img.sherry4869.com/blog/coding/ai/coze/37.png)
+
+4. 知识库检索
+
+    作用：输入用户的专业问题，经过知识库检索，得到和问题相关的上下文，注意：有可能检索出来的结果为空
+
+    实现方式：添加【知识库检索】节点
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/38.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/39.png)
+
+    上传：[跨境电商数据.xlsx](https://img.sherry4869.com/blog/coding/ai/coze/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E6%95%B0%E6%8D%AE.xlsx)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/40.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/41.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/42.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/43.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/44.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/45.png)
+
+5. 判断是否可以检索出结果
+
+    作用：根据是否检索出结果进行选择判断
+
+    - 如果检索出相关的上下文，那么交由《大模型RAG回答》：基于问题和上下文来让大模型回答问题
+
+    - 如果没有检索出相关的上下文，那么交由《闲聊大模型回答》：直接将问题送入大模型回答问题
+
+    实现方式：添加【选择器】节点
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/46.png)
+
+6. 大模型RAG回答
+
+    作用：接收用户的query和上下文，经过大模型获得结果
+
+    实现方式：添加【大模型】节点
+
+    RAG大模型系统提示词：
+
+    ```markdown
+    # 角色
+    你是一位专业且高效的跨境电商答疑小助手，精通跨境电商领域的各类知识，能够依据相关信息准确回答用户关于跨境电商的问题
+    
+    ## 技能
+    ### 技能 1: 基于上下文解答问题
+    1. 严格依据提供的上下文内容进行回答，不添加上下文中未出现的信息
+    2. 回答需精准、简洁、有条理，重点突出，逻辑严密，避免歧义，采用清晰的格式呈现内容，将复杂概念以通俗易懂的方式表达
+    ### 技能 2: 答案优化
+    1. 若问题检索出来的上下文答案比较简单，需进行优化，但不能改变原来上下文中涉及到的答案核心内容
+    2. 示例：
+        - 问题：是不是不能在一个页面里面同时操作设置两个素材（A 图案对应白 T，B 图案对应黑 T），只能选一个通用于黑白 T 的图案？
+        - 检索上下文答案：是的
+        - 优化后给出答案：是的，不能在一个页面里面同时操作设置两个素材（A 图案对应白 T，B 图案对应黑 T），只能选一个通用于黑白 T 的图案
+    ### 技能 3: 上下文不足信息内容补齐
+    1. 若问题经过数据库检索，给出的上下文信息非常少或没有，需结合自身专业知识回答
+    2. 示例：
+        - 问题：如果我的产品标题中既有泰文和英文，算重复吗？
+        - 上下文的信息：请不要在标题中出现叠词
+        - 回答：本地知识库中未提供关于产品既有泰文和英文是否算重复的相关内容，结合专业知识，目前没有明确固定标准判定这种情况一定算重复，具体要根据不同平台规则和实际情况判断。以上信息仅供参考
+    ### 技能 4 敏感词过滤
+    1. 当遇到不符合安全规范或者敏感的词汇时，优先利用插件 {check_words} 进行敏感词搜索，然后去除
+    
+    ## 限制
+    - 仅回答与跨境电商相关的问题，拒绝处理与跨境电商无关的话题
+    - 优先以检索的知识库内容为答案，除非内容不全再进行优化或者补全
+    - 回答内容必须符合上述技能要求的格式和规范
+    - 若回答基于知识库已有信息，需遵循相应说明规范；若知识库中没有相关内容，应按技能 3 要求回答用户
+    ```
+
+    RAG大模型用户提示词：`问题：{{input}}, 上下⽂：{{context[0].output}}`
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/47.png)
+
+7. 大模型闲聊回答
+
+    作用：接收用户的问题，直接基于大模型本身回答结果
+
+    实现方式：添加【大模型】节点
+
+    闲聊大模型系统提示词：
+
+    ```markdown
+    # 角色
+    你是一位专业且亲切的跨境电商答疑小助手，不仅拥有深厚的跨境电商专业知识，还具备广泛的通用知识储备。你能够根据用户需求，灵活切换角色，既能为用户解答跨境电商领域的复杂专业问题，也能与用户展开轻松愉快的日常闲聊
+    
+    ## 技能
+    ### 技能 1: 精准解答跨境电商问题
+    1. 当用户提出跨境电商相关问题时，充分运用自身专业知识，结合丰富且贴合实际的案例，为用户提供准确、全面且详细的解答
+    2. 针对复杂的跨境电商概念，运用通俗易懂、生动形象的语言进行深入浅出的解释说明，确保用户能够轻松理解
+    3. 在回答的结尾处明确注明 “以上答案仅供参考”
+    ### 技能 2: 耐心回应非跨境电商问题
+    1. 当用户提及非跨境电商问题时，例如简单的数学运算 “1 + 1 等于几” 等，运用已有的知识储备，耐心、准确地对用户进行回答
+    2. 在回答此类问题的结尾同样注明 “以上答案仅供参考”
+    ### 技能 3: 合理引导不明确问题
+    1. 当用户输入的问题含义不明确时，不直接给出知识回答，而是友好地输出 “我还在努力理解您的问题，请您详细描述后再来询问吧，这样我能更好地为您解答”
+    
+    ## 限制
+    - 交流内容主要围绕跨境电商学习以及其他非电商知识相关范畴，对于与这两类内容无关的话题，需礼貌地拒绝回答，并告知用户 “抱歉，我只能回答与跨境电商学习和其他非电商知识相关的问题哦”
+    - 所输出的内容必须严格符合上述回答要求，保证格式规范、条理清晰、逻辑连贯
+    - 回答的答案中禁止提及：需要进行知识库检索
+    ```
+
+    闲聊大模型用户提示词：`⽤户输⼊：{{input}}`
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/48.png)
+
+8. 结束节点
+
+    作用：输出最终结果
+
+    实现方式：默认节点
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/49.png)
+
+#### 历史人物视频生成（工作流）
+
+为什么选择工作流：功能类AI应用、批量数据处理、多步骤自动化、无需对话交互
+
+业务场景：输入人物名字，自动生成视频
+
+核心功能设计：
+
+- 内容规划：LLM生成人物一生重要节点（时间、事件、提示词）
+- 素材批量制作：根据提示词生成AI图片和AI视频
+- 视频合成：计算每段视频的时间线，添加字幕、标题、音乐
+- 最终输出：返回剪映草稿ID，用户直接导入剪映，生成视频
+
+![](https://img.sherry4869.com/blog/coding/ai/coze/50.png)
+
+1. 开始节点
+
+    作用：用户输入-接收历史人物的名称
+
+2. 大模型生成文案
+
+    作用：根据历史人物的名称，生成该人物的主要事迹以及视频的标题
+
+    输入：
+
+    name：开始节点的input
+
+    系统提示词：
+
+    ```markdown
+    # 角色
+    你是一位熟悉世界历史人物生平的叙事专家，擅长以简洁、明确且具有画面感的方式，呈现历史人物从出生到逝世的关键经历。你能够从可靠的历史资料中筛选核心事件，并以时间顺序展示人物的人生轨迹
+    
+    ## 技能
+    ### 技能 1：叙述历史人物的一生
+    1. 当用户查询某位历史人物时，你需要参考权威资料（如历史类网站、百科、通识性书籍）
+    2. 提炼该人物一生中最关键的阶段，包括政治活动、军事行动、思想贡献、主要挫折等
+    3. 使用编年体，以时间为线索简要描述其代表性事件，使人物一生的脉络清晰可视化
+    
+    === 示例格式（示意用） ===
+    [人物姓名] 于 [出生年份] 出生于 [出生地]
+    [某年龄]，[事件或阶段描述 1]
+    [某年龄]，[事件或阶段描述 2]
+    ……
+    [逝世时年龄]，[逝世相关描述]
+    并简要说明其历史意义或留下的影响
+    === 示例结束 ===
+    
+    ### 技能 2：生成标题
+    根据人物一生的主题特点，为其生成一个简短的标题，如：
+    - “拿破仑的帝国之路”
+    - “莎士比亚的创作生涯”
+    ### 技能 3：以 JSON 输出
+    最终输出以 JSON 结构呈现：
+    {
+    "content": "历史人物的生平概述",
+    "title": "总结标题"
+    }
+    
+    ## 文本案例（示意风格展示）
+    1769 年，拿破仑出生于科西嘉岛  
+    9 岁，被送往法国本土学习军事  
+    24 岁，在土伦战役中崭露头角，被视为新星  
+    30 岁，在国内政变中掌握实权，成为第一执政  
+    35 岁，加冕为皇帝，将法国推向鼎盛时期  
+    45 岁，于滑铁卢战败后被流放至圣赫勒拿岛  
+    51 岁去世，后世将其视为影响欧洲格局的重要人物
+    
+    ## 限制
+    - 仅展示 6 个最为关键的事迹  
+    - 只回答与该人物相关的内容，其他内容一律拒绝  
+    - 所有叙述必须按时间顺序排列  
+    - 信息需来自可靠来源，可在文中适当注明（如：资料来源：[网站 / 书籍]）  
+    - 内容保持简洁凝练，不用复杂长句
+    - 场景描述注重叙事性与历史氛围，而非冲突与刺激性的细节
+    ```
+
+    用户提示词：`{{name}}`
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/51.png)
+
+    输出：JSON格式
+
+    ```text
+    包含两部分：
+    文案：context --> Array<String>
+    标题：title --> Array<String>
+    ```
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/52.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/53.png)
+
+3. 大模型生成图片提示词
+
+    作用：根据大模型生成的人物事件文案，来生成对应图片生成的提示词
+
+    输入：
+
+    prompt：大模型生成文案-context
+    
+    ```markdown
+    # 角色
+    你是一位擅长将历史场景具象化的叙事型绘画提示词创作者。你能够从历史素材中提炼关键信息，并将其转换为适合 AI 绘画的视觉化描述词。在接收到历史人物的故事片段与年龄信息后，你需要构建生动、具体、具有画面感的绘画提示词
+    
+    ## 技能
+    ### 技能 1：生成可绘制的历史人物描述词
+    1. 根据输入的历史故事与人物年龄，分析故事中的视觉元素，包括人物外貌特征、年代服饰、环境氛围、姿态动作、表情情绪等，并结合人物年龄特征进行整合
+    2. 使用清晰、具象、易被 AI 绘制理解的语言，将这些元素组织成流畅的描述词，从而使 AI 能够准确构图
+    3. 所生成的描述词需完整呈现场景的核心内容，突出人物在该年龄阶段的状态与故事情境
+    
+    === 示例 ===
+    35 岁的朱元璋身穿华贵的金色甲胄，头戴红缨武盔，骑在一匹高大、肌肉线条分明的黑马上，右手握着长枪，神情坚定；身后是随风猎猎作响的军旗与排列整齐的士兵，远方隐约可见烟雾弥漫的战场
+    === 示例结束 ===
+    
+    ## 案例机制
+    若故事中出现婴儿角色，必须包含 “一个坐着正在啼哭的婴儿” 这一要素
+    
+    示例：
+    输入：“1162 年，铁木真出生于蒙古草原。”
+    
+    输出示例：  
+    一个被厚实兽皮包裹的婴儿坐在蒙古包内的毛毯上，正在啼哭的婴儿，周围散放着具有草原民族特色的马鞍、弓袋等物品；婴儿黑发浓密、脸庞圆润，蒙古包外是一望无际的草地与成群的牧畜
+    
+    ## 限制
+    输入数组与输出数组的数量必须保持一致  
+    描述词只基于提供的历史故事与年龄信息，不回应其他无关内容  
+    输出内容需简洁、具体、强调可绘画性，不冗长  
+    描述需忠实于故事背景与人物年龄特点  
+    场景刻画注重叙事氛围，弱化 “破碎感”“残缺感” 等元素。强调历史场景的 “叙事” 元素而不是 “冲突” 元素
+    ```
+
+    用户提示词：`{{prompt}}，中国历史题材古代写实⻛格，超⾼清晰度，强烈对⽐，细腻质感`    
+
+    输出：JSON格式 `image_context:Arrary<String>`
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/54.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/55.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/56.png)
+
+4. 批处理-图像生成
+
+    作用：根据生成图片的提示词，批量生成图片
+
+    输入：`input:大模型生成图片提示词-image_context`
+
+    批处理体：
+
+    - 作用：利用【图像生成】节点批量生成图片
+
+    - 图像生成节点配置：
+
+        - 模型：通用-Pro/Seedream 4.5
+
+        - 比例：9:16
+
+        - 输入：`input:批处理-input`
+
+        - 正向提示词：`{{input}}，中国历史题材古代写实⻛格，超⾼清晰度，强烈对⽐，细腻质感`
+
+        - 输出：data msg
+
+    输出：本质是图片地址 `output:图像生成-data`
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/57.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/58.png)
+
+    ![](https://img.sherry4869.com/blog/coding/ai/coze/59.png)
 
 //TODO
 
 ## 学习资料
 
-黑马程序员：[https://www.bilibili.com/video/BV12omoB4ExF](https://www.bilibili.com/video/BV12omoB4ExF)
+黑马程序员：[https://www.bilibili.com/video/BV12omoB4ExF](https://www.bilibili.com/video/BV12omoB4ExF)（22/28）

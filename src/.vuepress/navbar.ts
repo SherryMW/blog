@@ -15,23 +15,17 @@ export default navbar([
             // },
             {
                 text: "Java",
-                prefix: "java/",
-                children: [
-                    {
-                        text: "基础",
-                        link: "se/"
-                    }
-                ],
+                link: "java/"
             },
             {
                 text: "AI",
-                prefix: "ai/",
-                children: ["coze"],
+                link: "ai/",
             },
         ],
     },
     "/life/",
-    "/collection/",
+    "/entertainment/",
+    // "/info/",
     "/friends",
     "/intro"
 ]);

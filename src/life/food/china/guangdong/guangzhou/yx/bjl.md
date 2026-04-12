@@ -59,15 +59,6 @@ article: false
 - [x] 鲜虾烧卖皇
 - [x] 嫩滑豆腐花 ✨
 
-## 粤·向群饭店
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JRAANRT4" target="_blank">天河城B区3楼</a>
-
-- [x] 始创葱油淋鸡 ✨
-- [x] 五杯财神猪手
-- [x] 咸蛋黄焗罗氏虾
-- [x] 椰青桃胶炖蛋白奶
-
 ## 摩打食堂
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFLMYA6N" target="_blank">中山四路395号城壹汇F4层</a>
@@ -99,6 +90,69 @@ article: false
 - [x] 北极贝
 - [x] 芥末八爪鱼
 
+## 大锅铲·贵州酸汤火锅
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K0JACWQM" target="_blank">天河城A区八楼</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/dgc/1.jpg)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/dgc/2.jpg)
+
+- [x] 泉水脆鲩鱼片
+- [x] 紫苏牛肉
+- [x] 贵州黑猪梅花肉
+- [x] 贵州雪花猪颈肉
+- [x] 脆哨洋芋
+- [x] 蔬菜自助（老妈子挺喜欢的，多吃蔬菜）✨
+
+## 粤·向群饭店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JRAANRT4" target="_blank">天河城B区3楼</a>
+
+::: tabs
+
+@tab 金不换煎酿辣椒
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xq/1.jpg)
+
+@tab 士多啤梨咕噜肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xq/2.jpg)
+
+@tab 羊肚菌青冈菌蒸深海龙趸
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xq/3.jpg)
+
+@tab 老姜啫啫砂锅水库大鱼头
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xq/4.jpg)
+
+@tab 瑶柱汁虾子扣柚皮
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xq/5.jpg)
+
+@tab 猪油渣生炒手工菜心
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xq/6.jpg)
+
+@tab 干炒牛河
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/xq/7.jpg)
+
+:::
+
+- [x] 始创葱油淋鸡 ✨
+- [x] 五杯财神猪手
+- [x] 咸蛋黄焗罗氏虾
+- [x] 士多啤梨咕噜肉
+- [x] 羊肚菌青冈菌蒸深海龙趸
+- [x] 老姜啫啫砂锅水库大鱼头
+- [x] 金不换煎酿辣椒
+- [x] 瑶柱汁虾子扣柚皮
+- [x] 猪油渣生炒手工菜心
+- [x] 干炒牛河
+- [x] 椰青桃胶炖蛋白奶
+
 ## 海底捞火锅
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00141VVZW" target="_blank">中山四路395号城壹汇F5层</a>
@@ -106,6 +160,20 @@ article: false
 - [x] 参鲍鸡金汤锅
 - [x] 番茄锅底
 - [x] 牛油麻辣锅底
+
+## 今崎烧·寿喜烧专门店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0G0DB4LGE" target="_blank">北京路178号天河城六层A597号铺</a>
+
+真的上脑寿喜烧双人套餐 ✨
+
+- [x] 美国安格斯牛上脑×2
+- [x] 澳洲霜降牛肉×2
+- [x] 炙烧大崎蟹棒握
+- [x] 墨鱼肠片
+- [x] 野菜拼盘
+- [x] 手打乌冬
+- [x] 无菌生鸡蛋
 
 ## 潮发潮汕牛肉店
 
@@ -157,6 +225,15 @@ article: false
 - [x] 响铃卷
 - [x] 泰国椰青
 
+## 正谈炸鸡
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K2JS5NCD" target="_blank">西湖路74号首层中偏西房自编之二</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/ztzj/1.JPEG)
+
+- [x] 琥珀蜂蜜
+- [x] 芝士雪花
+
 ## 粤·铭少食鸡专门店
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K34SYM1R" target="_blank">文明路8号宝升大厦2楼</a>
@@ -185,15 +262,6 @@ article: false
 - [x] 海味粉丝煲
 - [x] 肉酱车田豆腐
 - [x] 顺德爽鱼皮
-
-## 正谈炸鸡
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K2JS5NCD" target="_blank">西湖路74号首层中偏西房自编之二</a>
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/bjl/ztzj/1.JPEG)
-
-- [x] 琥珀蜂蜜
-- [x] 芝士雪花
 
 ## 刘福记
 

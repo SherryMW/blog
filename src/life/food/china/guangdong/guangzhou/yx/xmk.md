@@ -140,14 +140,6 @@ article: false
 - [x] 牛肉炒滑蛋
 - [x] 鸡蛋炒米粉
 
-## 芳华糖水
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KB6C9KDY" target="_blank">海珠中路239号</a>
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/fh/1.JPEG)
-
-- [x] 芝麻糊
-
 ## 九咔米澜香港炸酱米线
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K1YCDKRR" target="_blank">光孝路98号</a>

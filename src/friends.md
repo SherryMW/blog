@@ -25,14 +25,6 @@ link: https://liubing.me
 background: rgba(253, 230, 138, 0.15)
 ```
 
-```component VPCard
-title: ooliver的博客
-desc: OI笔记分享，个人闲话记录
-logo: https://blog.ooliver.cn/wp-content/uploads/2025/08/1755862991-头像.jpg
-link: https://blog.ooliver.cn
-background: rgba(253, 230, 138, 0.15)
-```
-
 </div>
 
 **本站信息**

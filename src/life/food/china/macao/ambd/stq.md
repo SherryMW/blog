@@ -18,7 +18,7 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/macao/ambd/stq/yyttp/1.JPEG)
 
-<video id="video" controls="" preload="none" width="900" height="400" volume="0.5" poster="https://img.sherry4869.com/blog/life/food/china/macao/ambd/stq/yyttp/1.JPEG">
+<video id="video" controls="" preload="none" style="width:100%; max-width:900px; height:auto;" volume="0.5" poster="https://img.sherry4869.com/blog/life/food/china/macao/ambd/stq/yyttp/1.JPEG">
       <source id="mp4" src="https://img.sherry4869.com/blog/life/food/china/macao/ambd/stq/yyttp/2.MP4" type="video/mp4">
 </video>
 

@@ -1,10 +1,12 @@
 import {sidebar} from "vuepress-theme-hope";
-import {Collection} from "../collection/sidebar.js";
+import {Entertainment} from "../entertainment/sidebar.js";
 import {Life} from "../life/sidebar.js";
 import {Java} from "../coding/java/sidebar.js";
+import {AI} from "../coding/ai/sidebar.js";
 
 export default sidebar({
     "/coding/java/": Java,
+    "/coding/ai/": AI,
     "/life/": Life,
-    "/collection/": Collection
+    "/entertainment/": Entertainment,
 });

@@ -10,7 +10,7 @@ article: false
 
 ::: tabs
 
-@tab 烤乳鸽
+@tab 玻璃脆皮乳鸽皇
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/9.JPEG)
 
@@ -22,9 +22,41 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/10.JPEG)
 
+@tab 果汁猪排
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/19.jpg)
+
+@tab 葱油淋清远鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/15.jpg)
+
+@tab 清蒸吊水鲩鱼
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/16.jpg)
+
+@tab 香波咕噜肉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/17.jpg)
+
+@tab 时令时蔬
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/18.jpg)
+
+@tab 姜蓉水东芥
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/22.jpg)
+
 @tab 虾饺
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/11.JPEG)
+
+@tab 香煎韭菜饺
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/14.jpg)
+
+@tab 腊味煎萝卜糕 
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/20.jpg)
 
 @tab 姜汁小笼包
 
@@ -54,33 +86,48 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/8.JPEG)
 
-@tab 头抽炒面
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/12.JPEG)
-
 @tab 鲍汁腐皮卷
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/13.JPEG)
 
+@tab 香菇菜心猪肉肠
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/21.jpg)
+
+@tab 头抽炒面
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/ypfhy/12.JPEG)
+
 :::
 
-- [x] 烤乳鸽 ✨
+- [x] 玻璃脆皮乳鸽皇 ✨
+- [x] 果汁猪排
+- [x] 葱油淋清远鸡
+- [x] 清蒸吊水鲩鱼
+- [x] 香波咕噜肉
 - [x] 招牌脆皮深井烧鹅
 - [x] 明炉蜜汁叉烧
 - [x] 金蒜银丝蒸扇贝
+- [x] 时令时蔬
+- [x] 姜蓉水东芥
 - [x] 巨无霸菠萝包 ✨
 - [x] 山水豆腐花 ✨
 - [x] 虾饺
+- [x] 香煎韭菜饺
+- [x] 腊味煎萝卜糕
 - [x] 鲜虾韭菜煎饼
 - [x] 三丝炸春卷
 - [x] 酱香蒸紫金凤爪
 - [x] 姜汁小笼包
 - [x] 鲍汁腐皮卷
+- [x] 香菇菜心猪肉肠
 - [x] 头抽炒面
 
 ## MR·ROCKY 洛奇先生餐吧
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFJ14MRH" target="_blank">云霄路349栋4号停机坪风车广场7号馆</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/5.JPEG)
 
 ::: tabs
 
@@ -109,8 +156,6 @@ article: false
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/7.jpg)
 
 :::
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/rocky/5.JPEG)
 
 - [x] 尼格罗尼 ✨
 - [x] 长岛冰茶
@@ -164,6 +209,10 @@ article: false
 
 ::: tabs
 
+@tab 招牌蒸蚝
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/hsfs/3.jpg)
+
 @tab 四点金拼猪蹄
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/hsfs/1.jpg)
@@ -171,10 +220,6 @@ article: false
 @tab 香煎蚝仔烙
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/hsfs/2.jpg)
-
-@tab 招牌蒸蚝
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/hsfs/3.jpg)
 
 @tab 烤肉肠
 
@@ -329,6 +374,30 @@ article: false
 - [x] 腐皮卷
 - [x] 鲍汁凤爪
 - [x] 白灼菜心
+
+## 谭小鲜·猪油炒土菜
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LAOSMBYN" target="_blank">新市南街21-19号99铺</a>
+
+::: tabs
+
+@tab 青椒炒鸡蛋
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/txx/1.jpg)
+
+@tab 干锅肥肠
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/txx/2.jpg)
+
+@tab 紫苏爆牛蛙
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/bygy/txx/3.jpg)
+
+:::
+
+- [x] 青椒炒鸡蛋
+- [x] 干锅肥肠
+- [x] 紫苏爆牛蛙
 
 ## 点啫海鲜大排档
 

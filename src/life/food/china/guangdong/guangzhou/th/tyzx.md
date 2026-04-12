@@ -72,6 +72,8 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0I1VMXOCO" target="_blank">林和东路121号中怡商务港二层自编201</a>
 
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/cldpd/1.jpg)
+
 ::: tabs
 
 @tab 鸿运烧香猪
@@ -87,8 +89,6 @@ article: false
 ![炒出风味](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/cldpd/2.jpg)
 
 :::
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/cldpd/1.jpg)
 
 - [x] 常来豉油鸡 ✨
 - [x] 鸿运烧香猪
@@ -135,7 +135,6 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/xtzqsgy/2.jpg)
 
-- [x] 养生菌菇锅 ✨
 - [x] 江团鱼 ✨
 - [x] 鱼籽福袋
 - [x] 鲜潭手打虾滑
@@ -212,6 +211,35 @@ article: false
 - [x] 港式鸳鸯
 - [x] 招牌熊仔奶茶
 - [x] 恐龙美禄脆脆冰
+
+## 太白餐厅
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0L0G155KT" target="_blank">天河东路82-3号</a>
+
+::: tabs
+
+@tab 豉汁炒蛏子
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/tbct/2.jpg)
+
+@tab 古法碌鹅
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/tbct/1.jpg)
+
+@tab 啫啫排骨
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/tbct/3.jpg)
+
+@tab 干炒牛河
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyzx/tbct/4.jpg)
+
+:::
+
+- [x] 豉汁炒蛏子 ✨
+- [x] 古法碌鹅
+- [x] 啫啫排骨
+- [x] 干炒牛河
 
 ## 凑凑火锅
 
@@ -296,8 +324,6 @@ article: false
 ## 汉拿山（歇业）
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00140TFHO" target="_blank">天河路228号正佳广场5层南街</a>
-
-40元的拌饭比268元的拼盘要好吃的多
 
 - [x] 荣升全牛八拼
 - [x] 石锅牛肉拌饭
