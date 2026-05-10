@@ -12,11 +12,11 @@ article: false
 
 @tab 大同鸡蛋挞
 
-![OMG](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/dtjj/1.jpg)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/dtjj/1.jpg)
 
 @tab 宫廷笋尖虾饺
 
-![OMG×2](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/dtjj/2.jpg)
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/tyx/dtjj/2.jpg)
 
 @tab 空气炸春卷
 
@@ -156,7 +156,7 @@ article: false
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFG63HJJ" target="_blank">体育西横街144号104</a>
 
 - [x] 黑松露温泉蛋奶油意大利扁面
-- [x] 招牌吞拿鱼薯仔头 ✨
+- [x] 招牌吞拿鱼薯仔头
 - [x] 黄金酱烤鸡翅
 - [x] 欢乐炸薯条
 - [x] 甜蜜派对蜜糖草莓吐司

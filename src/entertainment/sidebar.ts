@@ -81,6 +81,19 @@ export const Entertainment = arraySidebar([
                         collapsible: true,
                         children: "structure"
                     },
+                    {
+                        text: "动漫",
+                        prefix: "anime/",
+                        collapsible: true,
+                        children: [
+                            {
+                                text: "剧集",
+                                prefix: "tv/",
+                                collapsible: true,
+                                children: "structure"
+                            }
+                        ]
+                    }
                 ]
             },
             {
@@ -100,6 +113,18 @@ export const Entertainment = arraySidebar([
                         collapsible: true,
                         children: "structure"
                     },
+                    {
+                        text: "综艺",
+                        prefix: "reality-show/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "短片",
+                        prefix: "short/",
+                        collapsible: true,
+                        children: "structure"
+                    },
                 ]
             },
             {
@@ -112,6 +137,31 @@ export const Entertainment = arraySidebar([
                         prefix: "movies/",
                         collapsible: true,
                         children: "structure"
+                    },
+                    {
+                        text: "剧集",
+                        prefix: "tv/",
+                        collapsible: true,
+                        children: "structure"
+                    },
+                    {
+                        text: "动漫",
+                        prefix: "anime/",
+                        collapsible: true,
+                        children: [
+                            {
+                                text: "电影",
+                                prefix: "movies/",
+                                collapsible: true,
+                                children: "structure"
+                            },
+                            {
+                                text: "剧集",
+                                prefix: "tv/",
+                                collapsible: true,
+                                children: "structure"
+                            }
+                        ]
                     }
                 ]
             },
@@ -144,6 +194,12 @@ export const Entertainment = arraySidebar([
                         prefix: "movies/",
                         collapsible: true,
                         children: "structure"
+                    },
+                    {
+                        text: "剧集",
+                        prefix: "tv/",
+                        collapsible: true,
+                        children: "structure"
                     }
                 ]
             },
@@ -161,6 +217,45 @@ export const Entertainment = arraySidebar([
                     {
                         text: "剧集",
                         prefix: "tv/",
+                        collapsible: true,
+                        children: "structure"
+                    }
+                ]
+            },
+            {
+                text: "德国",
+                prefix: "germany/",
+                collapsible: true,
+                children: [
+                    {
+                        text: "电影",
+                        prefix: "movies/",
+                        collapsible: true,
+                        children: "structure"
+                    }
+                ]
+            },
+            {
+                text: "印度",
+                prefix: "india/",
+                collapsible: true,
+                children: [
+                    {
+                        text: "电影",
+                        prefix: "movies/",
+                        collapsible: true,
+                        children: "structure"
+                    }
+                ]
+            },
+            {
+                text: "俄罗斯",
+                prefix: "russia/",
+                collapsible: true,
+                children: [
+                    {
+                        text: "电影",
+                        prefix: "movies/",
                         collapsible: true,
                         children: "structure"
                     }
@@ -193,34 +288,21 @@ export const Entertainment = arraySidebar([
                 ]
             },
             {
-                text: "丹麦",
-                prefix: "denmark/",
-                collapsible: true,
-                children: [
-                    {
-                        text: "电影",
-                        prefix: "movies/",
-                        collapsible: true,
-                        children: "structure"
-                    }
-                ]
-            },
-            {
-                text: "印度",
-                prefix: "india/",
-                collapsible: true,
-                children: [
-                    {
-                        text: "电影",
-                        prefix: "movies/",
-                        collapsible: true,
-                        children: "structure"
-                    }
-                ]
-            },
-            {
                 text: "泰国",
                 prefix: "thailand/",
+                collapsible: true,
+                children: [
+                    {
+                        text: "电影",
+                        prefix: "movies/",
+                        collapsible: true,
+                        children: "structure"
+                    }
+                ]
+            },
+            {
+                text: "丹麦",
+                prefix: "denmark/",
                 collapsible: true,
                 children: [
                     {

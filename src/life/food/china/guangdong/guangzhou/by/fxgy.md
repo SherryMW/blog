@@ -76,12 +76,12 @@ article: false
 
 :::
 
-- [x] 酒酱小青龙 ✨
+- [x] 酒酱小青龙 ✨✨✨
 - [x] 古法羊腩煲
 - [x] 烧鹅
 - [x] 蒜香骨
-- [x] 鲍汁鲜虾腐皮卷 ✨
-- [x] 招牌鲍汁凤爪 ✨
+- [x] 鲍汁鲜虾腐皮卷 ✨✨✨
+- [x] 招牌鲍汁凤爪 ✨✨✨
 - [x] 柱候蒸凤爪 ✨
 - [x] 文昌鸡蛋挞 ✨
 - [x] 海南虾饺皇
@@ -287,8 +287,7 @@ article: false
 
 :::
 
-- [x] 炸酱热干面 ✨
-- [x] 牛肉热干面 ✨
+- [x] 炸酱牛肉热干面 ✨✨✨
 
 ## 佬广道
 
@@ -540,8 +539,8 @@ article: false
 
 :::
 
-- [x] 精肉韭菜煎饺 ✨
-- [x] 韭菜虾仁鸡蛋蒸饺 ✨
+- [x] 精肉韭菜煎饺
+- [x] 韭菜虾仁鸡蛋蒸饺
 - [x] 精肉香菇水饺
 - [x] 红烧排骨面
 
@@ -565,7 +564,7 @@ article: false
 
 :::
 
-- [x] 番茄锅包肉 ✨
+- [x] 番茄锅包肉
 - [x] 烧烤
 - [x] 肉炒面
 
@@ -639,10 +638,51 @@ article: false
 
 :::
 
-- [x] 脆皮鸡 ✨
-- [x] 佬长沙臭豆腐 ✨
+- [x] 脆皮鸡
 - [x] 闸蟹凤爪煲
 - [x] 酱油鸡蛋炒饭
+- [x] 佬长沙臭豆腐 ✨
+
+## 好彩米芝莲港式茶餐厅
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GUPNXC57" target="_blank">机场路601号银鹰大酒店一楼1O1铺</a>
+
+- [x] 鸡扒饭
+- [x] 黄咖喱牛腩饭
+- [x] 扬州炒饭
+- [x] 叉烧虾仁滑蛋炒饭
+- [x] 生炒牛肉饭
+- [x] 干炒牛河
+- [x] 特色炒米粉
+- [x] 鲜虾云吞面
+- [x] 鸡扒公仔面
+- [x] 红豆冰
+
+## 常平竹升云吞面
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0H1L6FHJP" target="_blank">棠景街机场路111号145铺</a>
+
+- [x] 安格斯牛肉金蒜翠芹云吞面
+
+## 窄巷口生烫牛肉米线馄饨
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0G2AC65XO" target="_blank">区岗贝路与机场路交叉口西40米</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/zxk/1.JPEG)
+
+- [x] 红烧牛肚肉酱米线
+- [x] 红烧牛腩肉酱米线
+- [x] 虾仁小馄饨
+
+## 鸭子潮汕小吃店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GK4KKVCJ" target="_blank">景泰街道机场东门街36号自编号A111</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/1.JPEG)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/2.JPEG)
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/3.JPEG)
 
 ## 牛香炭火烤肉
 
@@ -689,41 +729,6 @@ article: false
 - [x] 芝士粉炸鸡
 - [x] 金枪鱼沙拉
 - [x] 石锅拌饭
-
-## 窄巷口生烫牛肉米线馄饨
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0G2AC65XO" target="_blank">区岗贝路与机场路交叉口西40米</a>
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/zxk/1.JPEG)
-
-- [x] 红烧牛肚肉酱米线
-- [x] 红烧牛腩肉酱米线
-- [x] 虾仁小馄饨
-
-## 好彩米芝莲港式茶餐厅
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GUPNXC57" target="_blank">机场路601号银鹰大酒店一楼1O1铺</a>
-
-- [x] 鸡扒饭
-- [x] 黄咖喱牛腩饭 ✨
-- [x] 扬州炒饭
-- [x] 叉烧虾仁滑蛋炒饭
-- [x] 生炒牛肉饭
-- [x] 干炒牛河
-- [x] 特色炒米粉
-- [x] 鲜虾云吞面
-- [x] 鸡扒公仔面
-- [x] 红豆冰
-
-## 鸭子潮汕小吃店
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GK4KKVCJ" target="_blank">景泰街道机场东门街36号自编号A111</a>
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/1.JPEG)
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/2.JPEG)
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/by/fxgy/yzcs/3.JPEG)
 
 ## 喜珍记茶餐厅
 

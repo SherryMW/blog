@@ -45,11 +45,13 @@ arch
     ![](https://img.sherry4869.com/blog/it/server/cloudreve/img_5.png)
     
     ::: tip
+
     配置好 SSL 证书后使用 HTTPS 协议访问站点时提示  
     {"msg":"unknown error","code":"5030200","id":"5f6d0eef9c541729427b4d967932b4147"}  
     错误，请检查上传的证书（PEM格式）段落是否完整，完整的段落可以包含所有的 key 信息，如果只复制了一半只能识别部分，尽管可以解析到有该域名
     
     访问站点出现其他非正常界面，有可能是浏览器 Cookie 导致，需要打开浏览器设置 -> Cookie 和网站数据 -> 所有 Cookie 和站点数据，清除对应站点 Cookie
+
     :::
 
 4. 在网站目录下创建 cloudreve 目录，并上传之前解压好的 【cloudreve】 可执行文件
@@ -79,7 +81,9 @@ arch
     ![](https://img.sherry4869.com/blog/it/server/cloudreve/img_11.png)
 
     ::: tip
+
     创建数据库时提示【数据库管理密码错误】可以先修改 root 密码后再重新创建
+
     :::
     
     编辑站点目录下的 【conf.ini】 文件，新增以下配置项

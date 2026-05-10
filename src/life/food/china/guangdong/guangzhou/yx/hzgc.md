@@ -32,7 +32,7 @@ article: false
 
 :::
 
-- [x] 香煎法国银鳕鱼 ✨
+- [x] 香煎法国银鳕鱼 ✨✨✨
 - [x] 法国鹅肝酱龙口粉丝 ✨
 - [x] 茄子焖挪威三文鱼骨腩 ✨
 - [x] 盐焗猪仔肚 ✨
@@ -156,7 +156,7 @@ article: false
 - [x] 酸菜鱼
 - [x] 金银蛋上汤桑叶 ✨
 - [x] 玉环罗汉斋
-- [x] 头抽炒面 ✨
+- [x] 头抽炒面
 - [x] 招牌虾饺妹 ✨
 - [x] 和味酱皇蒸凤爪
 - [x] 鲍汁蒸腐皮卷
@@ -192,7 +192,7 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/hzgc/dsj/3.jpg)
 
-- [x] 千层牛肉饼 ✨
+- [x] 千层牛肉饼
 
 ## haxnbauer 海森堡德国餐厅
 

@@ -4,7 +4,8 @@ export const Java = arraySidebar([
     {
         text: "JavaSE",
         prefix: "se/",
-        collapsible: true,
-        children: ["generics", "lambda", "optional", "reflection"]
+        collapsible: false,
+        children: ["generics", ]
+        //     "interface", "lambda" "optional", "reflection"
     }
 ])

@@ -6,9 +6,9 @@ article: false
 
 ## 膳魔师
 
-![](https://img.sherry4869.com/blog/life/shop/daily-necessities/cups/1.avif)
+纯钛保温杯
 
-- [x] 纯钛保温杯
+![](https://img.sherry4869.com/blog/life/shop/daily-necessities/cups/1.avif)
 
 购入价：¥755
 
@@ -18,8 +18,8 @@ article: false
 
 ## THREE LIFE
 
-![](https://img.sherry4869.com/blog/life/shop/daily-necessities/cups/2.png)
+旋纹高杯
 
-- [x] 旋纹高杯
+![](https://img.sherry4869.com/blog/life/shop/daily-necessities/cups/2.png)
 
 购入价：¥180

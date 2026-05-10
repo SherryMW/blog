@@ -10,4 +10,4 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/cjc/1.jpg)
 
-- [x] 芝士雪花炸鸡 ✨
+- [x] 芝士雪花炸鸡

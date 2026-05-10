@@ -13,6 +13,9 @@ const date = new Date(response[0].commit.author.date);
 const commitDate = date.getFullYear() + "年" + (date.getMonth() + 1) + "月" + date.getDate() + "日 " + date.getHours() + ":" + ("0" + date.getMinutes()).slice(-2);
 const commitMessage = response[0].commit.message;
 
+const targetDate = new Date("2026-05-11").getTime();
+const today = new Date().getTime();
+const pastDays = Math.floor((today - targetDate) / (1000 * 60 * 60 * 24));
 export default hopeTheme({
     hostname: "https://blog.sherry4869.com", // 当前网站部署到的域名
     author: {
@@ -48,7 +51,7 @@ export default hopeTheme({
     // 博客相关
     blog: {
         avatar: "/avatar.jpg", // 头像
-        description: "过往不恋 未来不迎<br/><br/>上次更新：" + commitDate + "<br/><br/>更新内容：" + commitMessage,
+        description: `过往不恋 未来不迎<br/><br/>已持续坚持：${pastDays} 天<br/><br/>上次更新：${commitDate}<br/><br/>更新内容：${commitMessage}`,
         intro: "", // 填写后点击头像或作者名称进入个人介绍页的界面地址
         medias: {
             Wechat: "https://img.sherry4869.com/blog/public/wechat.jpg",
@@ -66,6 +69,7 @@ export default hopeTheme({
         tabs: true, // 选项卡
         tasklist: true, // 任务列表
         figure: true, // 图片描述
+        imgSize: true, // 图片大小
         echarts: true, // 图表
         component: true, // 组件（VPCard）
         highlighter: { // 代码块高亮器

@@ -6,7 +6,7 @@ article: false
 
 ## 戴尔
 
-- [x] 戴尔 UltraSharp 31.5英寸 4K U3223QE
+戴尔 UltraSharp 31.5英寸 4K U3223QE
 
 ![](https://img.sherry4869.com/blog/life/shop/digital/monitor/1.avif)
 
@@ -24,7 +24,7 @@ article: false
 
 ---
 
-- [x] 戴尔 UltraSharp 27英寸 4K U3223QE
+戴尔 UltraSharp 27英寸 4K U3223QE
 
 ![](https://img.sherry4869.com/blog/life/shop/digital/monitor/1.avif)
 

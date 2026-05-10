@@ -55,7 +55,7 @@ article: false
 :::
 
 - [x] 新兴姑娘炒米粉 ✨
-- [x] 蒸韭菜饺子 ✨
+- [x] 蒸韭菜饺子
 - [x] 鲜虾烧卖皇
 - [x] 嫩滑豆腐花 ✨
 
@@ -90,6 +90,40 @@ article: false
 - [x] 北极贝
 - [x] 芥末八爪鱼
 
+## 海底捞火锅
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00141VVZW" target="_blank">中山四路395号城壹汇F5层</a>
+
+- [x] 参鲍鸡金汤锅
+- [x] 番茄锅底
+- [x] 牛油麻辣锅底
+
+## 潮发潮汕牛肉店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFH9LEYM" target="_blank">珠光路201-203号</a>
+
+- [x] 三花趾
+- [x] 嫩牛肉
+- [x] 潮发鲜和牛
+- [x] 牛大肚
+- [x] 手工鲜腐竹
+- [x] 水果玉米
+- [x] 云南菌菇拼盘
+
+## 今崎烧·寿喜烧专门店
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0G0DB4LGE" target="_blank">北京路178号天河城六层A597号铺</a>
+
+真的上脑寿喜烧双人套餐 ✨
+
+- [x] 美国安格斯牛上脑×2
+- [x] 澳洲霜降牛肉×2
+- [x] 炙烧大崎蟹棒握
+- [x] 墨鱼肠片
+- [x] 野菜拼盘
+- [x] 手打乌冬
+- [x] 无菌生鸡蛋
+
 ## 大锅铲·贵州酸汤火锅
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K0JACWQM" target="_blank">天河城A区八楼</a>
@@ -103,7 +137,7 @@ article: false
 - [x] 贵州黑猪梅花肉
 - [x] 贵州雪花猪颈肉
 - [x] 脆哨洋芋
-- [x] 蔬菜自助（老妈子挺喜欢的，多吃蔬菜）✨
+- [x] 蔬菜自助
 
 ## 粤·向群饭店
 
@@ -141,7 +175,7 @@ article: false
 
 :::
 
-- [x] 始创葱油淋鸡 ✨
+- [x] 始创葱油淋鸡
 - [x] 五杯财神猪手
 - [x] 咸蛋黄焗罗氏虾
 - [x] 士多啤梨咕噜肉
@@ -152,40 +186,6 @@ article: false
 - [x] 猪油渣生炒手工菜心
 - [x] 干炒牛河
 - [x] 椰青桃胶炖蛋白奶
-
-## 海底捞火锅
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B00141VVZW" target="_blank">中山四路395号城壹汇F5层</a>
-
-- [x] 参鲍鸡金汤锅
-- [x] 番茄锅底
-- [x] 牛油麻辣锅底
-
-## 今崎烧·寿喜烧专门店
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0G0DB4LGE" target="_blank">北京路178号天河城六层A597号铺</a>
-
-真的上脑寿喜烧双人套餐 ✨
-
-- [x] 美国安格斯牛上脑×2
-- [x] 澳洲霜降牛肉×2
-- [x] 炙烧大崎蟹棒握
-- [x] 墨鱼肠片
-- [x] 野菜拼盘
-- [x] 手打乌冬
-- [x] 无菌生鸡蛋
-
-## 潮发潮汕牛肉店
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFH9LEYM" target="_blank">珠光路201-203号</a>
-
-- [x] 三花趾
-- [x] 嫩牛肉
-- [x] 潮发鲜和牛
-- [x] 牛大肚
-- [x] 手工鲜腐竹
-- [x] 水果玉米
-- [x] 云南菌菇拼盘
 
 ## 小炳胜
 
@@ -258,7 +258,7 @@ article: false
 
 :::
 
-- [x] 明火香茅烧鸡
+- [x] 明火香茅烧鸡（好len上火）
 - [x] 海味粉丝煲
 - [x] 肉酱车田豆腐
 - [x] 顺德爽鱼皮

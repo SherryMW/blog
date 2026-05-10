@@ -89,8 +89,24 @@ export const Life = arraySidebar([
                                 collapsible: true,
                                 children: "structure"
                             },
-                            "bread-dessert.md",
-                            "drink.md"
+                            {
+                                text: "面包",
+                                prefix: "bread/",
+                                collapsible: true,
+                                children: "structure"
+                            },
+                            {
+                                text: "甜品",
+                                prefix: "dessert/",
+                                collapsible: true,
+                                children: "structure"
+                            },
+                            {
+                                text: "饮品",
+                                prefix: "drink/",
+                                collapsible: true,
+                                children: "structure"
+                            }
                         ]
                     },
                     {
@@ -172,8 +188,20 @@ export const Life = arraySidebar([
                 children: "structure"
             },
             {
+                text: "个护健康",
+                prefix: "personal-care/",
+                collapsible: true,
+                children: "structure"
+            },
+            {
                 text: "食品",
                 prefix: "food/",
+                collapsible: true,
+                children: "structure"
+            },
+            {
+                text: "服装",
+                prefix: "clothing/",
                 collapsible: true,
                 children: "structure"
             }

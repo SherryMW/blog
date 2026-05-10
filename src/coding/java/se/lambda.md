@@ -16,6 +16,7 @@ Lambda 表达式是 Java 函数式编程的核心概念之一，它的出现是�
 
 ```java
 public interface Vehicle {
+    
     void start(); // Abstract Method
 }
 ```
@@ -28,6 +29,7 @@ public interface Vehicle {
 
 ```java
 public class Car implements Vehicle {
+    
     public void start() {
         System.out.println("starting car engine");
     }
@@ -38,6 +40,7 @@ public class Car implements Vehicle {
 
 ```java
 public class Bus implements Vehicle {
+    
     public void start() {
         System.out.println("starting bus engine");
     }
@@ -48,6 +51,7 @@ public class Bus implements Vehicle {
 
 ```java
 public class Truck implements Vehicle {
+    
     public void start() {
         System.out.println("starting truck engine");
     }
@@ -62,6 +66,7 @@ public class Truck implements Vehicle {
 
 ```java
 public interface Message {
+    
     void send();
 }
 ```
@@ -70,6 +75,7 @@ public interface Message {
 
 ```java
 public class Email implements Message {
+    
     @Override
     public void send() {
         System.out.println("This is an email");
@@ -81,6 +87,7 @@ public class Email implements Message {
 
 ```java
 public class Sms implements Message {
+    
     @Override
     public void send() {
         System.out.println("This is an Sms");
@@ -88,10 +95,11 @@ public class Sms implements Message {
 }
 ```
 
-最后我们返回 `Main` 函数，写一个方法用来负责统一发送消息：
+最后我们在 `Main` 函数中写一个方法用来负责统一发送消息：
 
 ```java
 public class Main {
+    
     public static void sendMessage(Message message) {
         message.send();
     }
@@ -104,6 +112,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         Message email = new Email(); // 接口类型引用指向其实现类的对象
         sendMessage(email);
@@ -119,6 +128,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         Message sms = new Sms();
         sendMessage(sms);
@@ -150,6 +160,7 @@ Lambda 表达式的出现就能帮我们解决这个问题，它能提供一种�
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         sendMessage(() -> {
             System.out.println("This is an email");
@@ -166,6 +177,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         sendMessage(() -> System.out.println("This is an email"));
     }
@@ -180,8 +192,10 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
-        Message sms = () -> System.out.println("This is an Sms"); // 本质是Message接口的匿名实现类对象赋值给左侧的Message类型引用sms
+        // 本质是Message接口的匿名实现类对象赋值给左侧的Message类型引用sms
+        Message sms = () -> System.out.println("This is an Sms");
         sms.send();
         
         // 等价的匿名内部类写法（Lambda是它的简化版）
@@ -195,16 +209,28 @@ public class Main {
 }
 ```
 
+上述 `Message sms2 = new Message() { ... }` 这行代码看起来像 new 接口，其实不是
+
+它真正做的事情是：
+
+1. 自动生成一个没有名字的类（匿名类）
+
+
+
+---
+
 如果抽象方法中有多个参数，那么对应的 Lambda 表达式里面就要这么定义：
 
 ```java
 public interface Message {
+    
     void send(String name, String title);
 }
 ```
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         Message sms = (name, title) -> System.out.println("This is an Sms to " + title + " " + name);
         sms.send("Albert", "Mr");
@@ -216,12 +242,14 @@ public class Main {
 
 ```java
 public interface Message {
+    
     String send(String name, String title);
 }
 ```
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         sendMessage((name, title) -> {
             System.out.println("This is an Sms to" + title + " " + name);
@@ -240,6 +268,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         Message sms = (name, title) -> {
             System.out.println("This is an Sms to" + title + " " + name);
@@ -332,6 +361,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<String> words = Arrays.asList("apple", "banana", "orange", "grape", "watermelon");
         /**
@@ -362,6 +392,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<String> words = Arrays.asList("apple", "banana", "orange", "grape", "watermelon");
         Consumer<String> printUpperCase = s -> System.out.print(s.toUpperCase() + " ");
@@ -379,6 +410,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         Supplier<Double> randomSupplier = Math::random;
         double randomNumber = randomSupplier.get();

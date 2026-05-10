@@ -24,7 +24,7 @@ article: false
 
 :::
 
-- [x] 蒜香豉油糖笋壳鱼 ✨
+- [x] 蒜香豉油糖笋壳鱼
 - [x] 招牌桂姐碌鹅 ✨
 - [x] 沙蟹汁豆腐虾滑煲
 
@@ -32,9 +32,27 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0IAFOBKKV" target="_blank">光复北路591号</a>
 
+特色海鲜三人餐 ✨
+
+::: tabs
+
+@tab 膏蟹花甲拼盘
+
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/sgjcc/1.jpg)
 
+@tab 姜葱炒虾
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/sgjcc/2.jpg)
+
+@tab 炒河粉
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/sgjcc/3.jpg)
+
+:::
+
 - [x] 香爆膏蟹 ✨
+- [x] 姜葱炒虾 ✨
+- [x] 膏蟹花甲拼盘
 - [x] 双拼粉
 - [x] 爆炒鲜鱿
 - [x] 炒油菜
@@ -47,7 +65,7 @@ article: false
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/ehx/2.JPEG)
 
-- [x] 烧鹅肶濑粉（下腿）✨
+- [x] 烧鹅肶濑粉（下庄）✨
 - [x] 日落苏打水
 
 ## 十八梯邓凳面
@@ -105,11 +123,17 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LAV56O9T" target="_blank">海珠中路与光塔路交叉口西南20米</a>
 
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/sdct/1.JPEG)
-
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/sdct/2.JPEG)
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/sdct/3.JPEG)
+
+::: tabs
+
+@tab 6小时慢烤牛叉烧
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xmk/sdct/1.JPEG)
+
+:::
 
 - [x] 6小时慢烤牛叉烧
 

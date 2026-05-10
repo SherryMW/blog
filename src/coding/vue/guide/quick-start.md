@@ -249,7 +249,9 @@ export default {
 要启动一个本地的 HTTP 服务器，请先安装 [Node.js](https://nodejs.org/zh/)，然后通过命令行在 HTML 文件所在文件夹下运行 `npx serve`。你也可以使用其他任何可以基于正确的 MIME 类型服务静态文件的 HTTP 服务器
 
 ::: info npx serve
+
 `npx` 是 Node Package Execute 的缩写，它随 Node.js 一起安装（npm 5.2.0+ 版本自带）
 
 `npx serve` 是一个用于快速启动静态文件服务器的命令，它会在当前目录启动一个本地 Web 服务器，让你可以通过浏览器（通常是 http://localhost:3000）来访问和预览你的静态网站（HTML, CSS, JS, 图片等）
+
 :::

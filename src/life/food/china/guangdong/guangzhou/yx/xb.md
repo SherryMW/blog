@@ -15,6 +15,10 @@ article: false
 
 ::: tabs
 
+@tab 荔茸带子炸芋盒
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xb/xyjj/4.JPEG)
+
 @tab 黄金沙翁球
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xb/xyjj/1.JPEG)
@@ -26,10 +30,6 @@ article: false
 @tab 鸡丝脆春卷
 
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xb/xyjj/3.JPEG)
-
-@tab 荔茸带子炸芋盒
-
-![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/xb/xyjj/4.JPEG)
 
 @tab 冰烧三层肉
 

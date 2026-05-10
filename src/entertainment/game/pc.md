@@ -399,6 +399,8 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 
 ![](https://img.sherry4869.com/blog/entertainment/games/pc/lol/4.JPEG)
 
+对战助手工具 League Akari：[https://github.com/LeagueAkari/LeagueAkari/releases](https://github.com/LeagueAkari/LeagueAkari/releases)
+
 ## 实时战略（RTS）
 
 ::: info RTS（Real-Time Strategy）玩法
@@ -406,9 +408,13 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 游戏要求玩家在实时（非回合制）环境中管理资源、建造基地、训练军队，并通过战术和战略击败对手。其核心特征包括：
 
 - 资源采集与经济系统：玩家需收集资源（如金币、木材、矿石）以建造设施和单位
+
 - 基地建设：通过建造防御工事、科技建筑等扩展势力
+
 - 多单位控制：指挥大规模军队，平衡兵种搭配（如步兵、坦克、空军）
+
 - 科技树升级：通过研究解锁高级单位或能力
+
 - 宏观与微观管理：既需全局战略（如扩张领土），也需微观操作（如单位走位）
 
 :::
@@ -423,9 +429,13 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 游戏聚焦小规模战术指挥，省略资源管理和基地建设，强调战场即时决策。核心特点包括：
 
 - 纯战术对抗：玩家直接控制预设单位，专注地形、阵型和技能搭配
+
 - 无资源采集：单位通常不可补充或有限增援
+
 - 小规模战斗：典型战斗涉及几十个单位，而非上百
+
 - 环境互动：利用掩体、高地、伏击等战术元素
+
 - 任务导向：常见于单人战役，目标多为歼灭、防御或渗透
 
 :::
@@ -438,7 +448,9 @@ MOBA（Multiplayer Online Battle Arena）多人在线战术竞技游戏
 ::: info TD（Tower Defense）玩法
 
 - 固定路径：敌人沿预设路线移动，玩家需在路径旁建造防御塔阻击
+
 - 资源管理：通过击杀敌人获得金币，用于建造/升级防御塔
+
 - 波次进攻：敌人分波次来袭，难度逐步提升
 
 :::

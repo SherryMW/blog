@@ -26,7 +26,7 @@ article: false
 
 :::
 
-- [x] 北岛长脚蟹：蟹脚清蒸/蟹肉干焗/蟹壳炒饭 ✨
+- [x] 北岛长脚蟹：蟹脚清蒸/蟹肉干焗/蟹壳炒饭 ✨✨✨
 - [x] 三叔烤罗虾
 
 ## MR·ROCKY 洛奇先生餐吧
@@ -50,7 +50,7 @@ article: false
 - [x] 美国纽约克长条鲜虾卷 ✨
 - [x] 芝士焗阿拉斯加蟹柳法包
 - [x] 芝士拼薯条
-- [x] 橙香麦芽 ✨
+- [x] 橙香麦芽
 - [x] 哈雷焦香黑啤
 - [x] 潘多拉魔盒
 - [x] 尼格罗尼（中年男人的无奈与心酸）
@@ -58,7 +58,7 @@ article: false
 - [x] 雨后芒果园
 - [x] 香草雪糕球
 
-## NurBOSTAN 努尔博斯坦
+## NurBOSTAN 努尔博斯坦（歇业）
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFFZD6Z2" target="_blank">天河直街160号北七铺</a>
 

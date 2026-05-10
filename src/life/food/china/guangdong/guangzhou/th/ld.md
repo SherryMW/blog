@@ -24,6 +24,18 @@ article: false
 - [x] 粉肠
 - [x] 猪脷
 
+## 木棉·醉心粤味
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GROY2454" target="_blank">珠江东路16号高德置地广场·冬F4层407</a>
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/ld/mmzx/1.jpg)
+
+- [x] 初恋咕噜肉
+- [x] 龙眼蜜叉烧
+- [x] 香蒜炒肉蟹
+- [x] 菜胆炖花胶
+- [x] 桃胶节瓜炖螺头
+
 ## 常来小聚
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFLQFDXL" target="_blank">临江大道359号天德广场天德街</a>
@@ -47,15 +59,3 @@ article: false
 - [x] 始创招牌豉油碌鹅
 - [x] 啫啫田鸡煲
 - [x] 蒜蓉粉丝蒸元贝
-
-## 木棉·醉心粤味
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0GROY2454" target="_blank">珠江东路16号高德置地广场·冬F4层407</a>
-
-![海报与实物对比](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/ld/mmzx/1.jpg)
-
-- [x] 初恋咕噜肉
-- [x] 龙眼蜜叉烧
-- [x] 香蒜炒肉蟹（没去壳，分量少，炒了个寂寞）
-- [x] 菜胆炖花胶
-- [x] 桃胶节瓜炖螺头

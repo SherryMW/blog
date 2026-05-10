@@ -53,7 +53,7 @@ article: false
 ![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/th/gd/sbtddm/1.JPEG)
 
 - [x] 经典炸酱米线
-- [x] 辣卤猪蹄 ✨
+- [x] 辣卤猪蹄
 
 ## 火垂火居酒屋
 

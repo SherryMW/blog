@@ -40,7 +40,7 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JA6LJTAA" target="_blank">京溪街道京溪大街8号</a>
 
-- [x] 绿豆饼 ✨
+- [x] 绿豆饼
 - [x] 肉松海苔卷
 - [x] 黑芝麻花生酥
 - [x] 咸蛋黄沙琪玛

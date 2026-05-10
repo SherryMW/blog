@@ -79,6 +79,15 @@ article: false
 - [x] 鱼肠煎蛋 ✨
 - [x] 鬼马捞鱼皮
 
+## 认真食饭
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J147XFET" target="_blank">府学西街81号</a>
+
+- [x] 咸蛋黄焗罗氏虾 ✨
+- [x] 金汤花胶鸡
+- [x] 上汤时令青菜
+- [x] 猪油捞饭
+
 ## 味食家
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0FFKV9MOE" target="_blank">惠福西路264号</a>
@@ -178,6 +187,12 @@ article: false
 - [x] 手打乌冬
 - [x] 无菌生鸡蛋
 
+## 蛙来哒
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KACLPFFD" target="_blank">中山五路67号五月花商业广场440-441号铺位</a>
+
+- [x] 紫苏牛蛙 ✨
+
 ## 口福食家
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B001402D72s" target="_blank">惠福西路264号</a>
@@ -202,25 +217,10 @@ article: false
 
 :::
 
-- [x] 松子鱼 ✨
-- [x] 脆皮炸大肠 ✨
+- [x] 松子鱼
+- [x] 脆皮炸大肠
 - [x] 白切鸡
 - [x] 凉拌鱼皮
-
-## 认真食饭·海鲜大排档
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0J147XFET" target="_blank">府学西街81号</a>
-
-- [x] 咸蛋黄焗罗氏虾 ✨
-- [x] 金汤花胶鸡
-- [x] 上汤时令青菜
-- [x] 猪油捞饭
-
-## 蛙来哒
-
-<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0KACLPFFD" target="_blank">中山五路67号五月花商业广场440-441号铺位</a>
-
-- [x] 紫苏牛蛙 ✨
 
 ## 何大喜
 
@@ -266,6 +266,25 @@ article: false
 - [x] 葱油淋鱼片
 - [x] 芫茜豆腐鱼片汤
 
+## 百年老字号·清远鸡全球研究中心
+
+<i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0K377VD7C" target="_blank">惠福西路106号</a>
+
+::: tabs
+
+@tab 炭焗清远鸡
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/qyj/1.jpg)
+
+@tab 蛋炒饭
+
+![](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/qyj/2.jpg)
+
+:::
+
+- [x] 炭焗清远鸡
+- [x] 蛋炒饭
+
 ## 初乐·韩国料理
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0LGVGJN79" target="_blank">惠福东路442号01房</a>
@@ -299,7 +318,7 @@ article: false
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0IU5R4JEM" target="_blank">中山五路中旅商业城1楼103号</a>
 
 - [x] 大片牛肉手工拉面
-- [x] 招牌烤包子 ✨
+- [x] 招牌烤包子
 - [x] 红柳羊肉大串
 
 ## 绿茶餐厅
@@ -363,6 +382,6 @@ article: false
 
 <i class="fa-solid fa-location-dot"></i> 位置：<a href="https://ditu.amap.com/place/B0JKXUS3U7" target="_blank">惠福东路462号</a>
 
-![吃过最难吃的蟹黄面](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/xjw/1.jpg)
+![吃过最难吃的蟹黄面 :-1:](https://img.sherry4869.com/blog/life/food/china/guangdong/guangzhou/yx/gyq/xjw/1.jpg)
 
 - [x] 招牌蟹黄黄金套餐+醉虾+时蔬

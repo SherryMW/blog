@@ -10,9 +10,10 @@ article: false
 
 ```java
 public class IntegerPrinter {
+    
     Integer content;
 
-    IntegerPrinter(Integer content) {
+    public IntegerPrinter(Integer content) {
         this.content = content;
     }
 
@@ -26,6 +27,7 @@ public class IntegerPrinter {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         IntegerPrinter printer = new IntegerPrinter(123);
         printer.print();
@@ -33,10 +35,11 @@ public class Main {
 }
 ```
 
-此时如果我们想要打印 `String` 类型的变量呢？显而易见我们不能再使用 `IntegerPrinter` 这个类了，需要重新创建一个打印字符串的 `Printer` 类：
+此时如果我们想要打印 `String` 类型的变量呢？显而易见我们不能再使用 `IntegerPrinter` 这个类了，需要重新创建一个打印字符串的 `StringPrinter` 类：
 
 ```java
 public class StringPrinter {
+    
     String content;
 
     StringPrinter(String content) {
@@ -53,6 +56,7 @@ public class StringPrinter {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         StringPrinter printer = new StringPrinter("hello world");
         printer.print();
@@ -62,17 +66,18 @@ public class Main {
 
 这里我们会发现一个问题：如果我们想再新打印其他类型的变量，必须要新建对应类型的类，这样的话会给代码带来很多的重复性，这是我们必须要避免的
 
-也正因为如此，所以引入了 Generics（泛型）这样的一个概念，以至于我们可以只要创建一个类，就可以处理所有的类型
+也正因为如此，引入了 Generics（泛型）这样的一个概念，以至于我们可以只需要创建一个类，就可以处理所有的类型
 
 ## 声明泛型
 
-如何来声明一个 Generics（泛型） 的类呢？我们只需要在类的 Curly Braces（主体大括号）和类名之间用一个 Angel Brackets（尖括号）包裹类型变量名即可
+如何来声明一个 Generics（泛型） 的类呢？我们只需要在类的 Curly Braces（主体大括号）和类名之间用一个 Angel Brackets（尖括号）包裹类型变量名即可：
 
 ```java
 public class Printer<T> {
+    
     T content;
 
-    Printer(T content) {
+    public Printer(T content) {
         this.content = content;
     }
 
@@ -90,7 +95,7 @@ public class Printer<T> {
 
 - `K`: 表示键 (通常用于映射，比如 `Map<K, V>` 表示键值对的映射)
 
-- `V`: 表示值
+- `V`: 表示值 (通常用于映射，比如 `Map<K, V>` 表示键值对的映射)
 
 - `S`, `U`, `V` 等：通常用于第二、第三、第四个泛型类型参数，以此类推
 
@@ -100,6 +105,7 @@ public class Printer<T> {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         Printer<Integer> printer = new Printer<>(123);
         printer.print();
@@ -111,6 +117,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         Printer<String> printer = new Printer<>("hello world");
         printer.print();
@@ -119,14 +126,18 @@ public class Main {
 ```
 
 ::: warning
-需要注意一下：尖括号里面的类型参数不能为 Java 的 primitive type（基本数据类型）例如 `int`，`float`，`string`，我们必须使用经过包装后的类型，比如 `int` 对应的是 `Integer`，`float` 对应的是 `Float`，`string` 对应的是 `String` 等等
+
+需要注意一下：尖括号里面的类型参数不能为 Java 的 primitive type（基本数据类型）例如 `int`，`float`，`string`，我们必须使用经过包装后的类型，比如 `int` 对应的是 `Integer`、`float` 对应的是 `Float`、`string` 对应的是 `String` 等等
+
 :::
 
 如果我们要传递多个参数，可以添加多个占位符，例如：
 
 ```java
 public class Printer<T, K> {
+    
     T content;
+    
     K content2;
 
     Printer(T content, K content2) {
@@ -143,6 +154,7 @@ public class Printer<T, K> {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         Printer<String, Integer> printer = new Printer<>("hello world", 123);
         printer.print();
@@ -158,6 +170,7 @@ public class Main {
 
 ```java
 public class Vehicle {
+    
     String brand;
 
     String color;
@@ -176,6 +189,7 @@ public class Vehicle {
 
 ```java
 public class Car extends Vehicle implements Thing {
+    
     Integer price;
 
     String name;
@@ -195,6 +209,7 @@ public class Car extends Vehicle implements Thing {
 
 ```java
 public class Bus extends Vehicle {
+    
     Integer passenger;
 
     public Bus() {
@@ -220,30 +235,9 @@ public interface Thing {
 
 我们实际在做项目的时候，可能这个类型参数不需要满足所有的类型，因此我们可以对 `T` 类型参数做一些约束，这在 Java 中我们称作为 bounded generics（有界限的泛型）。例如传入的参数类型必须是某一个类型的子类型我们可以使用 `extends`
 
-现在我们传入的参数类型必须也是 `Vehicle` 或者 `Vehicle` 的子类，例如 `Car` 或者 `Bus`
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        Printer<Car> printer = new Printer<>(new Car());
-        printer.print();
-    }
-}
-```
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        Printer<Bus> printer = new Printer<>(new Bus());
-        printer.print();
-    }
-}
-```
-
-这样做有一个好处：因为显式声明传入的参数是 `Vehicle` 的子类，所以意味着可以调用继承 `Vehicle` 父类的方法
-
 ```java
 public class Printer<T extends Vehicle> {
+    
     T content;
 
     Printer(T content) {
@@ -257,12 +251,37 @@ public class Printer<T extends Vehicle> {
 }
 ```
 
+现在我们传入的参数类型必须也是 `Vehicle` 或者 `Vehicle` 的子类，例如 `Car` 或者 `Bus`
+
+```java
+public class Main {
+    
+    public static void main(String[] args) {
+        Printer<Car> printer = new Printer<>(new Car());
+        printer.print();
+    }
+}
+```
+
+```java
+public class Main {
+    
+    public static void main(String[] args) {
+        Printer<Bus> printer = new Printer<>(new Bus());
+        printer.print();
+    }
+}
+```
+
+这样做有一个好处：因为显式声明传入的参数是 `Vehicle` 的子类，所以意味着可以调用继承 `Vehicle` 父类的方法
+
 ---
 
 我们也可以用接口的方式来约束：
 
 ```java
 public class Printer<T extends  Thing> {
+    
     T content;
 
     Printer(T content) {
@@ -279,6 +298,7 @@ public class Printer<T extends  Thing> {
 
 ```java
 public class Printer<T extends Vehicle & Thing> {
+    
     T content;
 
     Printer(T content) {
@@ -307,6 +327,7 @@ public class Printer<T extends Thing & Vehicle> { // 报错
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
         list.add(123);
@@ -320,6 +341,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("hello");
@@ -333,6 +355,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<Object> list = new ArrayList<>();
         list.add(123);
@@ -346,15 +369,18 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<Object> list = new ArrayList<>();
         list.add("hello world");
         list.add(123);
-        
-        // String item = list.get(0); // 此时编译器报错提示提供的是一个Object类型，并不是一个String类型，因此返回值不能为String
+
+        // 此时编译器报错提示提供的是一个Object类型，并不是一个String类型，因此返回值不能为String
+        // String item = list.get(0); 
         
         // 因此我们需要进行一个类型强制转换
         String item = (String) list.get(0);
+        
         // 当我们想取第二个Integer类型的元素的时候，这样写虽然编译器并不会报错
         // 但在程序运行时会报一个ClassCastException的错误（编译后字节码会泛型擦除，所以在运行时无法转换就报错了）
         String item2 = (String) list.get(1); 
@@ -370,6 +396,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     private static void print(T content) { // 报错
         System.out.println(content);
     }
@@ -380,6 +407,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         print("hello world");
         print(123);
@@ -397,6 +425,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         print("hello world"); // no instance(s) of type variable(s) exist so that String conforms to Vehicle
         print(123); // no instance(s) of type variable(s) exist so that String conforms to Vehicle
@@ -414,6 +443,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         print("hello world", 123);
     }
@@ -431,6 +461,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
         list.add(123);
@@ -448,6 +479,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("hello");
@@ -465,6 +497,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("hello");
@@ -484,6 +517,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("hello");
@@ -501,6 +535,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("hello");
@@ -514,10 +549,11 @@ public class Main {
 }
 ```
 
-`List<? extends Vehicle>` 表示传递类型必须限定为 `Vehicle` 或 `Vehicle` 的子类，在通配符里面的一种名称就叫做 upper bounded wildcard（上界限通配符）
+在通配符里面的一种名称就叫做 upper bounded wildcard（上界限通配符），`List<? extends Vehicle>` 表示传递类型必须限定为 `Vehicle` 或 `Vehicle` 的子类
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<Bus> list = new ArrayList<>();
         list.add(new Bus());
@@ -534,6 +570,7 @@ public class Main {
 
 ```java
 public class Main {
+    
     public static void main(String[] args) {
         List<Car> list = new ArrayList<>();
         list.add(new Car());
@@ -556,6 +593,7 @@ Java 泛型底层实现是类型擦除，这意味着在编译时泛型类型信
 
 ```java
 public class Box<T> {
+    
     private T value;
 
     public void setValue(T value) {
